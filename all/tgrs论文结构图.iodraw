@@ -1196,7 +1196,10 @@
           <mxGeometry x="440" y="260" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hS8SNCCi2ZpPn2T6eKnc-7" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
-          <mxGeometry x="420" y="668.6" width="20" height="20" as="geometry" />
+          <mxGeometry x="320" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hS8SNCCi2ZpPn2T6eKnc-8" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+          <mxGeometry x="330" y="630" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1082,22 +1082,6 @@
         <mxCell id="QQJ4JUsOClWdyqXELYd1-0" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Conv 1*1&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="445" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JRI8FMen8bLDiv1iqZ0q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" target="JRI8FMen8bLDiv1iqZ0q-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="314" y="300" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="314" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JRI8FMen8bLDiv1iqZ0q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" target="JRI8FMen8bLDiv1iqZ0q-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="300" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="520" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JRI8FMen8bLDiv1iqZ0q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" source="JRI8FMen8bLDiv1iqZ0q-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="350" as="targetPoint" />

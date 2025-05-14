@@ -1064,7 +1064,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nArC_qq2xOE-4qu19obl" name="Dynamic Fusion Attention">
-    <mxGraphModel dx="1769" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-0" />
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-1" parent="amBfXLu2YUz4Q0NGqrOk-0" />
@@ -1073,9 +1073,6 @@
         </mxCell>
         <mxCell id="vDlhqA0iswgFZE8Ge11o-0" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="250" y="420" width="130" height="214.87" as="geometry" />
-        </mxCell>
-        <mxCell id="amBfXLu2YUz4Q0NGqrOk-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;DFA:&amp;nbsp;Dynamic Fusion Attention&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
-          <mxGeometry x="40" y="30" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RLbZIl651HnQfVMrNMW7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" source="QQJ4JUsOClWdyqXELYd1-0" edge="1">
           <mxGeometry relative="1" as="geometry">

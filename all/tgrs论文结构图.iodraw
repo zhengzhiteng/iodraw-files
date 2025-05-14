@@ -1064,7 +1064,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nArC_qq2xOE-4qu19obl" name="Dynamic Fusion Attention">
-    <mxGraphModel dx="2095" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-0" />
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-1" parent="amBfXLu2YUz4Q0NGqrOk-0" />
@@ -1201,8 +1201,7 @@
             <mxPoint x="220" y="279.94117647058806" as="sourcePoint" />
             <mxPoint x="360" y="778.5999999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="370" />
-              <mxPoint x="210" y="370" />
+              <mxPoint x="210" y="375" />
               <mxPoint x="210" y="779" />
             </Array>
           </mxGeometry>

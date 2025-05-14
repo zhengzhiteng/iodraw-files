@@ -1128,8 +1128,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hS8SNCCi2ZpPn2T6eKnc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1" source="ckBOahQqcfMU-apdIruK-0" target="hS8SNCCi2ZpPn2T6eKnc-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hS8SNCCi2ZpPn2T6eKnc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="400" as="sourcePoint" />
+            <mxPoint x="350" y="648.5999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="519" />
+              <mxPoint x="420" y="519" />
+              <mxPoint x="420" y="649" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ckBOahQqcfMU-apdIruK-0" value="Conv 3*3 stride=1&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;br&gt;GELU&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="50" as="geometry" />

@@ -1186,7 +1186,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RLbZIl651HnQfVMrNMW7-34" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Conv 1*1&lt;br&gt;&lt;/span&gt;Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
-          <mxGeometry x="460" y="558.6" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RLbZIl651HnQfVMrNMW7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" source="RLbZIl651HnQfVMrNMW7-36" target="RLbZIl651HnQfVMrNMW7-61" edge="1">
           <mxGeometry relative="1" as="geometry" />

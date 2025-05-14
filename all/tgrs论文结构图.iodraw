@@ -1169,6 +1169,9 @@
         <mxCell id="RLbZIl651HnQfVMrNMW7-33" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Conv 1*1&lt;br&gt;&lt;/span&gt;GELU" style="rounded=0;whiteSpace=wrap;html=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="440" y="497.93" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hS8SNCCi2ZpPn2T6eKnc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1" source="RLbZIl651HnQfVMrNMW7-34" target="hS8SNCCi2ZpPn2T6eKnc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RLbZIl651HnQfVMrNMW7-34" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Conv 1*1&lt;br&gt;&lt;/span&gt;Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="440" y="570" width="130" height="40" as="geometry" />
         </mxCell>
@@ -1211,6 +1214,9 @@
         </mxCell>
         <mxCell id="ay_6FVjFuIXUdOKckK4t-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Fuse_weights[0] x SX&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="440" y="260" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hS8SNCCi2ZpPn2T6eKnc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1" source="hS8SNCCi2ZpPn2T6eKnc-7" target="RLbZIl651HnQfVMrNMW7-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hS8SNCCi2ZpPn2T6eKnc-7" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="320" y="638.6" width="20" height="20" as="geometry" />

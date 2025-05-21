@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="820" width="220" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180.1" width="250" height="600" as="geometry" />
         </mxCell>
@@ -163,7 +160,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-45" value="CGG stride=1 dim=96" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-45" value="CGG stride=1 dim=96" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="225.1" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endSize=4;" edge="1" parent="1" source="ImRbmj1zioGGOcqtN5lT-47" target="ImRbmj1zioGGOcqtN5lT-48">
@@ -178,7 +175,7 @@
         <mxCell id="ImRbmj1zioGGOcqtN5lT-47" value="SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="250.1" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-48" value="CGG stride=1 dim=96" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-48" value="CGG stride=1 dim=96" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="275.1" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=4;" edge="1" parent="1" source="ImRbmj1zioGGOcqtN5lT-50" target="ImRbmj1zioGGOcqtN5lT-57">

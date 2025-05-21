@@ -224,7 +224,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-59" value="CGG stride=2 dim=192" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-59" value="CGG stride=2 dim=192" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="505.1" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endSize=4;" edge="1" parent="1" source="ImRbmj1zioGGOcqtN5lT-61" target="ImRbmj1zioGGOcqtN5lT-62">
@@ -239,7 +239,7 @@
         <mxCell id="ImRbmj1zioGGOcqtN5lT-61" value="SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="530.1" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-62" value="CGG stride=1 dim=192" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-62" value="CGG stride=1 dim=192" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="555.1" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -253,7 +253,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-65" value="CGG stride=2 dim=384" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-65" value="CGG stride=2 dim=384" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="645.1" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endSize=4;" edge="1" parent="1" source="ImRbmj1zioGGOcqtN5lT-67" target="ImRbmj1zioGGOcqtN5lT-68">
@@ -268,7 +268,7 @@
         <mxCell id="ImRbmj1zioGGOcqtN5lT-67" value="SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="670.1" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-68" value="CGG stride=1 dim=384" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-68" value="CGG stride=1 dim=384" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="695.1" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-69" value="SEP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">

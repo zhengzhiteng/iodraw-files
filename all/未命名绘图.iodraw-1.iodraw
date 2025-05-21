@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="8">
   <diagram name="网络结构图" id="QgA5pvnUKYLyrYGypZxo">
-    <mxGraphModel dx="1781" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2608" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,15 +280,6 @@
         <mxCell id="ImRbmj1zioGGOcqtN5lT-71" value="" style="group;strokeWidth=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="520" y="398" width="259.05" height="372.7" as="geometry" />
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-72" value="&lt;span style=&quot;font-size: 12px&quot;&gt;SEP: Space-detailed Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
-          <mxGeometry x="37.549999999999834" y="43.80000000000001" width="220.99999999999994" height="18.9" as="geometry" />
-        </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-73" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;GEP: Global Context Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
-          <mxGeometry x="39.05000000000006" width="219.99999999999994" height="18.8" as="geometry" />
-        </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-74" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
-          <mxGeometry x="12.049999999999837" y="79.90000000000003" width="219.99999999999994" height="18.9" as="geometry" />
-        </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-75" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
           <mxGeometry y="119.89999999999998" width="219.99999999999994" height="18.9" as="geometry" />
         </mxCell>
@@ -330,6 +321,15 @@
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-89" value="&lt;font style=&quot;font-size: 12px&quot;&gt;1/1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="179.81" y="200.00000000000003" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-72" value="&lt;span style=&quot;font-size: 12px&quot;&gt;SEP: Space-detailed Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="5.499999999999886" y="843.8" width="220.99999999999994" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-73" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;GEP: Global Context Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="7.000000000000114" y="800" width="219.99999999999994" height="18.8" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-74" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-20.000000000000114" y="879.9000000000001" width="219.99999999999994" height="18.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

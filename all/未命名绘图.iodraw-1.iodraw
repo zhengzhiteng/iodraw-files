@@ -284,7 +284,7 @@
           <mxGeometry x="27" y="180.1" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-71" value="" style="group;strokeWidth=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="327.4" width="270" height="372.7" as="geometry" />
+          <mxGeometry x="120" y="830" width="270" height="372.7" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-76" value="&lt;span style=&quot;font-size: 12px&quot;&gt;WFB: WaterFormer Block&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
           <mxGeometry x="8.999999999999998" y="196.30000000000007" width="219.99999999999994" height="18.9" as="geometry" />

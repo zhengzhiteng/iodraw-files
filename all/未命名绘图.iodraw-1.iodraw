@@ -883,7 +883,7 @@
           <mxGeometry x="882.5" y="380" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_7EsgF8Dsdp5NfQRG1m-2" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="170" y="200" width="120" height="34.12" as="geometry" />
+          <mxGeometry x="677.5" y="70" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

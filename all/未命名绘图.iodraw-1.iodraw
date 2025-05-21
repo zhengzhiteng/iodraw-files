@@ -276,7 +276,7 @@
         <mxCell id="ImRbmj1zioGGOcqtN5lT-69" value="SEP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="179.81" y="180.1" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-70" value="GEP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-70" value="&lt;b&gt;GEP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="27" y="180.1" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-71" value="" style="group;strokeWidth=1;" vertex="1" connectable="0" parent="1">

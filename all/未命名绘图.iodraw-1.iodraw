@@ -797,7 +797,7 @@
         </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="SknShov-hAV908h2U_dY-1" target="JnD6JW-_LoQsRkfVa1l6-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735" y="140" as="sourcePoint" />
+            <mxPoint x="735" y="260" as="sourcePoint" />
             <mxPoint x="610.0299999999997" y="159.9999999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="140" />

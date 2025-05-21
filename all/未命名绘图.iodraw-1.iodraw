@@ -871,7 +871,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eszj6dALLMFw6s9C46TZ-0" value="Conv 1*1 stride=1&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;br&gt;GELU&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
-          <mxGeometry x="870" y="80" width="110" height="50" as="geometry" />
+          <mxGeometry x="870" y="60" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eszj6dALLMFw6s9C46TZ-3" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="870" y="150" width="110" height="50" as="geometry" />

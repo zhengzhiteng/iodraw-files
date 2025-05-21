@@ -314,7 +314,7 @@
           <mxGeometry x="400" y="180" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zoZYqY7OoZpfEp1gjzAN-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="280" width="230" height="295.1" as="geometry" />
+          <mxGeometry x="560" y="300" width="230" height="295.1" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-72" value="&lt;span style=&quot;font-size: 12px&quot;&gt;SEP: Space Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="zoZYqY7OoZpfEp1gjzAN-8">
           <mxGeometry y="34" width="180" height="18.9" as="geometry" />

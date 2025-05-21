@@ -285,13 +285,8 @@
         <mxCell id="ImRbmj1zioGGOcqtN5lT-76" value="&lt;span style=&quot;font-size: 12px&quot;&gt;WFB: WaterFormer Block&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
           <mxGeometry x="8.999999999999998" y="196.30000000000007" width="219.99999999999994" height="18.9" as="geometry" />
         </mxCell>
-        <mxCell id="zoZYqY7OoZpfEp1gjzAN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ImRbmj1zioGGOcqtN5lT-71" source="ImRbmj1zioGGOcqtN5lT-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-77" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
-          <mxGeometry x="34.99999999999988" y="158.8" width="219.99999999999994" height="18.9" as="geometry" />
+          <mxGeometry x="22.99999999999988" y="100.00000000000001" width="219.99999999999994" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-78" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;SA:&amp;nbsp;Spatial Attention&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
           <mxGeometry x="7.999999999999998" y="278.8" width="219.99999999999994" height="18.9" as="geometry" />

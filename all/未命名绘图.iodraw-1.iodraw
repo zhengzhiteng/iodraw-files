@@ -329,13 +329,13 @@
           <mxGeometry x="560" y="321.1" width="230" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-76" value="&lt;span style=&quot;font-size: 12px&quot;&gt;WFB: WaterFormer Block&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="355.1" width="219.99999999999994" height="18.9" as="geometry" />
+          <mxGeometry x="570" y="355.1" width="170" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-78" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;SA:&amp;nbsp;Spatial Attention&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="437.6" width="219.99999999999994" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-79" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CTC: ConvtTransposed+CGG&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="392.6" width="219.99999999999994" height="18.9" as="geometry" />
+          <mxGeometry x="570" y="392.6" width="190" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-80" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;DFA:&amp;nbsp;Dynamic Fusion Attention&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="476.19999999999993" width="219.99999999999994" height="18.9" as="geometry" />

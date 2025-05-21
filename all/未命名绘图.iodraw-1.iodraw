@@ -316,6 +316,18 @@
         <mxCell id="zoZYqY7OoZpfEp1gjzAN-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="560" y="485" width="230" height="295.1" as="geometry" />
         </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-72" value="&lt;span style=&quot;font-size: 12px&quot;&gt;SEP: Space Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="zoZYqY7OoZpfEp1gjzAN-8">
+          <mxGeometry y="34" width="180" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-73" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;GEP: Global&amp;nbsp; Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="zoZYqY7OoZpfEp1gjzAN-8">
+          <mxGeometry width="180" height="18.8" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-74" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="zoZYqY7OoZpfEp1gjzAN-8">
+          <mxGeometry y="69" width="150" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-75" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="zoZYqY7OoZpfEp1gjzAN-8">
+          <mxGeometry y="104" width="130" height="18.9" as="geometry" />
+        </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-77" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="zoZYqY7OoZpfEp1gjzAN-8">
           <mxGeometry y="138" width="230" height="18.9" as="geometry" />
         </mxCell>
@@ -330,18 +342,6 @@
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-80" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;DFA:&amp;nbsp;Dynamic Fusion Attention&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="zoZYqY7OoZpfEp1gjzAN-8">
           <mxGeometry y="276.20000000000005" width="200" height="18.9" as="geometry" />
-        </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-72" value="&lt;span style=&quot;font-size: 12px&quot;&gt;SEP: Space Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="834" width="180" height="18.9" as="geometry" />
-        </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-73" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;GEP: Global&amp;nbsp; Encoding Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="800" width="180" height="18.8" as="geometry" />
-        </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-74" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="869" width="150" height="18.9" as="geometry" />
-        </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-75" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="904" width="130" height="18.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

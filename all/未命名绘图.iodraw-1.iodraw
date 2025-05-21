@@ -334,7 +334,7 @@
           <mxGeometry x="440" y="220.00000000000003" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-75" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="270" width="219.99999999999994" height="18.9" as="geometry" />
+          <mxGeometry x="560" y="270.1" width="130" height="18.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

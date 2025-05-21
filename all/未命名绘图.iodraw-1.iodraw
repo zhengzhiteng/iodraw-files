@@ -877,7 +877,7 @@
           <mxGeometry x="870" y="150" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_7EsgF8Dsdp5NfQRG1m-0" value="CGG stride=1 dim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="875" y="299.87" width="125" height="50" as="geometry" />
+          <mxGeometry x="880" y="234.12" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_7EsgF8Dsdp5NfQRG1m-1" value="CGG stride=1 dim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="882.5" y="380" width="125" height="50" as="geometry" />

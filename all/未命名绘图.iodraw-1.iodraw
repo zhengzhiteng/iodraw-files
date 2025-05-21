@@ -289,9 +289,6 @@
         <mxCell id="ImRbmj1zioGGOcqtN5lT-76" value="&lt;span style=&quot;font-size: 12px&quot;&gt;WFB: WaterFormer Block&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
           <mxGeometry x="8.999999999999998" y="196.30000000000007" width="219.99999999999994" height="18.9" as="geometry" />
         </mxCell>
-        <mxCell id="ImRbmj1zioGGOcqtN5lT-77" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
-          <mxGeometry x="13" y="2.5999999999999996" width="230" height="18.9" as="geometry" />
-        </mxCell>
         <mxCell id="ImRbmj1zioGGOcqtN5lT-78" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;SA:&amp;nbsp;Spatial Attention&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="ImRbmj1zioGGOcqtN5lT-71">
           <mxGeometry x="7.999999999999998" y="278.8" width="219.99999999999994" height="18.9" as="geometry" />
         </mxCell>
@@ -342,6 +339,9 @@
         </mxCell>
         <mxCell id="zoZYqY7OoZpfEp1gjzAN-7" value="&lt;b&gt;DP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="180" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRbmj1zioGGOcqtN5lT-77" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="330" width="230" height="18.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

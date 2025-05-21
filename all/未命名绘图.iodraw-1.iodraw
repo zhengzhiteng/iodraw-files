@@ -774,11 +774,11 @@
         </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="734.4099999999999" y="159.9999999999999" as="targetPoint" />
-            <mxPoint x="734" y="120" as="sourcePoint" />
+            <mxPoint x="734.9899999999999" y="199.9999999999999" as="targetPoint" />
+            <mxPoint x="734.58" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="734" y="130" />
-              <mxPoint x="734" y="130" />
+              <mxPoint x="734.58" y="170" />
+              <mxPoint x="734.58" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -893,7 +893,7 @@
           <mxGeometry x="890" y="230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_7EsgF8Dsdp5NfQRG1m-0" value="CGG stride=1 dim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="680" y="209.87" width="125" height="50" as="geometry" />
+          <mxGeometry x="675" y="200" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

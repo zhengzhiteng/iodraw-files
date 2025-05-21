@@ -720,7 +720,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-0" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool（1）&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
-          <mxGeometry x="675" y="280" width="120" height="20" as="geometry" />
+          <mxGeometry x="675" y="280" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="JnD6JW-_LoQsRkfVa1l6-1" target="JnD6JW-_LoQsRkfVa1l6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -893,7 +893,7 @@
           <mxGeometry x="890" y="230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_7EsgF8Dsdp5NfQRG1m-0" value="CGG stride=1 dim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="675" y="210" width="125" height="50" as="geometry" />
+          <mxGeometry x="680" y="209.87" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

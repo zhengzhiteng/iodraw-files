@@ -374,7 +374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="空间编码模块" id="JZH0tlI5lFqqktYxJhyT">
-    <mxGraphModel dx="2095" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-0" />
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-1" parent="dNt8cs0NnFaqjmXe_LxG-0" />
@@ -548,6 +548,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="679.16" y="170" as="targetPoint" />
             <mxPoint x="679.16" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_y4WBWMNdlvOX6W3ReBw-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="dNt8cs0NnFaqjmXe_LxG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="210" as="sourcePoint" />
+            <mxPoint x="480" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

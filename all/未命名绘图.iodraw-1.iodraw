@@ -1228,9 +1228,6 @@
         <mxCell id="YQklLfKWa5GEqkpriRG5-84" value="GroupNorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
           <mxGeometry x="560" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YQklLfKWa5GEqkpriRG5-85" value="CGG stride= 2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
-          <mxGeometry x="345" y="520" width="120" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -314,10 +314,7 @@
           <mxGeometry x="400" y="180" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-80" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="550" y="485" width="230" height="295.1" as="geometry" />
-        </mxCell>
-        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-83" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
-          <mxGeometry y="55" width="130" height="18.9" as="geometry" />
+          <mxGeometry x="550" y="480" width="230" height="295.1" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-84" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
           <mxGeometry y="81" width="110" height="18.9" as="geometry" />
@@ -354,6 +351,9 @@
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-81" value="&lt;font size=&quot;1&quot;&gt;SP: Spatial&amp;nbsp;&amp;nbsp;Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="421.2" width="110" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-83" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="430" width="130" height="18.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -599,7 +599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="WaterFormer Block" id="p_6HGoBJOrWiiVVnz0Y8">
-    <mxGraphModel dx="848" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="SknShov-hAV908h2U_dY-0" />
         <mxCell id="SknShov-hAV908h2U_dY-1" parent="SknShov-hAV908h2U_dY-0" />
@@ -907,7 +907,7 @@
           <mxGeometry x="87.5" y="875.5" width="125" height="34.12" as="geometry" />
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-10" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="915" y="554.12" width="120" height="20" as="geometry" />
+          <mxGeometry x="920" y="514.12" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-11" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="920" y="170.00000000000003" width="120" height="20" as="geometry" />
@@ -928,10 +928,13 @@
           <mxGeometry x="920" y="319.87" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-21" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="1035" y="352.06" width="120" height="34.12" as="geometry" />
+          <mxGeometry x="920" y="364.12" width="120" height="34.12" as="geometry" />
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-22" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="920" y="459.87" width="120" height="34.12" as="geometry" />
+        </mxCell>
+        <mxCell id="I5_M7kl6qDf5bj-6pHCp-23" value="Droupout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="925" y="720.62" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

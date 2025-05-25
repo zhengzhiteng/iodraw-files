@@ -1949,14 +1949,10 @@
             <mxPoint x="349.9999999999998" y="190.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-12" value="GELU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="30" y="284.12" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-16" target="pnrj8t9_Ts-zUxGbmUp4-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-16" value="GELU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="160" y="284.12" width="120" height="20" as="geometry" />
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="pnrj8t9_Ts-zUxGbmUp4-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="304.1199999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-22" target="pnrj8t9_Ts-zUxGbmUp4-27">
           <mxGeometry relative="1" as="geometry" />
@@ -2256,7 +2252,7 @@
           <mxGeometry x="180" y="34.85" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-95" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="34.85000000000001" width="120" height="70" as="geometry" />
+          <mxGeometry x="30" y="199.85000000000002" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-96" value="Dilated Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="330" y="39.7" width="120" height="65.15" as="geometry" />

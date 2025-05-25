@@ -523,7 +523,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RI9klGPdsh6WuwiVJuI2-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;cat&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
-          <mxGeometry x="820" y="244" width="30" height="21" as="geometry" />
+          <mxGeometry x="624.5" y="229" width="30" height="21" as="geometry" />
         </mxCell>
         <mxCell id="PJI9A86YgHMaVG1DfKh4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="dNt8cs0NnFaqjmXe_LxG-1" source="9QK90_BgsbM7oHKc_7yZ-0">
           <mxGeometry relative="1" as="geometry">
@@ -956,16 +956,6 @@
       <root>
         <mxCell id="Ch5N7zrcnO-6_MTL2m9U-0" />
         <mxCell id="Ch5N7zrcnO-6_MTL2m9U-1" parent="Ch5N7zrcnO-6_MTL2m9U-0" />
-        <mxCell id="D0ASo5uVtfcFNLG4wjKs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Ch5N7zrcnO-6_MTL2m9U-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="80" as="sourcePoint" />
-            <mxPoint x="1005" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="870" y="80" />
-              <mxPoint x="870" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D0ASo5uVtfcFNLG4wjKs-20" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Patch Embedding&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Ch5N7zrcnO-6_MTL2m9U-1" vertex="1">
           <mxGeometry x="330" y="460" width="150" height="20" as="geometry" />
         </mxCell>

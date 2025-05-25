@@ -2233,6 +2233,9 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-127" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="484.85" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-131" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="514.12" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

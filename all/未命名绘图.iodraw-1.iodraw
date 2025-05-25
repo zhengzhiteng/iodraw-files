@@ -353,7 +353,7 @@
           <mxGeometry x="560" y="441.2" width="150" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-85" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="511.2" width="225" height="18.9" as="geometry" />
+          <mxGeometry x="560" y="470.65" width="225" height="18.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

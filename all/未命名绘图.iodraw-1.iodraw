@@ -682,7 +682,7 @@
         <mxCell id="v-qCRvlxvTqUrzBeYtgO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="-WBXYig6S8fIoqWudhxW-0" target="-WBXYig6S8fIoqWudhxW-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WBXYig6S8fIoqWudhxW-0" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
+        <mxCell id="-WBXYig6S8fIoqWudhxW-0" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="160" y="324.12" width="120" height="18.25" as="geometry" />
         </mxCell>
         <mxCell id="-WBXYig6S8fIoqWudhxW-6" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
@@ -801,7 +801,7 @@
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="JnD6JW-_LoQsRkfVa1l6-4" target="JnD6JW-_LoQsRkfVa1l6-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JnD6JW-_LoQsRkfVa1l6-4" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
+        <mxCell id="JnD6JW-_LoQsRkfVa1l6-4" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="680" y="449.87" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="JnD6JW-_LoQsRkfVa1l6-9" target="JnD6JW-_LoQsRkfVa1l6-10" edge="1">

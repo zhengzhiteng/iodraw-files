@@ -431,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-8" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
-          <mxGeometry x="690" y="190" width="90" height="20" as="geometry" />
+          <mxGeometry x="690" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-9" target="df09MMB43p8mw-MxBvYl-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -490,7 +490,8 @@
             <mxPoint x="610" y="391" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="570" y="430" />
-              <mxPoint x="570" y="160" />
+              <mxPoint x="570" y="150" />
+              <mxPoint x="680" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -548,6 +549,9 @@
             <mxPoint x="679.16" y="170" as="targetPoint" />
             <mxPoint x="679.16" y="110" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PJI9A86YgHMaVG1DfKh4-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="dNt8cs0NnFaqjmXe_LxG-1" source="CrAUslVOyUPzSaw92y8J-1" target="CrAUslVOyUPzSaw92y8J-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

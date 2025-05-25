@@ -1791,6 +1791,9 @@
         <mxCell id="PS0H76r6_eSSGx6Okzjh-11" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RwV5V-OvxnRUEqBrJ8uQ-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

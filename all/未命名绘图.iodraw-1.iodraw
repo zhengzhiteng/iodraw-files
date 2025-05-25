@@ -2147,6 +2147,9 @@
         <mxCell id="PL2ydgy9f2NaXw4orvz8-2" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="360" y="289.99999999999994" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="PL2ydgy9f2NaXw4orvz8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PL2ydgy9f2NaXw4orvz8-3" target="PL2ydgy9f2NaXw4orvz8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-3" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="50" as="geometry" />
         </mxCell>
@@ -2157,7 +2160,7 @@
           <mxGeometry x="360" y="150" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-6" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Droupout&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
-          <mxGeometry x="720" y="454.55" width="120" height="70" as="geometry" />
+          <mxGeometry x="360" y="460" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-7" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Droupout&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="650" y="554.55" width="120" height="70" as="geometry" />

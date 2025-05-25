@@ -1922,6 +1922,11 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-48" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;MWCMSA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="450" y="349.93" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nsy6RDV3f3SK3sO_JMek-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509.9999999999998" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-50" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;CG-MLP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="450" y="469.93" width="120" height="40" as="geometry" />
         </mxCell>
@@ -2048,7 +2053,7 @@
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-127">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="560" as="targetPoint" />
+            <mxPoint x="220" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-127" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">

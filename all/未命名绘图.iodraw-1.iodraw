@@ -2163,8 +2163,11 @@
         <mxCell id="nsy6RDV3f3SK3sO_JMek-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="699.5799999999998" y="116.82999999999998" as="targetPoint" />
-            <mxPoint x="700" y="100" as="sourcePoint" />
+            <mxPoint x="700" y="90" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nsy6RDV3f3SK3sO_JMek-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

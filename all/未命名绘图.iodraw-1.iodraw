@@ -2168,6 +2168,16 @@
         <mxCell id="PL2ydgy9f2NaXw4orvz8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PL2ydgy9f2NaXw4orvz8-5" target="PL2ydgy9f2NaXw4orvz8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PL2ydgy9f2NaXw4orvz8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PL2ydgy9f2NaXw4orvz8-5" target="PL2ydgy9f2NaXw4orvz8-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="185" />
+              <mxPoint x="340" y="345" />
+              <mxPoint x="390" y="345" />
+              <mxPoint x="390" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-5" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GroupNorm&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;GELU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="120" height="70" as="geometry" />
         </mxCell>

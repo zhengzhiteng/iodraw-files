@@ -1574,11 +1574,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="1yQM1GyB59wasutCPzgv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1" source="chJo41XKXM66YXtrNE4b-28" target="RLbZIl651HnQfVMrNMW7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="chJo41XKXM66YXtrNE4b-28" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="360" y="350" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1yQM1GyB59wasutCPzgv-0" value="&lt;font color=&quot;#000000&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C3ABD0;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
-          <mxGeometry x="660" y="650" width="120" height="18.25" as="geometry" />
         </mxCell>
         <mxCell id="1yQM1GyB59wasutCPzgv-1" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="360" y="700" width="120" height="40" as="geometry" />

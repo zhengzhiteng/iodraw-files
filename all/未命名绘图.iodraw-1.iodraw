@@ -540,6 +540,9 @@
             <mxPoint x="679.16" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Bw7cpXMc2P3gLTDrd90V-0" value="Conv 3×3 stride=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="dNt8cs0NnFaqjmXe_LxG-1">
+          <mxGeometry x="260" y="205" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

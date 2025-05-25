@@ -1047,10 +1047,10 @@
           <mxGeometry x="665" y="395.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-12" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="660" y="240.25" width="125" height="34.12" as="geometry" />
+          <mxGeometry x="660" y="225.75" width="130" height="34.12" as="geometry" />
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-13" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="95" y="735.5" width="130" height="50" as="geometry" />
+          <mxGeometry x="660" y="274.37" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

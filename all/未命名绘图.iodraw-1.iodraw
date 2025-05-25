@@ -915,9 +915,6 @@
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-13" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="660" y="102.06" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I5_M7kl6qDf5bj-6pHCp-18" value="&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool（1）&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a9c4eb;labelBackgroundColor=none;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="660" y="272.06" width="120" height="17.94" as="geometry" />
-        </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-23" value="Droupout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="660" y="616.1800000000001" width="110" height="20" as="geometry" />
         </mxCell>
@@ -937,7 +934,7 @@
           <mxGeometry x="660" y="534.12" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xLOWNlnCebdOWcO027cA-0" value="AdaMaxPool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="540" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="675" y="284.12" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

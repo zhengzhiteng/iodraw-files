@@ -1222,13 +1222,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YQklLfKWa5GEqkpriRG5-101" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
-          <mxGeometry x="435" y="250" width="20" height="20" as="geometry" />
+          <mxGeometry x="435" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YQklLfKWa5GEqkpriRG5-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="Ch5N7zrcnO-6_MTL2m9U-1" source="YQklLfKWa5GEqkpriRG5-107" target="YQklLfKWa5GEqkpriRG5-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQklLfKWa5GEqkpriRG5-107" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
-          <mxGeometry x="390" y="290" width="110" height="40" as="geometry" />
+          <mxGeometry x="385" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YQklLfKWa5GEqkpriRG5-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="Ch5N7zrcnO-6_MTL2m9U-1" source="YQklLfKWa5GEqkpriRG5-108">
           <mxGeometry relative="1" as="geometry">

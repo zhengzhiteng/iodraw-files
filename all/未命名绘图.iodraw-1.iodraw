@@ -401,7 +401,7 @@
         <mxCell id="df09MMB43p8mw-MxBvYl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-1" target="df09MMB43p8mw-MxBvYl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="df09MMB43p8mw-MxBvYl-1" value="Conv 3×3 stride=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#583318;strokeColor=#000000;fillStyle=auto;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
+        <mxCell id="df09MMB43p8mw-MxBvYl-1" value="Conv 3×3 stride=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#000000;fillStyle=auto;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="250" y="195" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-2" target="df09MMB43p8mw-MxBvYl-3" edge="1">
@@ -458,7 +458,7 @@
         <mxCell id="df09MMB43p8mw-MxBvYl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-11" target="df09MMB43p8mw-MxBvYl-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="df09MMB43p8mw-MxBvYl-11" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Conv 1*1 stride=1&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
+        <mxCell id="df09MMB43p8mw-MxBvYl-11" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Conv 1*1 stride=1&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97d077;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="620" y="260" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CrAUslVOyUPzSaw92y8J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-14" edge="1" target="9QK90_BgsbM7oHKc_7yZ-0">

@@ -466,7 +466,7 @@
             <mxPoint x="680" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="df09MMB43p8mw-MxBvYl-14" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#ffffff;strokeColor=#001DBC;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
+        <mxCell id="df09MMB43p8mw-MxBvYl-14" value="&lt;font color=&quot;#000000&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#ffffff;strokeColor=#000000;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="619.5" y="380" width="120" height="18.25" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-15" target="df09MMB43p8mw-MxBvYl-14" edge="1">

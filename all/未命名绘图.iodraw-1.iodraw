@@ -2277,6 +2277,12 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-111" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="50" y="344.85" width="60" height="25.15" as="geometry" />
         </mxCell>
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-112" value="Key" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="344.85" width="60" height="25.15" as="geometry" />
+        </mxCell>
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-113" value="Value" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="344.85" width="60" height="25.15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

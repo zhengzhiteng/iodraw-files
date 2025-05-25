@@ -2309,7 +2309,11 @@
           <mxGeometry x="330" y="359.70000000000005" width="60" height="25.15" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-118" target="pnrj8t9_Ts-zUxGbmUp4-123">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-118" value="L2 Norm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="1">
           <mxGeometry x="50" y="409.4" width="60" height="20.6" as="geometry" />

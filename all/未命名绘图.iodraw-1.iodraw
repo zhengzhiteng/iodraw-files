@@ -771,9 +771,6 @@
         <mxCell id="-WBXYig6S8fIoqWudhxW-29" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="240" y="554.12" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JnD6JW-_LoQsRkfVa1l6-1" value="Conv 1*1&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
-          <mxGeometry x="150" y="190" width="130" height="40.13" as="geometry" />
-        </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="JnD6JW-_LoQsRkfVa1l6-2" target="JnD6JW-_LoQsRkfVa1l6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1036,6 +1033,9 @@
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-4" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="455" y="603.97" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I5_M7kl6qDf5bj-6pHCp-5" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="780" y="298.31" width="120" height="34.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

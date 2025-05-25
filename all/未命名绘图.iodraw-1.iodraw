@@ -313,15 +313,6 @@
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-79" value="&lt;b&gt;DP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-80" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="570" y="610" width="230" height="155.1" as="geometry" />
-        </mxCell>
-        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-87" value="&lt;font size=&quot;1&quot; face=&quot;helvetica&quot;&gt;SA:&amp;nbsp;Spatial Attention Mechanism&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
-          <mxGeometry y="120" width="220" height="17.12" as="geometry" />
-        </mxCell>
-        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-89" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;DFA:&amp;nbsp;Dynamic Fusion Attention&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
-          <mxGeometry y="-0.0035479498474728643" width="200" height="9.933547949847508" as="geometry" />
-        </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-90" value="SIE&amp;nbsp; Block1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="299.81" y="200.10000000000002" width="80" height="20" as="geometry" />
         </mxCell>
@@ -354,6 +345,12 @@
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-88" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CTC: ConvtTransposed+CGG&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="584.9960013554727" width="190" height="9.933547949847508" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-87" value="&lt;font size=&quot;1&quot; face=&quot;helvetica&quot;&gt;SA:&amp;nbsp;Spatial Attention Mechanism&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="730" width="220" height="17.12" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-89" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;DFA:&amp;nbsp;Dynamic Fusion Attention&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="609.9964520501526" width="200" height="9.933547949847508" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -2143,6 +2143,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nsy6RDV3f3SK3sO_JMek-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219.66000000000008" y="169.33" as="targetPoint" />
+            <mxPoint x="219.66000000000008" y="114.33000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

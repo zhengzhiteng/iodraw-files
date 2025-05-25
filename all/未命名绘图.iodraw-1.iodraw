@@ -830,16 +830,6 @@
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-14" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="725" y="489.87" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JnD6JW-_LoQsRkfVa1l6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="734.9899999999999" y="199.9999999999999" as="targetPoint" />
-            <mxPoint x="734.58" y="160" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="734.58" y="170" />
-              <mxPoint x="734.58" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v-qCRvlxvTqUrzBeYtgO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="PVIhHMJtX50EFLzalg9M-2" target="v-qCRvlxvTqUrzBeYtgO-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1067,7 +1057,7 @@
           <mxGeometry x="1210" y="709.62" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-28" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="672.5" y="200" width="125" height="50" as="geometry" />
+          <mxGeometry x="680" y="130" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

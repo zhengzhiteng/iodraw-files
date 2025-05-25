@@ -1806,6 +1806,9 @@
         <mxCell id="RwV5V-OvxnRUEqBrJ8uQ-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="490" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RwV5V-OvxnRUEqBrJ8uQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PS0H76r6_eSSGx6Okzjh-1" target="RwV5V-OvxnRUEqBrJ8uQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

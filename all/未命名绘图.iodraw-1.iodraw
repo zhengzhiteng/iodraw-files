@@ -380,7 +380,7 @@
           <mxGeometry x="555" y="545.19" width="230" height="9.93" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-11" value="&lt;font size=&quot;1&quot; face=&quot;helvetica&quot;&gt;DP:Decoding Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="421.3" width="123" height="18.8" as="geometry" />
+          <mxGeometry x="560" y="421.3" width="110" height="18.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

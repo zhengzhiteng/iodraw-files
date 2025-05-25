@@ -980,7 +980,7 @@
           <mxGeometry x="910" y="339.87000000000006" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rgpbQTzKCOhFfvvaXfKB-31" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="880" y="109.85" width="120" height="70" as="geometry" />
+          <mxGeometry x="1049" y="59.99999999999999" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rgpbQTzKCOhFfvvaXfKB-32" value="GELU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="910" y="379.87" width="120" height="20" as="geometry" />
@@ -1001,7 +1001,7 @@
           <mxGeometry x="880" y="197.06" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6d3ngj1R9WS8n0enQFsM-1" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GroupNorm&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;GELU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="190" y="44.85" width="120" height="70" as="geometry" />
+          <mxGeometry x="1040" y="224.12" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

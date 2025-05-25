@@ -374,7 +374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="空间编码模块" id="JZH0tlI5lFqqktYxJhyT">
-    <mxGraphModel dx="1228" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-0" />
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-1" parent="dNt8cs0NnFaqjmXe_LxG-0" />

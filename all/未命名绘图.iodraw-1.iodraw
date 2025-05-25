@@ -2169,7 +2169,7 @@
             <mxPoint x="700" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nsy6RDV3f3SK3sO_JMek-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="nsy6RDV3f3SK3sO_JMek-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsy6RDV3f3SK3sO_JMek-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="399.93" as="sourcePoint" />
             <mxPoint x="450" y="349.93" as="targetPoint" />

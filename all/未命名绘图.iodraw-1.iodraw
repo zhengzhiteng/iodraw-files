@@ -1600,8 +1600,8 @@
         <mxCell id="chJo41XKXM66YXtrNE4b-25" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="965" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="chJo41XKXM66YXtrNE4b-27" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;Fuse Feature&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE599;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
-          <mxGeometry x="355" y="249" width="130" height="40" as="geometry" />
+        <mxCell id="chJo41XKXM66YXtrNE4b-27" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;Fuse Feature&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B5739D;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+          <mxGeometry x="360" y="249" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="chJo41XKXM66YXtrNE4b-28" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="360" y="310" width="120" height="40" as="geometry" />

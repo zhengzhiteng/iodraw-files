@@ -352,7 +352,7 @@
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-89" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;DFA:&amp;nbsp;Dynamic Fusion Attention&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="557.5" y="680.1664520501525" width="200" height="9.933547949847508" as="geometry" />
         </mxCell>
-        <mxCell id="lXrTtENWtKTPEh5-WtYs-1" value="&lt;font size=&quot;1&quot;&gt;GIE:Global information extraction&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="lXrTtENWtKTPEh5-WtYs-1" value="&lt;font size=&quot;1&quot;&gt;GIE:Spatial Information Extraction&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="570.17" width="230" height="9.93" as="geometry" />
         </mxCell>
       </root>

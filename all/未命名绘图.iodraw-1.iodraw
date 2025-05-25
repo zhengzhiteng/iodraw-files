@@ -1020,7 +1020,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-21" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;Fuse Feature&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B5739D;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="1210" y="298.62" width="120" height="40" as="geometry" />
+          <mxGeometry x="1200" y="298.62" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="SknShov-hAV908h2U_dY-1" source="bnU-yhNTb6oHsP0ibReh-25" target="bnU-yhNTb6oHsP0ibReh-5">
           <mxGeometry relative="1" as="geometry">

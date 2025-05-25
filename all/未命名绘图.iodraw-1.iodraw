@@ -1049,6 +1049,9 @@
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-9" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="672.5" y="270" width="125" height="34.12" as="geometry" />
         </mxCell>
+        <mxCell id="I5_M7kl6qDf5bj-6pHCp-10" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="40" y="254.12" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

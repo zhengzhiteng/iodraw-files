@@ -1175,6 +1175,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="260" as="sourcePoint" />
             <mxPoint x="279.9999999999998" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YQklLfKWa5GEqkpriRG5-86" value="MaxPool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
@@ -1220,11 +1223,7 @@
           <mxGeometry x="145" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9vWwuUb_6AI8yU7qqWz8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="Ch5N7zrcnO-6_MTL2m9U-1" source="YQklLfKWa5GEqkpriRG5-101" target="YQklLfKWa5GEqkpriRG5-107">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="260" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQklLfKWa5GEqkpriRG5-101" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
           <mxGeometry x="435" y="230" width="20" height="20" as="geometry" />

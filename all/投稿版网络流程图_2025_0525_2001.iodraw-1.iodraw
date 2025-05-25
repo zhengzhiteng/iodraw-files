@@ -337,20 +337,8 @@
         <mxCell id="3k7h06tl1KcaaQ49gb2t-84" value="" style="group;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="558" y="449.99999999999994" width="232.5" height="314.3135479498476" as="geometry" />
         </mxCell>
-        <mxCell id="3k7h06tl1KcaaQ49gb2t-85" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;GP: Global Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
-          <mxGeometry width="110" height="18.8" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7h06tl1KcaaQ49gb2t-86" value="&lt;font size=&quot;1&quot;&gt;SP: Spatial&amp;nbsp;&amp;nbsp;Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
-          <mxGeometry y="29.549999999999955" width="110" height="18.9" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7h06tl1KcaaQ49gb2t-87" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
-          <mxGeometry y="89.35" width="130" height="18.9" as="geometry" />
-        </mxCell>
         <mxCell id="3k7h06tl1KcaaQ49gb2t-88" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;CGG: Conv3×3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
           <mxGeometry x="-7" y="210.55000000000007" width="230" height="18.9" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7h06tl1KcaaQ49gb2t-89" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
-          <mxGeometry x="-2" y="124.54" width="120" height="9.93" as="geometry" />
         </mxCell>
         <mxCell id="3k7h06tl1KcaaQ49gb2t-90" value="&lt;font size=&quot;1&quot;&gt;GIE:Global Information Extraction&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
           <mxGeometry x="-2" y="154.54" width="210" height="9.93" as="geometry" />
@@ -367,8 +355,20 @@
         <mxCell id="3k7h06tl1KcaaQ49gb2t-94" value="&lt;font size=&quot;1&quot;&gt;SIE:Spatial Information Extraction&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
           <mxGeometry x="-2" y="184.54" width="210" height="9.93" as="geometry" />
         </mxCell>
-        <mxCell id="3k7h06tl1KcaaQ49gb2t-95" value="&lt;font size=&quot;1&quot;&gt;DP:Decoding Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="3k7h06tl1KcaaQ49gb2t-84">
-          <mxGeometry y="60.650000000000034" width="120" height="18.8" as="geometry" />
+        <mxCell id="3k7h06tl1KcaaQ49gb2t-85" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;GP: Global Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="42" y="790" width="110" height="18.8" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7h06tl1KcaaQ49gb2t-86" value="&lt;font size=&quot;1&quot;&gt;SP: Spatial&amp;nbsp;&amp;nbsp;Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="42" y="819.55" width="110" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7h06tl1KcaaQ49gb2t-87" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="42" y="879.3499999999999" width="130" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7h06tl1KcaaQ49gb2t-89" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="40" y="914.54" width="120" height="9.93" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7h06tl1KcaaQ49gb2t-95" value="&lt;font size=&quot;1&quot;&gt;DP:Decoding Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="42" y="850.65" width="120" height="18.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

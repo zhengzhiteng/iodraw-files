@@ -1033,11 +1033,16 @@
         <mxCell id="bnU-yhNTb6oHsP0ibReh-27" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="1230" y="645.37" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="I5_M7kl6qDf5bj-6pHCp-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="SknShov-hAV908h2U_dY-1" source="bnU-yhNTb6oHsP0ibReh-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-28" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="672.5" y="190" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-29" value="&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool（1）&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a9c4eb;labelBackgroundColor=none;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="667.5" y="274.05" width="130" height="40.13" as="geometry" />
+          <mxGeometry x="672.5" y="259.87" width="130" height="40.13" as="geometry" />
         </mxCell>
         <mxCell id="bu3PO8kdUJSSLYiox8YF-0" value="GroupNorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="170" y="670" width="120" height="30" as="geometry" />

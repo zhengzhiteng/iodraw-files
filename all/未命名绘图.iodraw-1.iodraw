@@ -936,6 +936,9 @@
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-28" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="660" y="534.12" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xLOWNlnCebdOWcO027cA-0" value="AdaMaxPool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="540" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

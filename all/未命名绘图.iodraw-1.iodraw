@@ -1755,6 +1755,9 @@
         <mxCell id="PS0H76r6_eSSGx6Okzjh-1" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;" vertex="1" parent="1">
           <mxGeometry x="320" y="449.99999999999994" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RwV5V-OvxnRUEqBrJ8uQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PS0H76r6_eSSGx6Okzjh-2" target="PS0H76r6_eSSGx6Okzjh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PS0H76r6_eSSGx6Okzjh-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="1">
           <mxGeometry x="320" y="570" width="120" height="20" as="geometry" />
         </mxCell>
@@ -1782,8 +1785,13 @@
         <mxCell id="PS0H76r6_eSSGx6Okzjh-6" value="&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool（1）&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a9c4eb;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="120" height="17.94" as="geometry" />
         </mxCell>
+        <mxCell id="RwV5V-OvxnRUEqBrJ8uQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PS0H76r6_eSSGx6Okzjh-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PS0H76r6_eSSGx6Okzjh-7" value="Droupout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="616.5" width="120" height="20" as="geometry" />
+          <mxGeometry x="320" y="610" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RwV5V-OvxnRUEqBrJ8uQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PS0H76r6_eSSGx6Okzjh-8" target="PS0H76r6_eSSGx6Okzjh-10">
           <mxGeometry relative="1" as="geometry" />

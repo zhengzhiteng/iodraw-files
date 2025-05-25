@@ -2145,13 +2145,13 @@
           <mxGeometry x="590" y="680" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-2" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
-          <mxGeometry x="600" y="279.84999999999997" width="120" height="70" as="geometry" />
+          <mxGeometry x="360" y="289.99999999999994" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-3" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-4" value="&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="600" y="209.55" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-5" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GroupNorm&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;GELU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="120" height="70" as="geometry" />

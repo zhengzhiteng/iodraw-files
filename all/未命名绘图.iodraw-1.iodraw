@@ -918,7 +918,7 @@
           <mxGeometry x="862.5" y="214.12" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_7EsgF8Dsdp5NfQRG1m-1" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
-          <mxGeometry x="882.5" y="380" width="125" height="50" as="geometry" />
+          <mxGeometry x="890" y="314.12" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_7EsgF8Dsdp5NfQRG1m-2" value="Depth-wise&lt;br&gt;Conv 3×3&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;br style=&quot;font-family: helvetica;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GELU&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="1190" y="60" width="120" height="70" as="geometry" />
@@ -1035,7 +1035,7 @@
           <mxGeometry x="455" y="603.97" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-5" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="780" y="298.31" width="120" height="34.12" as="geometry" />
+          <mxGeometry x="675" y="270" width="120" height="34.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

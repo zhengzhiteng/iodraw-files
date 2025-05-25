@@ -985,7 +985,7 @@
         <mxCell id="rgpbQTzKCOhFfvvaXfKB-32" value="GELU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="910" y="379.87" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rgpbQTzKCOhFfvvaXfKB-33" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GroupNorm&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+        <mxCell id="rgpbQTzKCOhFfvvaXfKB-33" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GroupNorm&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;GELU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="880" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>

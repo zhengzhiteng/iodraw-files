@@ -446,7 +446,7 @@
             <mxPoint x="680" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="df09MMB43p8mw-MxBvYl-9" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AdaMaxPool&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
+        <mxCell id="df09MMB43p8mw-MxBvYl-9" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;AdaMaxPool&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="580" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-10" target="df09MMB43p8mw-MxBvYl-15" edge="1">

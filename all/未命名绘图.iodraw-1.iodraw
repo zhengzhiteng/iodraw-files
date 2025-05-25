@@ -1580,6 +1580,11 @@
         <mxCell id="chJo41XKXM66YXtrNE4b-28" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="360" y="350" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1yQM1GyB59wasutCPzgv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1" source="1yQM1GyB59wasutCPzgv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1yQM1GyB59wasutCPzgv-1" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="360" y="700" width="120" height="40" as="geometry" />
         </mxCell>

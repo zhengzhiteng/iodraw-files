@@ -1250,6 +1250,11 @@
         <mxCell id="YQklLfKWa5GEqkpriRG5-98" value="CGG stride= 2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
           <mxGeometry x="150" y="610" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YQklLfKWa5GEqkpriRG5-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="Ch5N7zrcnO-6_MTL2m9U-1" source="YQklLfKWa5GEqkpriRG5-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YQklLfKWa5GEqkpriRG5-101" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
           <mxGeometry x="635" y="280" width="20" height="20" as="geometry" />
         </mxCell>

@@ -603,7 +603,7 @@
       <root>
         <mxCell id="SknShov-hAV908h2U_dY-0" />
         <mxCell id="SknShov-hAV908h2U_dY-1" parent="SknShov-hAV908h2U_dY-0" />
-        <mxCell id="-WBXYig6S8fIoqWudhxW-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
+        <mxCell id="-WBXYig6S8fIoqWudhxW-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="20" y="154.12" width="400" height="430" as="geometry" />
         </mxCell>
         <mxCell id="Yv2poYSiTgN62lC3XTJ9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="BF406QywDnadDecCsVIW-9" target="WEkyRXiHfWz_6v0GJ9Ji-1" edge="1">
@@ -1038,12 +1038,6 @@
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-29" value="&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool（1）&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a9c4eb;labelBackgroundColor=none;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="672.5" y="259.87" width="130" height="40.13" as="geometry" />
-        </mxCell>
-        <mxCell id="bu3PO8kdUJSSLYiox8YF-0" value="GroupNorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="170" y="670" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bu3PO8kdUJSSLYiox8YF-1" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GELU&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="540" y="755" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

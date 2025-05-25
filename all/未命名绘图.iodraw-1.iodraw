@@ -428,7 +428,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-8" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
-          <mxGeometry x="700" y="190" width="80" height="20" as="geometry" />
+          <mxGeometry x="690" y="190" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-9" target="df09MMB43p8mw-MxBvYl-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -444,7 +444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-9" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AdaMaxPool&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
-          <mxGeometry x="580" y="190" width="80" height="20" as="geometry" />
+          <mxGeometry x="580" y="190" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-10" target="df09MMB43p8mw-MxBvYl-15" edge="1">
           <mxGeometry relative="1" as="geometry" />

@@ -991,8 +991,8 @@
         <mxCell id="v_i3FNwXrZgRhV4hYNuu-0" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="40" y="34.85000000000001" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="v_i3FNwXrZgRhV4hYNuu-1" value="Dilated Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="350" y="34.849999999999994" width="120" height="34.12" as="geometry" />
+        <mxCell id="v_i3FNwXrZgRhV4hYNuu-1" value="Dilated Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="350" y="37.28" width="120" height="65.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1607,8 +1607,8 @@
         <mxCell id="chJo41XKXM66YXtrNE4b-25" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="965" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="chJo41XKXM66YXtrNE4b-27" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Fuse_weights[0] x SX&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
-          <mxGeometry x="270" y="170" width="130" height="40" as="geometry" />
+        <mxCell id="chJo41XKXM66YXtrNE4b-27" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;Fuse Feature&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+          <mxGeometry x="355" y="240" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

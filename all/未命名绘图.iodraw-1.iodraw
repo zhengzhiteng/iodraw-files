@@ -603,6 +603,9 @@
       <root>
         <mxCell id="SknShov-hAV908h2U_dY-0" />
         <mxCell id="SknShov-hAV908h2U_dY-1" parent="SknShov-hAV908h2U_dY-0" />
+        <mxCell id="rgpbQTzKCOhFfvvaXfKB-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="630" y="58.82000000000001" width="400" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="-WBXYig6S8fIoqWudhxW-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="20" y="154.12" width="400" height="430" as="geometry" />
         </mxCell>

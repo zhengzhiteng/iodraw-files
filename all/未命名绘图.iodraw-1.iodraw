@@ -1224,6 +1224,12 @@
         <mxCell id="YQklLfKWa5GEqkpriRG5-93" value="CGG stride= 2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
           <mxGeometry x="190" y="470" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YQklLfKWa5GEqkpriRG5-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="390" as="targetPoint" />
+            <mxPoint x="385" y="341" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

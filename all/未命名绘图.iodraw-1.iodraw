@@ -20,7 +20,7 @@
           <mxGeometry x="865" y="620.05" width="230" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="972.5" y="500.1" width="150" height="19.9" as="geometry" />
+          <mxGeometry x="560" y="450.1" width="150" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="360.1" width="120" height="19.9" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="560" y="390.20000000000005" width="120" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="450" width="130" height="19.9" as="geometry" />
+          <mxGeometry x="865" y="559.9" width="130" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865" y="590.1" width="220" height="19.9" as="geometry" />
@@ -362,13 +362,13 @@
           <mxGeometry x="560" y="390.19999999999993" width="110" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-83" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="500" width="150" height="18.9" as="geometry" />
+          <mxGeometry x="557.5" y="450" width="150" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-85" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="862.5" y="621.1" width="230" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-84" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="557.5" y="454.99" width="130" height="9.93" as="geometry" />
+          <mxGeometry x="862.5" y="564.89" width="130" height="9.93" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-86" value="&lt;font size=&quot;1&quot;&gt;GIE:Global Information Extraction&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="420.19" width="230" height="9.93" as="geometry" />

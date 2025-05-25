@@ -382,8 +382,8 @@
         <mxCell id="lXrTtENWtKTPEh5-WtYs-10" value="Decoding path" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="687.5" y="370" width="120" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="lXrTtENWtKTPEh5-WtYs-11" value="&lt;font size=&quot;1&quot; face=&quot;helvetica&quot;&gt;Decoding path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="416.29999999999995" width="110" height="18.8" as="geometry" />
+        <mxCell id="lXrTtENWtKTPEh5-WtYs-11" value="&lt;font size=&quot;1&quot; face=&quot;helvetica&quot;&gt;DP:Decoding path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="416.3" width="143" height="18.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

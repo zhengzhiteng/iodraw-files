@@ -1052,8 +1052,8 @@
         <mxCell id="I5_M7kl6qDf5bj-6pHCp-13" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="660" y="150" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I5_M7kl6qDf5bj-6pHCp-16" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="105" y="745.5" width="130" height="50" as="geometry" />
+        <mxCell id="I5_M7kl6qDf5bj-6pHCp-17" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="670" y="345.37" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

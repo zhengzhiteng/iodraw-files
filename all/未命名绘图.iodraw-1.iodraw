@@ -1925,12 +1925,6 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-50" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;CG-MLP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="450" y="469.93" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="509.5" y="269.93" as="targetPoint" />
-            <mxPoint x="509.5" y="229.93" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-53" target="pnrj8t9_Ts-zUxGbmUp4-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2132,6 +2126,12 @@
         </mxCell>
         <mxCell id="nsy6RDV3f3SK3sO_JMek-17" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;" vertex="1" parent="1">
           <mxGeometry x="640" y="456.8299999999999" width="120" height="25.45" as="geometry" />
+        </mxCell>
+        <mxCell id="nsy6RDV3f3SK3sO_JMek-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509.66" y="269.93" as="targetPoint" />
+            <mxPoint x="509.66" y="214.93" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

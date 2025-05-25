@@ -455,7 +455,7 @@
         <mxCell id="f9l-F_avMu3lqJ55QC85-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-10" target="RI9klGPdsh6WuwiVJuI2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="df09MMB43p8mw-MxBvYl-10" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Batch Norm&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
+        <mxCell id="df09MMB43p8mw-MxBvYl-10" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;InstanceNorm2d&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="580" y="310" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-11" target="df09MMB43p8mw-MxBvYl-10" edge="1">
@@ -952,7 +952,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PE PM" id="NayXbhBrOaj6a8aXcHVi">
-    <mxGraphModel dx="1781" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Ch5N7zrcnO-6_MTL2m9U-0" />
         <mxCell id="Ch5N7zrcnO-6_MTL2m9U-1" parent="Ch5N7zrcnO-6_MTL2m9U-0" />

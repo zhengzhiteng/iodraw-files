@@ -353,7 +353,7 @@
           <mxGeometry x="557.5" y="420.1" width="150" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-85" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="281.20000000000005" width="225" height="18.9" as="geometry" />
+          <mxGeometry x="610" y="206.2" width="230" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-84" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="557.5" y="454.99" width="130" height="9.93" as="geometry" />

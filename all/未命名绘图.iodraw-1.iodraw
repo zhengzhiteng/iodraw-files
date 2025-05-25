@@ -379,7 +379,7 @@
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-0" />
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-1" parent="dNt8cs0NnFaqjmXe_LxG-0" />
         <mxCell id="CrAUslVOyUPzSaw92y8J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
-          <mxGeometry x="560" y="140" width="230" height="310" as="geometry" />
+          <mxGeometry x="560" y="122.75" width="230" height="327.25" as="geometry" />
         </mxCell>
         <mxCell id="CrAUslVOyUPzSaw92y8J-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="240" y="160" width="140" height="220" as="geometry" />

@@ -1066,6 +1066,9 @@
         <mxCell id="bnU-yhNTb6oHsP0ibReh-27" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="1210" y="709.62" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bnU-yhNTb6oHsP0ibReh-28" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+          <mxGeometry x="892.5" y="390" width="125" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

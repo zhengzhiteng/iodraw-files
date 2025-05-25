@@ -1756,7 +1756,7 @@
           <mxGeometry x="320" y="449.99999999999994" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PS0H76r6_eSSGx6Okzjh-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="1">
-          <mxGeometry x="320" y="575" width="120" height="20" as="geometry" />
+          <mxGeometry x="320" y="570" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PS0H76r6_eSSGx6Okzjh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PS0H76r6_eSSGx6Okzjh-3" target="PS0H76r6_eSSGx6Okzjh-6">
           <mxGeometry relative="1" as="geometry" />

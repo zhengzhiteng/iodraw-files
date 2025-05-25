@@ -380,7 +380,7 @@
           <mxGeometry x="905" y="355.00000000000006" width="120" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-10" value="Decoding path" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="870" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="687.5" y="355" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

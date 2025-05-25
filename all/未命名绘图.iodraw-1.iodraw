@@ -2282,17 +2282,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-109" target="pnrj8t9_Ts-zUxGbmUp4-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="340" />
+              <mxPoint x="360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-109" value="Window Paritition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="160" y="301.45000000000005" width="120" height="23.4" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-111" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="50" y="354.72" width="60" height="25.15" as="geometry" />
+          <mxGeometry x="50" y="359.70000000000005" width="60" height="25.15" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-112" value="Key" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="190" y="359.70000000000005" width="60" height="25.15" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-113" value="Value" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="330" y="349.85" width="60" height="25.15" as="geometry" />
+          <mxGeometry x="330" y="359.70000000000005" width="60" height="25.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

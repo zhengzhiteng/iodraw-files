@@ -1566,6 +1566,14 @@
         <mxCell id="chJo41XKXM66YXtrNE4b-27" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;Fuse Feature&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B5739D;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="360" y="289" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1yQM1GyB59wasutCPzgv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1" source="chJo41XKXM66YXtrNE4b-28" target="dhxq_z1jxUvlknF1VJ-J-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="410" />
+              <mxPoint x="330" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="chJo41XKXM66YXtrNE4b-28" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry x="360" y="350" width="120" height="40" as="geometry" />
         </mxCell>

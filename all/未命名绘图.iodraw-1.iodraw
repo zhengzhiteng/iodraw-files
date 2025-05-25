@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="8">
   <diagram name="网络结构图" id="MdCcJns53WIW_9ASE64-">
-    <mxGraphModel dx="594" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +350,7 @@
           <mxGeometry x="560" y="421.2" width="110" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-83" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="441.2" width="150" height="18.9" as="geometry" />
+          <mxGeometry x="560" y="440.65" width="150" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-85" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="470.65" width="225" height="18.9" as="geometry" />

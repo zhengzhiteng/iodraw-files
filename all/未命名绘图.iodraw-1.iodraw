@@ -13,17 +13,11 @@
         <mxCell id="lXrTtENWtKTPEh5-WtYs-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="660.0500000000001" width="200" height="19.9" as="geometry" />
         </mxCell>
-        <mxCell id="lXrTtENWtKTPEh5-WtYs-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="420.20000000000005" width="120" height="19.9" as="geometry" />
-        </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="570.15" width="230" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="360.1" width="120" height="19.9" as="geometry" />
-        </mxCell>
-        <mxCell id="lXrTtENWtKTPEh5-WtYs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="390.20000000000005" width="120" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="540.2" width="220" height="19.9" as="geometry" />
@@ -380,7 +374,7 @@
           <mxGeometry x="555" y="545.19" width="230" height="9.93" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-11" value="&lt;font size=&quot;1&quot; face=&quot;helvetica&quot;&gt;DP:Decoding Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="421.3" width="110" height="18.8" as="geometry" />
+          <mxGeometry x="560" y="421.3" width="120" height="18.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

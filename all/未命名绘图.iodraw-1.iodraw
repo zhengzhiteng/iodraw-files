@@ -2141,6 +2141,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PL2ydgy9f2NaXw4orvz8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PL2ydgy9f2NaXw4orvz8-1" target="PL2ydgy9f2NaXw4orvz8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="554.55" width="20" height="20" as="geometry" />
         </mxCell>
@@ -2179,6 +2182,9 @@
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-8" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="360" y="404.55" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PL2ydgy9f2NaXw4orvz8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PL2ydgy9f2NaXw4orvz8-9" target="PL2ydgy9f2NaXw4orvz8-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-9" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;" vertex="1" parent="1">
           <mxGeometry x="360" y="469.1" width="120" height="20.9" as="geometry" />

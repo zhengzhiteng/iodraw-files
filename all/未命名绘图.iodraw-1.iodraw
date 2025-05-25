@@ -1034,10 +1034,10 @@
           <mxGeometry x="1230" y="645.37" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-28" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="672.5" y="174.12" width="125" height="50" as="geometry" />
+          <mxGeometry x="672.5" y="190" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-29" value="&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;AdaAvgPool（1）&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a9c4eb;labelBackgroundColor=none;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
-          <mxGeometry x="670" y="259.74" width="130" height="40.13" as="geometry" />
+          <mxGeometry x="667.5" y="274.05" width="130" height="40.13" as="geometry" />
         </mxCell>
         <mxCell id="bu3PO8kdUJSSLYiox8YF-0" value="GroupNorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="170" y="670" width="120" height="30" as="geometry" />

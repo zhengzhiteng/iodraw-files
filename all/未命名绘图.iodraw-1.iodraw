@@ -964,7 +964,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNkMpm9HTkNOdfIZCO6n-0" value="Conv 3*3 stride=2&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;br&gt;GELU&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ch5N7zrcnO-6_MTL2m9U-1" vertex="1">
-          <mxGeometry x="450" y="180" width="110" height="50" as="geometry" />
+          <mxGeometry x="460" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D0ASo5uVtfcFNLG4wjKs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="Ch5N7zrcnO-6_MTL2m9U-1" source="dNkMpm9HTkNOdfIZCO6n-5" target="dNkMpm9HTkNOdfIZCO6n-15" edge="1">
           <mxGeometry relative="1" as="geometry" />

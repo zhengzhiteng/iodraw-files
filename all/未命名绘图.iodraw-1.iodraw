@@ -2163,10 +2163,10 @@
           <mxGeometry x="650" y="554.55" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-8" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
-          <mxGeometry x="600" y="374.55" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="380" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PL2ydgy9f2NaXw4orvz8-9" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="414.55" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="420" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

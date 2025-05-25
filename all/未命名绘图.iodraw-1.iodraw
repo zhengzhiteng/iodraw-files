@@ -2237,7 +2237,10 @@
           <mxGeometry x="930" y="554.55" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-135" value="Conv 1*1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
-          <mxGeometry x="670" y="424.55" width="120" height="20" as="geometry" />
+          <mxGeometry x="880" y="374.55" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-136" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="464.55" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

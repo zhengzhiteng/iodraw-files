@@ -771,11 +771,6 @@
         <mxCell id="-WBXYig6S8fIoqWudhxW-29" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="240" y="554.12" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JnD6JW-_LoQsRkfVa1l6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" target="JnD6JW-_LoQsRkfVa1l6-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735" y="299.8699999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="JnD6JW-_LoQsRkfVa1l6-1" target="JnD6JW-_LoQsRkfVa1l6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1032,6 +1027,9 @@
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-27" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="1230" y="645.37" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I5_M7kl6qDf5bj-6pHCp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="SknShov-hAV908h2U_dY-1" source="bnU-yhNTb6oHsP0ibReh-28" target="bnU-yhNTb6oHsP0ibReh-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bnU-yhNTb6oHsP0ibReh-28" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
           <mxGeometry x="670" y="120" width="130" height="50" as="geometry" />

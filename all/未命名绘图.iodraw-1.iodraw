@@ -326,10 +326,10 @@
           <mxGeometry x="299.81" y="620.1" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360.1" width="120" height="19.9" as="geometry" />
+          <mxGeometry x="575" y="345.20000000000005" width="120" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-82" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px&quot;&gt;GP: Global Path&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="565" y="360.65" width="110" height="18.8" as="geometry" />
+          <mxGeometry x="560" y="396.3" width="110" height="18.8" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-81" value="&lt;font size=&quot;1&quot;&gt;SP: Spatial&amp;nbsp;&amp;nbsp;Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="421.2" width="110" height="18.9" as="geometry" />
@@ -357,6 +357,15 @@
         </mxCell>
         <mxCell id="lXrTtENWtKTPEh5-WtYs-1" value="&lt;font size=&quot;1&quot;&gt;GIE:Spatial Information Extraction&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="584" width="230" height="9.93" as="geometry" />
+        </mxCell>
+        <mxCell id="lXrTtENWtKTPEh5-WtYs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="396.30000000000007" width="120" height="19.9" as="geometry" />
+        </mxCell>
+        <mxCell id="lXrTtENWtKTPEh5-WtYs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="435.1" width="120" height="19.9" as="geometry" />
+        </mxCell>
+        <mxCell id="lXrTtENWtKTPEh5-WtYs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="375.20000000000005" width="120" height="19.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

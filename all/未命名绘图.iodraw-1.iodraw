@@ -316,9 +316,6 @@
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-80" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="580" y="545" width="230" height="155.1" as="geometry" />
         </mxCell>
-        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-86" value="&lt;span style=&quot;font-size: 12px&quot;&gt;WFB: WaterFormer Block&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
-          <mxGeometry y="90.92612673669942" width="170" height="9.933547949847508" as="geometry" />
-        </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-87" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;SA:&amp;nbsp;Spatial Attention&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
           <mxGeometry y="127.19146052185698" width="140" height="9.933547949847508" as="geometry" />
         </mxCell>
@@ -327,9 +324,6 @@
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-89" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;DFA:&amp;nbsp;Dynamic Fusion Attention&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
           <mxGeometry y="145.16645205015251" width="200" height="9.933547949847508" as="geometry" />
-        </mxCell>
-        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-84" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="FdcF6cqEyxFnp-Y8ymd7-80" vertex="1">
-          <mxGeometry x="-10" width="130" height="9.933547949847508" as="geometry" />
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-90" value="SIE&amp;nbsp; Block1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="299.81" y="200.10000000000002" width="80" height="20" as="geometry" />
@@ -354,6 +348,12 @@
         </mxCell>
         <mxCell id="FdcF6cqEyxFnp-Y8ymd7-85" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;CGG: Conv3*3+GroupNorm+GELU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="470.65" width="225" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-84" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="500" width="130" height="9.93" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcF6cqEyxFnp-Y8ymd7-86" value="&lt;span style=&quot;font-size: 12px&quot;&gt;WFB: WaterFormer Block&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="529.9961267366994" width="170" height="9.933547949847508" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

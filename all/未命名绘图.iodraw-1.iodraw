@@ -771,9 +771,6 @@
         <mxCell id="-WBXYig6S8fIoqWudhxW-29" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="240" y="554.12" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JnD6JW-_LoQsRkfVa1l6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="JnD6JW-_LoQsRkfVa1l6-1" target="JnD6JW-_LoQsRkfVa1l6-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-1" value="Conv 1*1&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="680" y="320" width="110" height="20" as="geometry" />
         </mxCell>
@@ -781,7 +778,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-2" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;GroupNorm&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;labelBackgroundColor=none;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
-          <mxGeometry x="680" y="364.12" width="110" height="20" as="geometry" />
+          <mxGeometry x="670" y="390" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JnD6JW-_LoQsRkfVa1l6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="JnD6JW-_LoQsRkfVa1l6-3" target="JnD6JW-_LoQsRkfVa1l6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />

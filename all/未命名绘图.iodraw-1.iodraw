@@ -1768,7 +1768,7 @@
           <mxGeometry x="320" y="290" width="120" height="17.94" as="geometry" />
         </mxCell>
         <mxCell id="PS0H76r6_eSSGx6Okzjh-7" value="Droupout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="575" width="110" height="20" as="geometry" />
+          <mxGeometry x="320" y="530" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PS0H76r6_eSSGx6Okzjh-8" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="1">
           <mxGeometry x="320" y="370.00000000000006" width="120" height="20" as="geometry" />

@@ -2247,8 +2247,13 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-99" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GroupNorm&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;GELU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="880" y="114.85000000000001" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-102" value="Feature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="100" width="120" height="24.85" as="geometry" />
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="pnrj8t9_Ts-zUxGbmUp4-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="112.41666666666663" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="112" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

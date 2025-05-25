@@ -956,11 +956,11 @@
       <root>
         <mxCell id="Ch5N7zrcnO-6_MTL2m9U-0" />
         <mxCell id="Ch5N7zrcnO-6_MTL2m9U-1" parent="Ch5N7zrcnO-6_MTL2m9U-0" />
-        <mxCell id="D0ASo5uVtfcFNLG4wjKs-20" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Patch Embedding&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Ch5N7zrcnO-6_MTL2m9U-1" vertex="1">
-          <mxGeometry x="160" y="430" width="150" height="20" as="geometry" />
+        <mxCell id="D0ASo5uVtfcFNLG4wjKs-20" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;(a) Patch Embedding&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Ch5N7zrcnO-6_MTL2m9U-1" vertex="1">
+          <mxGeometry x="190" y="435" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fe21w638qowP_oHEjw6N-0" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Patch Merging&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Ch5N7zrcnO-6_MTL2m9U-1" vertex="1">
-          <mxGeometry x="710" y="535" width="150" height="20" as="geometry" />
+          <mxGeometry x="400" y="435" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DfYvfRUWZkDrjw_kG7JS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
           <mxGeometry relative="1" as="geometry">

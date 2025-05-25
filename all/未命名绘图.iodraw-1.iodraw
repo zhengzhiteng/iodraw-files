@@ -2283,7 +2283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-109" value="Window Paritition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="306.6" width="120" height="18.25" as="geometry" />
+          <mxGeometry x="160" y="301.45000000000005" width="120" height="23.4" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-111" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="50" y="354.72" width="60" height="25.15" as="geometry" />

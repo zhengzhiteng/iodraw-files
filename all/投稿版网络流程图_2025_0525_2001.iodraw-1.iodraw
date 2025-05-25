@@ -359,10 +359,10 @@
           <mxGeometry x="89.81" y="826.4799999999999" width="110" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="3k7h06tl1KcaaQ49gb2t-87" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;PE: Patch Embedding&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="89.81" y="889.2799999999999" width="130" height="18.9" as="geometry" />
+          <mxGeometry x="89.81" y="883.2799999999999" width="130" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="3k7h06tl1KcaaQ49gb2t-89" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="87.81" y="924.4699999999999" width="120" height="9.93" as="geometry" />
+          <mxGeometry x="87.81" y="918.4699999999999" width="120" height="9.93" as="geometry" />
         </mxCell>
         <mxCell id="3k7h06tl1KcaaQ49gb2t-95" value="&lt;font size=&quot;1&quot;&gt;DP:Decoding Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="89.81" y="854.5799999999999" width="120" height="18.8" as="geometry" />

@@ -2230,10 +2230,10 @@
           <mxGeometry x="920" y="534.12" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-94" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GroupNorm&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;GELU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="159.85" width="120" height="70" as="geometry" />
+          <mxGeometry x="160" y="159.85" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-95" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="164.85000000000002" width="120" height="70" as="geometry" />
+          <mxGeometry x="20" y="34.85000000000002" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-96" value="Dilated Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="330" y="39.7" width="120" height="65.15" as="geometry" />

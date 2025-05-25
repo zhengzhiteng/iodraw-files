@@ -2236,7 +2236,7 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-131" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="514.12" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-133" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;font-family: helvetica;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-133" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Droupout&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="850" y="404.84999999999997" width="120" height="70" as="geometry" />
         </mxCell>
       </root>

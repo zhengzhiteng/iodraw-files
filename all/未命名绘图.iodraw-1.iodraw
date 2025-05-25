@@ -379,7 +379,7 @@
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-0" />
         <mxCell id="dNt8cs0NnFaqjmXe_LxG-1" parent="dNt8cs0NnFaqjmXe_LxG-0" />
         <mxCell id="CrAUslVOyUPzSaw92y8J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
-          <mxGeometry x="560" y="122.75" width="230" height="327.25" as="geometry" />
+          <mxGeometry x="560" y="140" width="230" height="310" as="geometry" />
         </mxCell>
         <mxCell id="CrAUslVOyUPzSaw92y8J-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="240" y="160" width="140" height="220" as="geometry" />
@@ -549,9 +549,6 @@
             <mxPoint x="679.16" y="170" as="targetPoint" />
             <mxPoint x="679.16" y="110" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PJI9A86YgHMaVG1DfKh4-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="dNt8cs0NnFaqjmXe_LxG-1" source="CrAUslVOyUPzSaw92y8J-1" target="CrAUslVOyUPzSaw92y8J-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

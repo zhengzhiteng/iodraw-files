@@ -392,7 +392,7 @@
         <mxCell id="df09MMB43p8mw-MxBvYl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-1" target="df09MMB43p8mw-MxBvYl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="df09MMB43p8mw-MxBvYl-1" value="Conv 3*3 stride=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fillStyle=auto;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
+        <mxCell id="df09MMB43p8mw-MxBvYl-1" value="Conv 3×3 stride=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fillStyle=auto;" parent="dNt8cs0NnFaqjmXe_LxG-1" vertex="1">
           <mxGeometry x="250" y="195" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="df09MMB43p8mw-MxBvYl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNt8cs0NnFaqjmXe_LxG-1" source="df09MMB43p8mw-MxBvYl-2" target="df09MMB43p8mw-MxBvYl-3" edge="1">

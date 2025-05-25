@@ -1962,18 +1962,8 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-8" value="Dilated Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="120" height="34.12" as="geometry" />
         </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-10" target="pnrj8t9_Ts-zUxGbmUp4-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-10" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="1">
           <mxGeometry x="30" y="244.12" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="pnrj8t9_Ts-zUxGbmUp4-12" target="pnrj8t9_Ts-zUxGbmUp4-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="333" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-12" value="GELU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="30" y="284.12" width="120" height="20" as="geometry" />

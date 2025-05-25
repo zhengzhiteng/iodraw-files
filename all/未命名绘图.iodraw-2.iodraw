@@ -172,7 +172,7 @@
             <mxPoint x="360.80999999999995" y="280.0999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3k7h06tl1KcaaQ49gb2t-45" value="SAM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="3k7h06tl1KcaaQ49gb2t-45" value="SAM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FAA40F;strokeColor=#C73500;fontColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="199.81" y="250.1" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3k7h06tl1KcaaQ49gb2t-46" value="CGG stride=1 dim=96" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">

@@ -1234,6 +1234,9 @@
         <mxCell id="YQklLfKWa5GEqkpriRG5-107" value="Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
           <mxGeometry x="590" y="320" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YQklLfKWa5GEqkpriRG5-108" value="GroupNorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="Ch5N7zrcnO-6_MTL2m9U-1">
+          <mxGeometry x="590" y="384" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

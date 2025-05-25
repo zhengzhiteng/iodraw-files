@@ -839,7 +839,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVIhHMJtX50EFLzalg9M-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
+        <mxCell id="PVIhHMJtX50EFLzalg9M-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="470" y="259.87" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v-qCRvlxvTqUrzBeYtgO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="SknShov-hAV908h2U_dY-1" source="v-qCRvlxvTqUrzBeYtgO-0" target="v-qCRvlxvTqUrzBeYtgO-6" edge="1">

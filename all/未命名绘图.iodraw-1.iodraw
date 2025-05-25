@@ -2305,6 +2305,9 @@
         <mxCell id="pnrj8t9_Ts-zUxGbmUp4-118" value="L2 Norm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="1">
           <mxGeometry x="50" y="409.4" width="60" height="20.6" as="geometry" />
         </mxCell>
+        <mxCell id="pnrj8t9_Ts-zUxGbmUp4-119" value="L2 Norm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;" vertex="1" parent="1">
+          <mxGeometry x="190" y="409.40000000000003" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

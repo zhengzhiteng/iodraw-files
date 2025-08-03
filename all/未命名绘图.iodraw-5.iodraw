@@ -363,7 +363,7 @@
           <mxGeometry x="78" y="824.9300000000001" width="120" height="18.8" as="geometry" />
         </mxCell>
         <mxCell id="xBrlPn9NxW_LUPqJT8dZ-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;FSH: Feature Segmentation Head&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="879.33" width="188" height="30" as="geometry" />
+          <mxGeometry x="67" y="879.33" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1106,7 +1106,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Dynamic Fusion Attention" id="Q0lUyAZf2Rbcg17uBcG6">
-    <mxGraphModel dx="1781" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-0" />
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-1" parent="amBfXLu2YUz4Q0NGqrOk-0" />
@@ -1230,8 +1230,14 @@
         </mxCell>
         <mxCell id="bN-h9SWL2eoCcyc-c8_N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="427" y="270" as="sourcePoint" />
-            <mxPoint x="427" y="291" as="targetPoint" />
+            <mxPoint x="400" y="268" as="sourcePoint" />
+            <mxPoint x="400" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bN-h9SWL2eoCcyc-c8_N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="278" as="sourcePoint" />
+            <mxPoint x="410" y="299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

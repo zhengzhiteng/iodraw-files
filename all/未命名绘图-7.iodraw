@@ -558,7 +558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="WaterFormer Block" id="KMVmTOGaPCG2lL-ccXP4">
-    <mxGraphModel dx="1484" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="SknShov-hAV908h2U_dY-0" />
         <mxCell id="SknShov-hAV908h2U_dY-1" parent="SknShov-hAV908h2U_dY-0" />
@@ -898,13 +898,13 @@
         <mxCell id="eszj6dALLMFw6s9C46TZ-3" value="Depth-wise&lt;br&gt;Conv 3×3&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="870" y="150" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I_7EsgF8Dsdp5NfQRG1m-0" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim × 4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+        <mxCell id="I_7EsgF8Dsdp5NfQRG1m-0" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim × 4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="862.5" y="214.12" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I_7EsgF8Dsdp5NfQRG1m-1" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+        <mxCell id="I_7EsgF8Dsdp5NfQRG1m-1" value="CGG stride=1&amp;nbsp;&lt;div&gt;dim&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="882.5" y="380" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I_7EsgF8Dsdp5NfQRG1m-2" value="Depth-wise&lt;br&gt;Conv 3×3&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;br style=&quot;font-family: helvetica;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GELU&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SknShov-hAV908h2U_dY-1">
+        <mxCell id="I_7EsgF8Dsdp5NfQRG1m-2" value="Depth-wise&lt;br&gt;Conv 3×3&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;GroupNorm&lt;/span&gt;&lt;br style=&quot;font-family: helvetica;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: helvetica; background-color: initial;&quot;&gt;GELU&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="690" y="70" width="120" height="70" as="geometry" />
         </mxCell>
       </root>

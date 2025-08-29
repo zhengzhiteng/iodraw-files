@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17" pages="8">
   <diagram name="网络结构图" id="iN4BixEvEWExOrgmJ-lr">
-    <mxGraphModel dx="848" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="409" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,10 +357,10 @@
           <mxGeometry x="69" y="844.7299999999998" width="130" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="xBrlPn9NxW_LUPqJT8dZ-96" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;PM:&amp;nbsp;Patch Merging&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="67" y="869.3999999999999" width="120" height="9.93" as="geometry" />
+          <mxGeometry x="64.81" y="869.3999999999999" width="120" height="9.93" as="geometry" />
         </mxCell>
         <mxCell id="xBrlPn9NxW_LUPqJT8dZ-97" value="&lt;font size=&quot;1&quot;&gt;DP: Decoding Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;strokeWidth=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="78" y="824.9300000000001" width="120" height="18.8" as="geometry" />
+          <mxGeometry x="68" y="824.9300000000001" width="120" height="18.8" as="geometry" />
         </mxCell>
         <mxCell id="xBrlPn9NxW_LUPqJT8dZ-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;FSH: Feature Segmentation Head&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="67" y="879.33" width="200" height="30" as="geometry" />

@@ -173,9 +173,6 @@
         <mxCell id="bA2Vvin1QDb5efjkwnER-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.138;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="bA2Vvin1QDb5efjkwnER-14" target="bA2Vvin1QDb5efjkwnER-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bA2Vvin1QDb5efjkwnER-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

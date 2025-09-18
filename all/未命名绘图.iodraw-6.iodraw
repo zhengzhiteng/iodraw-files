@@ -256,7 +256,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7QPklypGFdapNRxdESpw-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="420" height="75" as="geometry" />
+          <mxGeometry x="190" y="500" width="420" height="95" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-31" target="7QPklypGFdapNRxdESpw-32">
           <mxGeometry relative="1" as="geometry" />
@@ -317,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-10" value="精度评价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-13" target="7QPklypGFdapNRxdESpw-5">
           <mxGeometry relative="1" as="geometry" />
@@ -357,6 +357,9 @@
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-38" value="模型测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="339" y="402" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-39" value="结果分析与报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

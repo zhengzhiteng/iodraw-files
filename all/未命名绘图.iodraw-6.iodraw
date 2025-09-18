@@ -355,7 +355,7 @@
         <mxCell id="7QPklypGFdapNRxdESpw-37" value="模型训练与验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-38" value="模型训练与验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7QPklypGFdapNRxdESpw-38" value="模型测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="405" width="120" height="30" as="geometry" />
         </mxCell>
       </root>

@@ -259,10 +259,10 @@
           <mxGeometry x="480" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-3" value="自制&lt;div&gt;水体数据集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-5" value="开源&lt;div&gt;水体数据集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-7" value="网络构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
@@ -280,7 +280,7 @@
           <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-15" value="数据集&lt;div&gt;划分和增强&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

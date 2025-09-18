@@ -345,7 +345,10 @@
           <mxGeometry x="420" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-36" value="数据准备与预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="40" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-37" value="模型训练与验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="285" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

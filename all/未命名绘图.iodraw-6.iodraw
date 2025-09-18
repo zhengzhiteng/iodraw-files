@@ -283,7 +283,7 @@
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-11" value="数据增强" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="280" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

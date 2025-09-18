@@ -294,7 +294,7 @@
         <mxCell id="7QPklypGFdapNRxdESpw-21" value="对测试集进行提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-22" value="保存最佳模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7QPklypGFdapNRxdESpw-22" value="后处理及可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

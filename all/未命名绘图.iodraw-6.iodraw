@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bA2Vvin1QDb5efjkwnER-1" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bA2Vvin1QDb5efjkwnER-1" value="X&lt;sup&gt;0,0&lt;/sup&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="180" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bA2Vvin1QDb5efjkwnER-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="bA2Vvin1QDb5efjkwnER-2" target="bA2Vvin1QDb5efjkwnER-3">

@@ -261,7 +261,7 @@
         <mxCell id="7QPklypGFdapNRxdESpw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-31" target="7QPklypGFdapNRxdESpw-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7QPklypGFdapNRxdESpw-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="405" width="420" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-30" target="7QPklypGFdapNRxdESpw-31">
@@ -356,7 +356,7 @@
           <mxGeometry x="340" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-38" value="模型测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="405" width="120" height="30" as="geometry" />
+          <mxGeometry x="339" y="402" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

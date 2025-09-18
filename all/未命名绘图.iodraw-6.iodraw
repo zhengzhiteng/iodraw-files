@@ -255,6 +255,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7QPklypGFdapNRxdESpw-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="420" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-2" target="7QPklypGFdapNRxdESpw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -322,9 +325,6 @@
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-23" value="结果对比及结论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="520" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="30" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -256,10 +256,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7QPklypGFdapNRxdESpw-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="420" height="90" as="geometry" />
+          <mxGeometry x="190" y="520" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="420" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-30" target="7QPklypGFdapNRxdESpw-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="310" width="420" height="90" as="geometry" />
@@ -292,6 +295,9 @@
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-5" value="开源&lt;div&gt;水体数据集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-7" target="7QPklypGFdapNRxdESpw-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-7" value="网络构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="40" as="geometry" />

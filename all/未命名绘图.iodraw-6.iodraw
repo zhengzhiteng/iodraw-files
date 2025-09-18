@@ -282,8 +282,11 @@
         <mxCell id="7QPklypGFdapNRxdESpw-15" value="数据集&lt;div&gt;划分和增强&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-18" value="网络构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="250" width="120" height="40" as="geometry" />
+        <mxCell id="7QPklypGFdapNRxdESpw-18" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="335" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-19" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="345" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

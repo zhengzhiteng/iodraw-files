@@ -184,9 +184,6 @@
         <mxCell id="bA2Vvin1QDb5efjkwnER-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.138;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="bA2Vvin1QDb5efjkwnER-14" target="bA2Vvin1QDb5efjkwnER-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bA2Vvin1QDb5efjkwnER-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rotation=55;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="46.77" y="334.91" width="682.66" height="101.29" as="geometry" />
-        </mxCell>
         <mxCell id="bA2Vvin1QDb5efjkwnER-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="140" as="sourcePoint" />

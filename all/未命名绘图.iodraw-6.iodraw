@@ -361,7 +361,10 @@
         <mxCell id="7QPklypGFdapNRxdESpw-39" value="结果分析与报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="504.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-41" value="数据下载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7QPklypGFdapNRxdESpw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7QPklypGFdapNRxdESpw-41" target="7QPklypGFdapNRxdESpw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-41" value="遥感影像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-20" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -285,8 +285,11 @@
         <mxCell id="7QPklypGFdapNRxdESpw-18" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="335" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-19" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="345" width="120" height="40" as="geometry" />
+        <mxCell id="7QPklypGFdapNRxdESpw-19" value="保存最佳模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="335" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-20" value="保存最佳模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="345" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

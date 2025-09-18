@@ -173,8 +173,8 @@
         <mxCell id="bA2Vvin1QDb5efjkwnER-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.138;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="bA2Vvin1QDb5efjkwnER-14" target="bA2Vvin1QDb5efjkwnER-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bA2Vvin1QDb5efjkwnER-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rotation=55;" vertex="1" parent="1">
-          <mxGeometry x="33.7" y="307.91" width="710" height="144.19" as="geometry" />
+        <mxCell id="bA2Vvin1QDb5efjkwnER-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rotation=55;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="41.89" y="320.07" width="710" height="124.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

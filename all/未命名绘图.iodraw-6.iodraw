@@ -247,7 +247,7 @@
         <mxCell id="bA2Vvin1QDb5efjkwnER-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;上采样&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="540" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bA2Vvin1QDb5efjkwnER-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;上采样&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="bA2Vvin1QDb5efjkwnER-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;跳跃链接&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="590" width="110" height="30" as="geometry" />
         </mxCell>
       </root>

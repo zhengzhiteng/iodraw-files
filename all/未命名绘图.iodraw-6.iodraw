@@ -265,10 +265,7 @@
           <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-5" value="开源&lt;div&gt;水体数据集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7QPklypGFdapNRxdESpw-6" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="120" height="120" as="geometry" />
+          <mxGeometry x="320" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7QPklypGFdapNRxdESpw-7" value="网络训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />

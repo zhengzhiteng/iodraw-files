@@ -58,13 +58,12 @@
         <mxCell id="bA2Vvin1QDb5efjkwnER-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="bA2Vvin1QDb5efjkwnER-3" target="bA2Vvin1QDb5efjkwnER-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bA2Vvin1QDb5efjkwnER-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="bA2Vvin1QDb5efjkwnER-3">
+        <mxCell id="bA2Vvin1QDb5efjkwnER-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="bA2Vvin1QDb5efjkwnER-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="350" />
-              <mxPoint x="560" y="381" />
-              <mxPoint x="700" y="381" />
+              <mxPoint x="420" y="350" />
+              <mxPoint x="700" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>

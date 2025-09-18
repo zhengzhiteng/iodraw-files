@@ -361,6 +361,9 @@
         <mxCell id="7QPklypGFdapNRxdESpw-39" value="结果分析与报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="504.5" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7QPklypGFdapNRxdESpw-40" value="数据下载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-10" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

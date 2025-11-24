@@ -1106,7 +1106,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Dynamic Fusion Attention" id="LziVmIxmyVyuW1n2G87D">
-    <mxGraphModel dx="659" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-0" />
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-1" parent="amBfXLu2YUz4Q0NGqrOk-0" />
@@ -1227,6 +1227,12 @@
         </mxCell>
         <mxCell id="1yQM1GyB59wasutCPzgv-1" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="360" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGEaLNTmAVfvitpYSioR-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="790" as="targetPoint" />
+            <mxPoint x="430" y="750" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

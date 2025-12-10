@@ -81,6 +81,9 @@
         <mxCell id="hx1TLB436QOQA7q2v5dS-76" value="Stage 4&lt;div&gt;GMHSWA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9bce6;strokeColor=#9673a6;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hx1TLB436QOQA7q2v5dS-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

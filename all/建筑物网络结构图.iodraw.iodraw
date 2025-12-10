@@ -63,7 +63,7 @@
         <mxCell id="hx1TLB436QOQA7q2v5dS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hx1TLB436QOQA7q2v5dS-54" target="hx1TLB436QOQA7q2v5dS-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hx1TLB436QOQA7q2v5dS-54" value="Seg Head" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="hx1TLB436QOQA7q2v5dS-54" value="Seg Head" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="490.43" y="220" width="99.38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hx1TLB436QOQA7q2v5dS-55" value="PM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
@@ -81,7 +81,7 @@
         <mxCell id="hx1TLB436QOQA7q2v5dS-76" value="Stage 4&lt;div&gt;GMHSWA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hx1TLB436QOQA7q2v5dS-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hx1TLB436QOQA7q2v5dS-78" value="96×H/4 ×W/4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

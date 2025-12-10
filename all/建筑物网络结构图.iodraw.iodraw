@@ -39,7 +39,7 @@
         <mxCell id="hx1TLB436QOQA7q2v5dS-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hx1TLB436QOQA7q2v5dS-49" target="hx1TLB436QOQA7q2v5dS-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hx1TLB436QOQA7q2v5dS-49" value="&lt;div&gt;Fusion 1&lt;/div&gt;EfficientUp" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="hx1TLB436QOQA7q2v5dS-49" value="&lt;div&gt;Fusion 1&lt;/div&gt;Efficient Up" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480.24" y="330.24" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hx1TLB436QOQA7q2v5dS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="hx1TLB436QOQA7q2v5dS-47">

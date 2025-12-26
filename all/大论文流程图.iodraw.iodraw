@@ -26,19 +26,16 @@
           <mxGeometry x="430" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-19" value="辅助数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="120" width="140" height="40" as="geometry" />
+          <mxGeometry x="840" y="130" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-21" value="配准、合并及检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="850" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-23" value="获取道路信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="850" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-25" value="建筑物提取&lt;div&gt;网络&lt;span style=&quot;background-color: initial;&quot;&gt;构建&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="290" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-27" value="根据成像环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-41" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;数据预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="120" height="40" as="geometry" />
@@ -72,6 +69,9 @@
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="380" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

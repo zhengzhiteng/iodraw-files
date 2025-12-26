@@ -82,11 +82,6 @@
             <mxPoint x="460" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-25" value="光学遥感水体提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
         </mxCell>
@@ -103,6 +98,9 @@
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-32" value="叠加分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-39" value="叠加分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

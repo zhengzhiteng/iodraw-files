@@ -85,7 +85,7 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-58" value="灾中成像良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-59" value="灾中成像不好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-59" value="灾中成像条件不好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-63" target="47gsBYB9QDOt4AUTvaVE-65">

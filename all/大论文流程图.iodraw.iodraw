@@ -22,7 +22,7 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-21" value="配准、合并及检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-23" value="道路信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-23" value="获取道路信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-25" value="建筑物提取&lt;div&gt;网络&lt;span style=&quot;background-color: initial;&quot;&gt;构建&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

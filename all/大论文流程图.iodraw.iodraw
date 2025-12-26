@@ -48,6 +48,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-12" target="47gsBYB9QDOt4AUTvaVE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-12" value="建筑物信息提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="120" height="40" as="geometry" />
         </mxCell>
@@ -82,7 +85,7 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-25" value="光学遥感水体提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-27" value="根据成环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-27" value="根据成像环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-29" value="叠加分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

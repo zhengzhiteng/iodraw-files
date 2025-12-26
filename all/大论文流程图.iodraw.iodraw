@@ -139,8 +139,8 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-73" value="道路通行&lt;div&gt;状态分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-84" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="434" width="80" height="50" as="geometry" />
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-85" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="444" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

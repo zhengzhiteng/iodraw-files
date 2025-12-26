@@ -19,15 +19,6 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;中分辨率遥感影像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="47gsBYB9QDOt4AUTvaVE-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="200" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="620" y="220" />
-              <mxPoint x="780" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="47gsBYB9QDOt4AUTvaVE-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="420" as="sourcePoint" />
@@ -46,11 +37,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-12" target="47gsBYB9QDOt4AUTvaVE-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-12" value="建筑物信息提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="47gsBYB9QDOt4AUTvaVE-32">
           <mxGeometry relative="1" as="geometry">
@@ -99,7 +87,7 @@
           <mxGeometry x="140" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-42" value="建筑物信息提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

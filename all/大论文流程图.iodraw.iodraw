@@ -23,7 +23,10 @@
           <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-13" value="光学遥感水体提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-14" value="SAR遥感水体提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

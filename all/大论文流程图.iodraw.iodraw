@@ -136,6 +136,9 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-73" value="道路通行&lt;div&gt;状态分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-83" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="90" width="200" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

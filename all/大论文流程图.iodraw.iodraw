@@ -92,7 +92,10 @@
           <mxGeometry x="400" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-67" value="建筑物提取结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="454" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-68" value="获取道路信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

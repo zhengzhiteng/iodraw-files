@@ -19,17 +19,6 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;中分辨率遥感影像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-10" target="47gsBYB9QDOt4AUTvaVE-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="220" />
-              <mxPoint x="460" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-10" target="47gsBYB9QDOt4AUTvaVE-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-10" target="47gsBYB9QDOt4AUTvaVE-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -42,9 +31,6 @@
           <mxGeometry x="560" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-12" value="建筑物信息提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-13" value="光学遥感水体提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-14" value="SAR遥感水体提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

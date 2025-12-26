@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-65" value="水体淹没信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-67" target="47gsBYB9QDOt4AUTvaVE-70">
           <mxGeometry relative="1" as="geometry" />
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-73" value="道路通行&lt;div&gt;状态分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-82" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="380" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -68,7 +68,7 @@
           <mxGeometry x="650" y="444" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="30" y="550" width="380" height="440" as="geometry" />
+          <mxGeometry x="200" y="80" width="380" height="440" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-58" value="灾中成像良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="90" width="140" height="30" as="geometry" />

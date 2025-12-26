@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="47gsBYB9QDOt4AUTvaVE-1" value="高分辨率遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="140" height="40" as="geometry" />
+          <mxGeometry x="130" y="80" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-4" value="SAR遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="80" width="140" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="720" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-19" value="辅助数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="130" width="140" height="40" as="geometry" />
+          <mxGeometry x="880" y="80" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-21" value="配准、合并及检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="170" width="120" height="40" as="geometry" />

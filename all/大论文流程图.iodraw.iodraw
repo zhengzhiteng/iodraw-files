@@ -4,11 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-11" target="47gsBYB9QDOt4AUTvaVE-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="65" width="480" height="70" as="geometry" />
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="47gsBYB9QDOt4AUTvaVE-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="135" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-1" value="高分辨率遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
@@ -66,16 +65,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-19" value="辅助数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-21" target="47gsBYB9QDOt4AUTvaVE-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-21" value="配准、合并及检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-23" value="道路信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="47gsBYB9QDOt4AUTvaVE-29">
           <mxGeometry relative="1" as="geometry">

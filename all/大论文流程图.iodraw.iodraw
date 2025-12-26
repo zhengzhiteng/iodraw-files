@@ -25,6 +25,9 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-12" value="训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-19" target="47gsBYB9QDOt4AUTvaVE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-19" value="辅助数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="130" width="140" height="40" as="geometry" />
         </mxCell>

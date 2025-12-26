@@ -49,7 +49,7 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-42" value="建筑物信息提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="47gsBYB9QDOt4AUTvaVE-44" value="训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-44" value="建筑物提取结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="394" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

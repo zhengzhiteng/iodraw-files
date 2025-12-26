@@ -31,6 +31,9 @@
         <mxCell id="47gsBYB9QDOt4AUTvaVE-19" value="辅助数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="130" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47gsBYB9QDOt4AUTvaVE-21" target="47gsBYB9QDOt4AUTvaVE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-21" value="配准、合并及检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="210" width="120" height="40" as="geometry" />
         </mxCell>
@@ -78,6 +81,9 @@
         </mxCell>
         <mxCell id="47gsBYB9QDOt4AUTvaVE-59" value="灾中成像不好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="47gsBYB9QDOt4AUTvaVE-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

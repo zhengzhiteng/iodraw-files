@@ -255,8 +255,8 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-49" value="光学条件良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="290" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-50" value="光学条件良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="300" width="90" height="30" as="geometry" />
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-50" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="290" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

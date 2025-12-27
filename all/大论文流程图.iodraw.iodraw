@@ -217,6 +217,9 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-17" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;深度学习数据集构建&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-26" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;OSM道路数据融合处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;拓扑修复与空间匹配&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

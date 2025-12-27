@@ -200,6 +200,12 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-7" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;OSM道路数据融合处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;拓扑修复与空间匹配&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="414" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="494" as="sourcePoint" />
+            <mxPoint x="658" y="524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-8" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;复杂场景&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;光学水体提取方法研究&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;多尺度/云影抑制&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="414" width="200" height="80" as="geometry" />
         </mxCell>
@@ -226,9 +232,6 @@
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-32" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;光学受限/夜间&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="470" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-39" value="开源数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

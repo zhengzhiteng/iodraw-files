@@ -274,6 +274,12 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-50" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="715" y="570" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-53" target="3H0xlW9nhijdwJE0uI_v-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-53" target="3H0xlW9nhijdwJE0uI_v-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-53" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="770" width="120" height="40" as="geometry" />
         </mxCell>
@@ -287,7 +293,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-57" value="道路应急交通影响分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="860" width="150" height="40" as="geometry" />
+          <mxGeometry x="565" y="860" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-59" value="洪涝灾害应急快速响应与精准决策支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="940" width="150" height="40" as="geometry" />

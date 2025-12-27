@@ -314,6 +314,9 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;方法研究&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="700" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;综合分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="940" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

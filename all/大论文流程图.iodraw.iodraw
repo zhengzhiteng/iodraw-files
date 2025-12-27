@@ -283,9 +283,6 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-57" value="道路应急交通影响分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="860" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-58" value="建筑损失分级评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="870" width="150" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

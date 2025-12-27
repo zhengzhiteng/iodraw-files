@@ -256,7 +256,7 @@
           <mxGeometry x="700" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-48" value="激活光学提取方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="630" width="120" height="40" as="geometry" />
+          <mxGeometry x="593" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

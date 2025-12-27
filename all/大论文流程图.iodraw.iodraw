@@ -249,11 +249,14 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-43" value="激活光学提取方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="620" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-44" target="3H0xlW9nhijdwJE0uI_v-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-44" value="激活SAR提取方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-48" value="激活光学提取方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="593" y="680" width="120" height="40" as="geometry" />
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-48" value="统一洪涝灾害&lt;div&gt;淹没信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-49" value="光学条件良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="570" width="90" height="30" as="geometry" />

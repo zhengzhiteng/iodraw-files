@@ -240,6 +240,9 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-17" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;深度学习数据集构建&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-26" target="3H0xlW9nhijdwJE0uI_v-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-26" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;灾前重点承灾体底图&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;建筑对象化数据 + 路网结构数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="545" width="200" height="80" as="geometry" />
         </mxCell>

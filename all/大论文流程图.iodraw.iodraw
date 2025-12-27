@@ -160,7 +160,10 @@
           <mxGeometry x="370" y="190" width="325" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-6" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;基于Transformer的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;建筑物精细提取方法研究&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;长程依赖建模/边界优化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="450" width="195" height="80" as="geometry" />
+          <mxGeometry x="240" y="320" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-7" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;基于Transformer的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;建筑物精细提取方法研究&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;长程依赖建模/边界优化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="195" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

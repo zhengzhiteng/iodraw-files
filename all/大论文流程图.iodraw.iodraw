@@ -151,7 +151,7 @@
           <mxGeometry x="160" y="397" width="770" height="353" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-67" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="170" y="55" width="760" height="330" as="geometry" />
+          <mxGeometry x="160" y="55" width="770" height="330" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-15" target="3H0xlW9nhijdwJE0uI_v-6">
           <mxGeometry relative="1" as="geometry" />
@@ -304,6 +304,9 @@
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-59" value="洪涝灾害应急快速响应与精准决策支持" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="555" y="940" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="407" width="770" height="353" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -241,7 +241,11 @@
           <mxGeometry x="470" y="280" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-26" target="3H0xlW9nhijdwJE0uI_v-53">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="790" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-26" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;灾前重点承灾体底图&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;建筑对象化数据 + 路网结构数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="545" width="200" height="80" as="geometry" />
@@ -258,6 +262,9 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-44" value="激活SAR提取方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="620" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-48" target="3H0xlW9nhijdwJE0uI_v-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-48" value="统一洪涝灾害&lt;div&gt;淹没信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="700" width="120" height="40" as="geometry" />
         </mxCell>
@@ -269,6 +276,9 @@
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-53" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-56" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="780" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

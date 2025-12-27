@@ -147,6 +147,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="300" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-2" value="高分辨率光学影像灾前/灾中多时相" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="130" height="50" as="geometry" />
         </mxCell>
@@ -186,8 +189,8 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-14" value="开源数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="290" height="150" as="geometry" />
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

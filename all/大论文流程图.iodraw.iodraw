@@ -213,7 +213,22 @@
           <mxGeometry x="660" y="414" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-10" target="3H0xlW9nhijdwJE0uI_v-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="600" />
+              <mxPoint x="545" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-10" target="3H0xlW9nhijdwJE0uI_v-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="600" />
+              <mxPoint x="753" y="600" />
+              <mxPoint x="753" y="594" />
+              <mxPoint x="760" y="594" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-10" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="573" y="534" width="160" height="56" as="geometry" />

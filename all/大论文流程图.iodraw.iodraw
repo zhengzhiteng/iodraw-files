@@ -207,7 +207,7 @@
           <mxGeometry x="660" y="414" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-10" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="524" width="200" height="80" as="geometry" />
+          <mxGeometry x="550" y="524" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-13" value="自制数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="310" width="120" height="40" as="geometry" />

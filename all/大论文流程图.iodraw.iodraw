@@ -147,17 +147,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-15" target="3H0xlW9nhijdwJE0uI_v-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-15" target="3H0xlW9nhijdwJE0uI_v-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="545" y="425" />
-              <mxPoint x="940" y="425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="280" width="300" height="90" as="geometry" />
         </mxCell>
@@ -191,7 +180,7 @@
           <mxGeometry x="382.5" y="190" width="325" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-6" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;基于Transformer的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;建筑物精细提取方法研究&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;长程依赖建模/边界优化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="480" width="200" height="80" as="geometry" />
+          <mxGeometry x="120" y="285" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-7" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;OSM道路数据融合处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;拓扑修复与空间匹配&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="480" width="200" height="80" as="geometry" />
@@ -200,7 +189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-8" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;复杂场景&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;光学水体提取方法研究&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;多尺度/云影抑制&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="480" width="200" height="80" as="geometry" />
+          <mxGeometry x="445" y="430" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-9" target="3H0xlW9nhijdwJE0uI_v-10">
           <mxGeometry relative="1" as="geometry" />

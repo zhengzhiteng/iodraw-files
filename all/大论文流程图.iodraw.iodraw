@@ -186,13 +186,8 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-14" value="开源数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="270" width="290" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

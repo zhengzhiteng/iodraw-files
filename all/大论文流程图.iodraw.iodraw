@@ -177,7 +177,7 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-11" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;基于Transformer的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;建筑物精细提取方法研究&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;长程依赖建模/边界优化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-12" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;标注与验证数据&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;真值样本&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-12" value="&lt;font size=&quot;1&quot;&gt;深度学习数据集构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="280" width="160" height="50" as="geometry" />
         </mxCell>
       </root>

@@ -168,6 +168,9 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="300" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-2" target="3H0xlW9nhijdwJE0uI_v-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-2" value="SAR影像&lt;div style=&quot;font-size: 14px;&quot;&gt;灾中单极化/多极化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="765" y="80" width="130" height="50" as="geometry" />
         </mxCell>

@@ -140,8 +140,14 @@
         <mxCell id="pRihK3Rqc7JZguhqOhVf-129" value="H/16 × W/16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="810" y="440" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pRihK3Rqc7JZguhqOhVf-130" target="pRihK3Rqc7JZguhqOhVf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pRihK3Rqc7JZguhqOhVf-130" value="Seg Head" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="400" y="343.6" width="40" height="72.32" as="geometry" />
+        </mxCell>
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-133" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

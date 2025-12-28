@@ -152,10 +152,10 @@
         <mxCell id="pRihK3Rqc7JZguhqOhVf-130" value="Seg Head" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="400" y="343.6" width="40" height="72.32" as="geometry" />
         </mxCell>
-        <mxCell id="pRihK3Rqc7JZguhqOhVf-135" value="Encoding Path" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-135" value="Encoding Path" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pRihK3Rqc7JZguhqOhVf-136" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;Decoding path&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-136" value="Decoding path" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="530" width="110" height="30" as="geometry" />
         </mxCell>
       </root>

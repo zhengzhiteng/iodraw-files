@@ -65,7 +65,10 @@
           <mxGeometry x="590" y="137.89999999999998" width="29.76" height="72.1" as="geometry" />
         </mxCell>
         <mxCell id="pRihK3Rqc7JZguhqOhVf-105" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Stage 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;SRG-Block&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;× 2&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;dim = 96&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="480" y="139.03999999999996" width="100" height="90.96" as="geometry" />
+          <mxGeometry x="470" y="334.52" width="100" height="90.96" as="geometry" />
+        </mxCell>
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-106" value="Stage 2&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;SRG-Block&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;× 2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;dim = 192&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="334.52" width="100" height="90.48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

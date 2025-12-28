@@ -276,6 +276,9 @@
         <mxCell id="OFnziLiBMdvdDWy-urfS-7" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;LayerNorm&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="100" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OFnziLiBMdvdDWy-urfS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFnziLiBMdvdDWy-urfS-8" target="OFnziLiBMdvdDWy-urfS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-8" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Cat&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
@@ -292,6 +295,9 @@
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-11" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFnziLiBMdvdDWy-urfS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFnziLiBMdvdDWy-urfS-13" target="OFnziLiBMdvdDWy-urfS-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-13" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Linear&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="120" height="40" as="geometry" />

@@ -191,7 +191,7 @@
             <mxPoint x="630" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0" edge="1" parent="1" target="3H0xlW9nhijdwJE0uI_v-7">
+        <mxCell id="3H0xlW9nhijdwJE0uI_v-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-73" target="3H0xlW9nhijdwJE0uI_v-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="467.5" y="220" as="sourcePoint" />
           </mxGeometry>

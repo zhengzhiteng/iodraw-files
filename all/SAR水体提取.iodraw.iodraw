@@ -231,6 +231,9 @@
         <mxCell id="OFnziLiBMdvdDWy-urfS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFnziLiBMdvdDWy-urfS-1" target="OFnziLiBMdvdDWy-urfS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OFnziLiBMdvdDWy-urfS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OFnziLiBMdvdDWy-urfS-1" target="OFnziLiBMdvdDWy-urfS-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
@@ -300,6 +303,11 @@
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-13" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Linear&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFnziLiBMdvdDWy-urfS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFnziLiBMdvdDWy-urfS-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-27" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DWConv 3 × 3&lt;br&gt;Dropout&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />

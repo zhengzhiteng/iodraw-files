@@ -134,6 +134,12 @@
         <mxCell id="pRihK3Rqc7JZguhqOhVf-128" value="H/8 × W/8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-129" value="H/16 × W/16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="810" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-130" value="&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;SAR&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;S&lt;/span&gt;tem&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="341" width="40" height="72.32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

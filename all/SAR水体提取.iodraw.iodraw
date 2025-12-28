@@ -235,7 +235,12 @@
           <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OFnziLiBMdvdDWy-urfS-4" target="OFnziLiBMdvdDWy-urfS-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="380" />
+              <mxPoint x="420" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-4" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DWConv 3 × 3&lt;br&gt;(groups =2)&lt;br&gt;Sigmoid&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="150" height="70" as="geometry" />
@@ -275,7 +280,12 @@
           <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFnziLiBMdvdDWy-urfS-9" target="OFnziLiBMdvdDWy-urfS-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="380" />
+              <mxPoint x="420" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-9" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DWConv 3 × 3&lt;br&gt;(dilation =2，groups =2)&lt;br&gt;Sigmoid&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="150" height="70" as="geometry" />

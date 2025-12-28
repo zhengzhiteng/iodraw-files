@@ -232,7 +232,13 @@
           <mxGeometry x="974" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="110" height="50" as="geometry" />
+          <mxGeometry x="440" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFnziLiBMdvdDWy-urfS-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFnziLiBMdvdDWy-urfS-3" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

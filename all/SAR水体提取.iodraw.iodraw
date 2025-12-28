@@ -73,8 +73,8 @@
         <mxCell id="pRihK3Rqc7JZguhqOhVf-107" value="Stage 3&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SRG-Block&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;× 4&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;dim = 384&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="810" y="334.52" width="100" height="90.48" as="geometry" />
         </mxCell>
-        <mxCell id="pRihK3Rqc7JZguhqOhVf-109" value="PM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="940.24" y="150" width="29.76" height="70" as="geometry" />
+        <mxCell id="pRihK3Rqc7JZguhqOhVf-109" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22PM%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23ffcccc%3BstrokeColor%3D%2336393d%3BfontSize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22930.24%22%20y%3D%22140%22%20width%3D%2229.76%22%20height%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="930.24" y="344.76" width="49.76" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

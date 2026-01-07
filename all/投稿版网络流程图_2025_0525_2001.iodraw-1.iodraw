@@ -368,7 +368,7 @@
           <mxGeometry x="89.81" y="854.5799999999999" width="120" height="18.8" as="geometry" />
         </mxCell>
         <mxCell id="9kP2MHzI_BaSGxh0ghJp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#36393d;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="30" y="790" width="510" height="170" as="geometry" />
+          <mxGeometry x="680" y="537.6" width="510" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1106,7 +1106,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Dynamic Fusion Attention" id="LziVmIxmyVyuW1n2G87D">
-    <mxGraphModel dx="1228" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-0" />
         <mxCell id="amBfXLu2YUz4Q0NGqrOk-1" parent="amBfXLu2YUz4Q0NGqrOk-0" />
@@ -1228,13 +1228,13 @@
         <mxCell id="1yQM1GyB59wasutCPzgv-1" value="CGG stride= 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Times New Roman;" parent="amBfXLu2YUz4Q0NGqrOk-1" vertex="1">
           <mxGeometry x="360" y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KGEaLNTmAVfvitpYSioR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+        <mxCell id="KGEaLNTmAVfvitpYSioR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="amBfXLu2YUz4Q0NGqrOk-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="268" as="sourcePoint" />
             <mxPoint x="400" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KGEaLNTmAVfvitpYSioR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="amBfXLu2YUz4Q0NGqrOk-1">
+        <mxCell id="KGEaLNTmAVfvitpYSioR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="amBfXLu2YUz4Q0NGqrOk-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="268" as="sourcePoint" />
             <mxPoint x="440" y="289" as="targetPoint" />

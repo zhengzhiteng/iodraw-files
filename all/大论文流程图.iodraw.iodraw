@@ -333,47 +333,24 @@
         <mxCell id="s_cue4NJEgxTiWoMMOHS-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="160" y="397" width="770" height="353" as="geometry" />
         </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="160" y="55" width="770" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-7" target="s_cue4NJEgxTiWoMMOHS-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-7" target="s_cue4NJEgxTiWoMMOHS-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-7" target="s_cue4NJEgxTiWoMMOHS-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="300" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-9" target="s_cue4NJEgxTiWoMMOHS-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-9" value="SAR影像&lt;div style=&quot;font-size: 14px;&quot;&gt;灾中单极化/多极化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="765" y="80" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-11" target="s_cue4NJEgxTiWoMMOHS-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-11" value="高分辨率光学影像灾前/灾中多时相" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="565" y="80" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-13" target="s_cue4NJEgxTiWoMMOHS-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-13" value="辅助数据体系&lt;div style=&quot;font-size: 14px;&quot;&gt;OSM道路/&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;行政区划&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="365" y="80" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" target="s_cue4NJEgxTiWoMMOHS-29">
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" target="s_cue4NJEgxTiWoMMOHS-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="250" as="sourcePoint" />
+            <mxPoint x="630" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-51" target="s_cue4NJEgxTiWoMMOHS-19">
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" target="s_cue4NJEgxTiWoMMOHS-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467.5" y="220" as="sourcePoint" />
+            <mxPoint x="630" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" target="s_cue4NJEgxTiWoMMOHS-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="s_cue4NJEgxTiWoMMOHS-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-17" target="s_cue4NJEgxTiWoMMOHS-31">
@@ -418,15 +395,6 @@
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-26" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="658" y="534" width="160" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-27" value="自制数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="650" y="310" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-28" value="开源数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="490" y="310" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;深度学习数据集构建&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="555" y="280" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-31" target="s_cue4NJEgxTiWoMMOHS-42">
           <mxGeometry relative="1" as="geometry">
@@ -487,17 +455,11 @@
         <mxCell id="s_cue4NJEgxTiWoMMOHS-47" value="洪涝灾害应急快速响应与精准决策支持" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="555" y="940" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="170" y="80" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;方法研究&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="170" y="700" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;综合分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="170" y="940" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-51" value="数据预处理与统一基准构建&lt;div&gt;时空基准统一/辐射/正射校正/数据清洗/样本组织&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

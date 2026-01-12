@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-23" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SAR水体&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;提取方法研究&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="175" height="60" as="geometry" />
+          <mxGeometry x="440" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-26" target="s_cue4NJEgxTiWoMMOHS-33">
           <mxGeometry relative="1" as="geometry">
@@ -382,6 +382,9 @@
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-39" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="840" y="596" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-53" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="708" y="570" width="160" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

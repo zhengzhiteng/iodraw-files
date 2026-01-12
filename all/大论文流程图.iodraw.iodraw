@@ -327,21 +327,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" target="s_cue4NJEgxTiWoMMOHS-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="520" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-21" target="s_cue4NJEgxTiWoMMOHS-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-21" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;光学水体&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;提取方法研究&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0" edge="1" parent="1" target="s_cue4NJEgxTiWoMMOHS-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="852.5" y="520" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-23" target="s_cue4NJEgxTiWoMMOHS-53">
           <mxGeometry relative="1" as="geometry" />
@@ -349,45 +339,11 @@
         <mxCell id="s_cue4NJEgxTiWoMMOHS-23" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;SAR水体&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;提取方法研究&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-26" target="s_cue4NJEgxTiWoMMOHS-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="778" y="626" />
-              <mxPoint x="670" y="626" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-26" target="s_cue4NJEgxTiWoMMOHS-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="778" y="626" />
-              <mxPoint x="885" y="626" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-26" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="698" y="560" width="160" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-33" target="s_cue4NJEgxTiWoMMOHS-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-33" value="激活光学提取方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="610" y="646" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-35" target="s_cue4NJEgxTiWoMMOHS-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-35" value="激活SAR提取方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="825" y="646" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-37" value="统一洪涝灾害&lt;div style=&quot;font-size: 14px;&quot;&gt;淹没信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="718" y="726" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-38" value="光学条件良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="274" y="440" width="90" height="30" as="geometry" />
+          <mxGeometry x="274" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-39" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="474" y="440" width="90" height="30" as="geometry" />
+          <mxGeometry x="475" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-53" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="334" y="300" width="170" height="90" as="geometry" />

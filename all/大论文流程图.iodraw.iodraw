@@ -343,6 +343,9 @@
             <mxPoint x="852.5" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-23" target="s_cue4NJEgxTiWoMMOHS-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-23" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SAR水体&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;提取方法研究&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="160" height="60" as="geometry" />
         </mxCell>
@@ -381,7 +384,7 @@
           <mxGeometry x="718" y="726" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-38" value="光学条件良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="625" y="596" width="90" height="30" as="geometry" />
+          <mxGeometry x="275" y="356" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-39" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="840" y="596" width="90" height="30" as="geometry" />

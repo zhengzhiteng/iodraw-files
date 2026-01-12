@@ -334,7 +334,7 @@
           <mxGeometry x="80" y="400" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-38" value="光学条件良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="369" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="260" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-39" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="610" y="120" width="90" height="30" as="geometry" />

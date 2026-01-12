@@ -400,7 +400,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-53" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="334" y="300" width="170" height="70" as="geometry" />
+          <mxGeometry x="334" y="300" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s_cue4NJEgxTiWoMMOHS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#000000;fontSize=13;strokeWidth=1;" edge="1" parent="1" source="s_cue4NJEgxTiWoMMOHS-56" target="s_cue4NJEgxTiWoMMOHS-60">
           <mxGeometry relative="1" as="geometry" />

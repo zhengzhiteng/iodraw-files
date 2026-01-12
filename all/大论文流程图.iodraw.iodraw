@@ -404,8 +404,11 @@
         <mxCell id="s_cue4NJEgxTiWoMMOHS-57" value="激活SAR提取方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s_cue4NJEgxTiWoMMOHS-60" value="激活光学提取方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="270" y="410" width="120" height="40" as="geometry" />
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-60" value="光学影像提取结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s_cue4NJEgxTiWoMMOHS-61" value="光学影像提取结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-2" value="SAR影像&lt;div style=&quot;font-size: 14px;&quot;&gt;灾中单极化/多极化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="765" y="80" width="130" height="50" as="geometry" />
+          <mxGeometry x="650" y="80" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3H0xlW9nhijdwJE0uI_v-3" target="3H0xlW9nhijdwJE0uI_v-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -183,11 +183,6 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" parent="1" target="3H0xlW9nhijdwJE0uI_v-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="250" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3H0xlW9nhijdwJE0uI_v-73" target="3H0xlW9nhijdwJE0uI_v-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467.5" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" parent="1" source="3H0xlW9nhijdwJE0uI_v-6" target="3H0xlW9nhijdwJE0uI_v-26" edge="1">

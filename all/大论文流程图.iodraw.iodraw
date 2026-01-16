@@ -292,9 +292,6 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-73" value="数据预处理&lt;div&gt;（数据融合/正射校正）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="480" y="190" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BZf47z4b9EbxvhTsuyjU-9" value="SAR影像&lt;div style=&quot;font-size: 14px;&quot;&gt;灾中单极化/多极化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="660" y="90" width="130" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

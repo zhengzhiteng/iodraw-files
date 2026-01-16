@@ -191,12 +191,6 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基于Transformer的&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;建筑物精细提取方法研究&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="360" y="414" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" parent="1" source="3H0xlW9nhijdwJE0uI_v-7" target="3H0xlW9nhijdwJE0uI_v-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-7" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;OSM道路数据融合处理&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;拓扑修复与空间匹配&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="180" y="414" width="170" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" parent="1" source="3H0xlW9nhijdwJE0uI_v-8" target="3H0xlW9nhijdwJE0uI_v-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -246,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-26" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;灾前重点承灾体底图&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;建筑对象化数据 + 路网结构数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="254" y="540" width="200" height="80" as="geometry" />
+          <mxGeometry x="347.5" y="540" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0" parent="1" source="3H0xlW9nhijdwJE0uI_v-43" target="3H0xlW9nhijdwJE0uI_v-48" edge="1">
           <mxGeometry relative="1" as="geometry" />

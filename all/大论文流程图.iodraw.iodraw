@@ -255,17 +255,11 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-50" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="800" y="570" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3H0xlW9nhijdwJE0uI_v-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" parent="1" source="3H0xlW9nhijdwJE0uI_v-53" target="3H0xlW9nhijdwJE0uI_v-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-53" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="570" y="770" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BZf47z4b9EbxvhTsuyjU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3H0xlW9nhijdwJE0uI_v-56" target="3H0xlW9nhijdwJE0uI_v-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-56" value="洪灾淹没面积统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="460" y="860" width="150" height="40" as="geometry" />
+          <mxGeometry x="470" y="860" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-59" value="洪涝灾害应急快速响应与精准决策支持" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="555" y="940" width="150" height="40" as="geometry" />
@@ -283,7 +277,7 @@
           <mxGeometry x="480" y="190" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LA-RfPHwGrZpy8xacwS7-1" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="658" y="860" width="150" height="40" as="geometry" />
+          <mxGeometry x="663" y="860" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

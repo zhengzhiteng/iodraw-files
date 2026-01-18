@@ -265,7 +265,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-56" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="555" y="860" width="150" height="40" as="geometry" />
+          <mxGeometry x="460" y="860" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-59" value="洪涝灾害应急快速响应与精准决策支持" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="555" y="940" width="150" height="40" as="geometry" />
@@ -283,7 +283,7 @@
           <mxGeometry x="480" y="190" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LA-RfPHwGrZpy8xacwS7-1" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="565" y="870" width="150" height="40" as="geometry" />
+          <mxGeometry x="737.5" y="860" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

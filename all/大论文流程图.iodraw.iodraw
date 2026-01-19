@@ -265,6 +265,9 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-50" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="800" y="570" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rVlB1fmvBwqyqchlJetA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-53" target="rVlB1fmvBwqyqchlJetA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-53" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="570" y="770" width="120" height="40" as="geometry" />
         </mxCell>
@@ -287,7 +290,7 @@
           <mxGeometry x="470" y="850" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rVlB1fmvBwqyqchlJetA-2" value="洪灾淹没面积统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="930" y="850" width="150" height="40" as="geometry" />
+          <mxGeometry x="658" y="850" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

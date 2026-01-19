@@ -295,6 +295,9 @@
         <mxCell id="rVlB1fmvBwqyqchlJetA-1" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="470" y="850" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rVlB1fmvBwqyqchlJetA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rVlB1fmvBwqyqchlJetA-2" target="3H0xlW9nhijdwJE0uI_v-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rVlB1fmvBwqyqchlJetA-2" value="洪灾淹没面积统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="658" y="850" width="150" height="40" as="geometry" />
         </mxCell>

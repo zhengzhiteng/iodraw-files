@@ -268,6 +268,9 @@
         <mxCell id="rVlB1fmvBwqyqchlJetA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-53" target="rVlB1fmvBwqyqchlJetA-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rVlB1fmvBwqyqchlJetA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-53" target="rVlB1fmvBwqyqchlJetA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-53" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="570" y="770" width="120" height="40" as="geometry" />
         </mxCell>
@@ -285,6 +288,9 @@
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-73" value="数据预处理&lt;div&gt;（数据融合/正射校正）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="480" y="190" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVlB1fmvBwqyqchlJetA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rVlB1fmvBwqyqchlJetA-1" target="3H0xlW9nhijdwJE0uI_v-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rVlB1fmvBwqyqchlJetA-1" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="470" y="850" width="150" height="40" as="geometry" />

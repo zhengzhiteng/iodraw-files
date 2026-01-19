@@ -301,6 +301,12 @@
         <mxCell id="LA-RfPHwGrZpy8xacwS7-1" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="648" y="860" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rVlB1fmvBwqyqchlJetA-1" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="930" y="800" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rVlB1fmvBwqyqchlJetA-2" value="洪灾淹没面积统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="470" y="870" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

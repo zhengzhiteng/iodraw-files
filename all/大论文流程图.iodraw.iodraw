@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E8FjweFSxEShmTqN26yv" name="第 2 页">
-    <mxGraphModel dx="1529" dy="188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,12 @@
           <mxGeometry x="381.12" y="538.5" width="136.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-43" target="3H0xlW9nhijdwJE0uI_v-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="642" y="600" />
+              <mxPoint x="720" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-43" value="激活光学提取方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="573.75" y="538.5" width="136.25" height="40" as="geometry" />

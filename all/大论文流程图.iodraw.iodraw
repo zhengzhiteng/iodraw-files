@@ -269,6 +269,9 @@
         <mxCell id="3H0xlW9nhijdwJE0uI_v-44" value="激活SAR提取方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="730" y="540" width="136.25" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-48" target="whFe0jFb3jXwr2vGlIKn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-48" value="灾中洪涝&lt;span style=&quot;background-color: initial;&quot;&gt;淹没信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="660" y="620" width="120" height="40" as="geometry" />
         </mxCell>
@@ -304,6 +307,9 @@
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-3" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="389.25" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whFe0jFb3jXwr2vGlIKn-8" target="rVlB1fmvBwqyqchlJetA-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-8" value="灾前灾中水体&lt;div&gt;叠加分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="645" y="690" width="150" height="40" as="geometry" />

@@ -275,10 +275,10 @@
           <mxGeometry x="663.24" y="623" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-49" value="光学条件良好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="950" y="670" width="90" height="30" as="geometry" />
+          <mxGeometry x="595.24" y="500" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-50" value="光学受限/夜间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1040" y="607" width="90" height="30" as="geometry" />
+          <mxGeometry x="756.36" y="500" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-59" value="灾情量化结果表达与制图发布" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="445.24" y="955" width="150" height="40" as="geometry" />

@@ -154,7 +154,7 @@
           <mxGeometry x="296" y="341" width="610" height="256" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-40" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="296" y="70" width="610" height="268" as="geometry" />
+          <mxGeometry x="296" y="68" width="610" height="268" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-15" target="3H0xlW9nhijdwJE0uI_v-6">
           <mxGeometry relative="1" as="geometry">
@@ -293,7 +293,7 @@
           <mxGeometry x="330" y="287" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;方法研究&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="70" y="500" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="548.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;综合分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="330" y="845" width="110" height="30" as="geometry" />

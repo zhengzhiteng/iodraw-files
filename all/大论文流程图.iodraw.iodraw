@@ -280,7 +280,10 @@
           <mxGeometry x="740" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-3" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="740" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="890" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-8" value="建筑物和空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="480" y="780" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -302,19 +302,16 @@
           <mxGeometry x="389.26" y="827" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rVlB1fmvBwqyqchlJetA-2" value="洪灾淹没面积统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="664" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="664" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-3" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="389.24" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="389.25" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whFe0jFb3jXwr2vGlIKn-8" target="rVlB1fmvBwqyqchlJetA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-8" value="灾前灾中水体&lt;div&gt;叠加分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="663.24" y="693" width="120.76" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="whFe0jFb3jXwr2vGlIKn-47" value="精度评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1150" y="637" width="136.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

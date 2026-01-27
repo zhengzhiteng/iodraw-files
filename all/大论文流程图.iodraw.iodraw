@@ -334,6 +334,9 @@
         <mxCell id="whFe0jFb3jXwr2vGlIKn-45" value="精度评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="381.11" y="467" width="136.25" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-46" value="精度评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="391.11" y="477" width="136.25" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

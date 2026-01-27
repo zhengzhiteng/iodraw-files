@@ -232,7 +232,12 @@
           <mxGeometry x="555" y="280" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-26" target="rVlB1fmvBwqyqchlJetA-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="448" y="800" />
+              <mxPoint x="618" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-26" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;灾前建筑物分布底图&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="363.75" y="620" width="167.5" height="40" as="geometry" />
@@ -287,6 +292,9 @@
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-3" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="890" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whFe0jFb3jXwr2vGlIKn-8" target="rVlB1fmvBwqyqchlJetA-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-8" value="灾前灾中水体&lt;div&gt;叠加分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="649" y="770" width="150" height="40" as="geometry" />

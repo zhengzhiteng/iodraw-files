@@ -291,7 +291,7 @@
           <mxGeometry x="280" y="545" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;综合分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="300" y="950" width="110" height="30" as="geometry" />
+          <mxGeometry x="280" y="840" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-73" target="3H0xlW9nhijdwJE0uI_v-17">
           <mxGeometry relative="1" as="geometry" />

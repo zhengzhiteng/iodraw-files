@@ -285,10 +285,10 @@
           <mxGeometry x="480" y="190" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVlB1fmvBwqyqchlJetA-1" value="建筑淹没信息统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="542.5" y="840" width="150" height="40" as="geometry" />
+          <mxGeometry x="480" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rVlB1fmvBwqyqchlJetA-2" value="洪灾淹没面积统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="784" y="840" width="150" height="40" as="geometry" />
+          <mxGeometry x="780" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-3" value="空间叠加分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="890" y="680" width="120" height="40" as="geometry" />

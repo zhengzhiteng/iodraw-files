@@ -306,7 +306,7 @@
           <mxGeometry x="374.24" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rVlB1fmvBwqyqchlJetA-2" value="洪灾淹没面积统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="614.24" y="840" width="150" height="40" as="geometry" />
+          <mxGeometry x="630" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whFe0jFb3jXwr2vGlIKn-3" target="rVlB1fmvBwqyqchlJetA-1">
           <mxGeometry relative="1" as="geometry" />
@@ -318,7 +318,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-8" value="灾前灾中水体&lt;div&gt;叠加分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="650" y="763" width="114.24" height="40" as="geometry" />
+          <mxGeometry x="629.24" y="763" width="120.76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="whFe0jFb3jXwr2vGlIKn-47" value="精度评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1150" y="637" width="136.25" height="40" as="geometry" />

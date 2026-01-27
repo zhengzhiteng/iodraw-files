@@ -256,6 +256,9 @@
         <mxCell id="whFe0jFb3jXwr2vGlIKn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-48" target="3H0xlW9nhijdwJE0uI_v-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-48" target="whFe0jFb3jXwr2vGlIKn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-48" value="灾中洪涝&lt;span style=&quot;background-color: initial;&quot;&gt;淹没信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="664" y="700" width="120" height="40" as="geometry" />
         </mxCell>

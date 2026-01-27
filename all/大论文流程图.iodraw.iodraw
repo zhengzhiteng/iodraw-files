@@ -223,6 +223,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3H0xlW9nhijdwJE0uI_v-10" target="3H0xlW9nhijdwJE0uI_v-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="530" />
+              <mxPoint x="801" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-10" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;成像条件判别&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;云雨/光照/时效性&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="629.24" y="460" width="188" height="56" as="geometry" />
         </mxCell>
@@ -279,7 +287,7 @@
           <mxGeometry x="330" y="287" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;方法研究&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="320" y="618.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="70" y="500" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H0xlW9nhijdwJE0uI_v-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;综合分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="320" y="925" width="110" height="30" as="geometry" />

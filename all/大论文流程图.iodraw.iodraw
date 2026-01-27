@@ -331,7 +331,7 @@
         <mxCell id="whFe0jFb3jXwr2vGlIKn-8" value="灾前灾中水体&lt;div&gt;叠加分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="645" y="700" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="whFe0jFb3jXwr2vGlIKn-47" value="方法测试及精度评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="whFe0jFb3jXwr2vGlIKn-47" value="精度评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1120" y="707" width="136.25" height="40" as="geometry" />
         </mxCell>
       </root>

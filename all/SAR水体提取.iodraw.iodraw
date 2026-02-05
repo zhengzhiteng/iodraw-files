@@ -493,7 +493,7 @@
         <mxCell id="OiBHAIApVm6fbT1gZHBb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OiBHAIApVm6fbT1gZHBb-9" target="OiBHAIApVm6fbT1gZHBb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OiBHAIApVm6fbT1gZHBb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="OiBHAIApVm6fbT1gZHBb-9">
+        <mxCell id="OiBHAIApVm6fbT1gZHBb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OiBHAIApVm6fbT1gZHBb-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="170" as="targetPoint" />
           </mxGeometry>
@@ -505,13 +505,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OiBHAIApVm6fbT1gZHBb-10" value="&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;ConvBNGE&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="265" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OiBHAIApVm6fbT1gZHBb-12" value="&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;ConvBN&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="220" y="315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OiBHAIApVm6fbT1gZHBb-13" value="&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: left; white-space: normal;&quot;&gt;Local-CovCA&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="330" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

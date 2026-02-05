@@ -332,7 +332,7 @@
           <mxGeometry x="440" y="300" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n9PlQ3UusUs4i4rTSn7F-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="170" y="560" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

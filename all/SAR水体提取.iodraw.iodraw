@@ -496,6 +496,9 @@
         <mxCell id="OiBHAIApVm6fbT1gZHBb-10" value="&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;ConvBNGE&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OiBHAIApVm6fbT1gZHBb-11" value="Local-CovCA" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

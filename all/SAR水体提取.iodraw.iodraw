@@ -314,24 +314,11 @@
         <mxCell id="pBb_BzA80mZRodBum_Mm-12" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;LayerNorm&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pBb_BzA80mZRodBum_Mm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBb_BzA80mZRodBum_Mm-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="534" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pBb_BzA80mZRodBum_Mm-18" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Linear&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb_BzA80mZRodBum_Mm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBb_BzA80mZRodBum_Mm-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="614" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n9PlQ3UusUs4i4rTSn7F-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBb_BzA80mZRodBum_Mm-20" target="pBb_BzA80mZRodBum_Mm-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="360" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBb_BzA80mZRodBum_Mm-20" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DWConv 3 × 3&lt;br&gt;Dropout&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n9PlQ3UusUs4i4rTSn7F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb_BzA80mZRodBum_Mm-25" target="n9PlQ3UusUs4i4rTSn7F-1">
           <mxGeometry relative="1" as="geometry">

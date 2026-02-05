@@ -345,16 +345,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHVzW-lMYYc75ZDH8eWD-1" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;LN&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="430" y="440" width="40" height="80" as="geometry" />
+          <mxGeometry x="420" y="440" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LHVzW-lMYYc75ZDH8eWD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LHVzW-lMYYc75ZDH8eWD-2" target="LHVzW-lMYYc75ZDH8eWD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHVzW-lMYYc75ZDH8eWD-2" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;pre style=&quot;line-height: 100%;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal; background-color: initial;&quot;&gt;DW&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial; white-space: normal;&quot;&gt;Conv 3 × 3&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="441" width="40" height="78" as="geometry" />
+          <mxGeometry x="350" y="441" width="40" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVzW-lMYYc75ZDH8eWD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LHVzW-lMYYc75ZDH8eWD-3" target="LHVzW-lMYYc75ZDH8eWD-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHVzW-lMYYc75ZDH8eWD-3" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Linear&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="40" height="80" as="geometry" />
+          <mxGeometry x="490" y="440" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVzW-lMYYc75ZDH8eWD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHVzW-lMYYc75ZDH8eWD-4" target="LHVzW-lMYYc75ZDH8eWD-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHVzW-lMYYc75ZDH8eWD-4" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;GELU&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="40" height="80" as="geometry" />

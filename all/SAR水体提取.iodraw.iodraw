@@ -491,7 +491,10 @@
           <mxGeometry x="210" y="245" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OiBHAIApVm6fbT1gZHBb-9" value="&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;PixelUnshuffle&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="450" y="245" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OiBHAIApVm6fbT1gZHBb-10" value="&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;ConvBN&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="315" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -188,12 +188,13 @@
         <mxCell id="OFnziLiBMdvdDWy-urfS-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OFnziLiBMdvdDWy-urfS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OFnziLiBMdvdDWy-urfS-4" target="OFnziLiBMdvdDWy-urfS-8" edge="1">
+        <mxCell id="OFnziLiBMdvdDWy-urfS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OFnziLiBMdvdDWy-urfS-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="325" y="380" />
-              <mxPoint x="420" y="380" />
+              <mxPoint x="325" y="390" />
+              <mxPoint x="420" y="390" />
             </Array>
+            <mxPoint x="420" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-4" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DWConv 3 × 3&lt;br&gt;(groups =2)&lt;br&gt;Sigmoid&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" parent="1" vertex="1">
@@ -230,18 +231,18 @@
         <mxCell id="OFnziLiBMdvdDWy-urfS-7" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;LayerNorm&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OFnziLiBMdvdDWy-urfS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OFnziLiBMdvdDWy-urfS-8" target="OFnziLiBMdvdDWy-urfS-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OFnziLiBMdvdDWy-urfS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="OFnziLiBMdvdDWy-urfS-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="440" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OFnziLiBMdvdDWy-urfS-8" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Cat&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OFnziLiBMdvdDWy-urfS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OFnziLiBMdvdDWy-urfS-9" target="OFnziLiBMdvdDWy-urfS-8" edge="1">
+        <mxCell id="OFnziLiBMdvdDWy-urfS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OFnziLiBMdvdDWy-urfS-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="515" y="380" />
               <mxPoint x="420" y="380" />
             </Array>
+            <mxPoint x="420" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OFnziLiBMdvdDWy-urfS-9" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DWConv 3 × 3&lt;br&gt;(dilation =2，groups =2)&lt;br&gt;Sigmoid&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" parent="1" vertex="1">
@@ -264,7 +265,7 @@
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RCKv4wVBgLQkffHRp-a7-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="610" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

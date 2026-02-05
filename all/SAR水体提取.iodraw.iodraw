@@ -272,6 +272,15 @@
         <mxCell id="pBb_BzA80mZRodBum_Mm-3" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="n9PlQ3UusUs4i4rTSn7F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb_BzA80mZRodBum_Mm-5" target="n9PlQ3UusUs4i4rTSn7F-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="410" />
+              <mxPoint x="380" y="410" />
+              <mxPoint x="380" y="424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pBb_BzA80mZRodBum_Mm-5" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;pre style=&quot;line-height: 100%;&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial; white-space: normal;&quot;&gt;DWConv 3 × 3&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; white-space: normal;&quot;&gt;(groups =2×dim)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; white-space: normal;&quot;&gt;Conv 1 × 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; white-space: normal;&quot;&gt;Sigmoid&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fillStyle=auto;fontSize=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="110" height="90" as="geometry" />
         </mxCell>

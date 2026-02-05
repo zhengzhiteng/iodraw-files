@@ -191,8 +191,8 @@
         <mxCell id="OFnziLiBMdvdDWy-urfS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OFnziLiBMdvdDWy-urfS-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="325" y="390" />
-              <mxPoint x="420" y="390" />
+              <mxPoint x="325" y="400" />
+              <mxPoint x="420" y="400" />
             </Array>
             <mxPoint x="420" y="420" as="targetPoint" />
           </mxGeometry>
@@ -256,7 +256,7 @@
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RCKv4wVBgLQkffHRp-a7-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="20" height="20" as="geometry" />
+          <mxGeometry x="410" y="414" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

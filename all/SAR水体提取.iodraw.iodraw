@@ -256,7 +256,7 @@
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RCKv4wVBgLQkffHRp-a7-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="414" width="20" height="20" as="geometry" />
+          <mxGeometry x="690" y="370" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

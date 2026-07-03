@@ -179,6 +179,9 @@
             <mxPoint x="240" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ZM3fVLG3kwE9I13vfFy--34" target="ZM3fVLG3kwE9I13vfFy--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--34" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="520" width="60" height="40" as="geometry" />
         </mxCell>

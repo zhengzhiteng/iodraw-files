@@ -109,7 +109,7 @@
           <mxGeometry x="616.25" y="380" width="67.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-46" value="Auxiliary Loss" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

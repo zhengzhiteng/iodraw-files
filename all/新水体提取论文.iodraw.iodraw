@@ -111,6 +111,15 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-46" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="390" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-47" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-48" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-49" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

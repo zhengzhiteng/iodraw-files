@@ -121,7 +121,7 @@
           <mxGeometry x="360" y="390" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-58" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="60" height="40" as="geometry" />
+          <mxGeometry x="170" y="390" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

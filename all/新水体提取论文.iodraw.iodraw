@@ -22,12 +22,6 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-71" value="1/4 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="10" width="26.81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;dashed=1;dashPattern=1 1;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=default;endArrow=classic;strokeWidth=2;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-60" target="ZM3fVLG3kwE9I13vfFy--39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644.1700000000001" y="47.27999999999986" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--34" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="500" width="60" height="40" as="geometry" />
         </mxCell>

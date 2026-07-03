@@ -22,9 +22,6 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-6" value="PM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="770" y="130" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-7" target="hkui3OscxuX9JVZ2OoqP-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-7" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;SPUP&lt;/span&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;WS_DGA&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="309" y="480" width="60" height="100" as="geometry" />
         </mxCell>
@@ -39,9 +36,6 @@
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="840" y="110" width="80" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-23" target="hkui3OscxuX9JVZ2OoqP-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-23" value="Seg&lt;div&gt;Head&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="40" height="80" as="geometry" />
@@ -110,6 +104,9 @@
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-129" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 11.3pt;&quot;&gt;&lt;font&gt;3×3 CGG&lt;br&gt;stride=2&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11.3pt;&quot;&gt;&lt;font&gt;3×3 CGG&lt;br&gt;stride=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=default;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="570.62" y="280" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--1" value="&lt;font size=&quot;1&quot;&gt;SPUP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="680.51" y="495" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

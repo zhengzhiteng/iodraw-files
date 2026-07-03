@@ -28,19 +28,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZM3fVLG3kwE9I13vfFy--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;strokeColor=default;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="459" y="295.0000000000001" as="sourcePoint" />
-            <mxPoint x="544.75" y="295.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--34" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="500" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZM3fVLG3kwE9I13vfFy--38" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--38" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="399.62" y="50" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZM3fVLG3kwE9I13vfFy--39" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--39" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="580.62" y="50" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--53" value="&lt;font size=&quot;1&quot;&gt;SPUP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
@@ -49,14 +43,8 @@
         <mxCell id="ZM3fVLG3kwE9I13vfFy--54" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;WS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;DGA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#A5E8A2;" vertex="1" parent="1">
           <mxGeometry x="263.63" y="390" width="50.62" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZM3fVLG3kwE9I13vfFy--109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ZM3fVLG3kwE9I13vfFy--75" target="ZM3fVLG3kwE9I13vfFy--102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--75" value="&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px; background-color: initial;&quot;&gt;Block&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&amp;nbsp;2&lt;/span&gt;&lt;/div&gt;WFB×2&lt;div&gt;dim=192&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="480" y="135" width="64.75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZM3fVLG3kwE9I13vfFy--114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ZM3fVLG3kwE9I13vfFy--76" target="hkui3OscxuX9JVZ2OoqP-60">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--76" value="&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;Stage 3&lt;/span&gt;&lt;/div&gt;WFB×2&lt;div&gt;dim=384&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="668.75" y="130" width="64.75" height="60" as="geometry" />

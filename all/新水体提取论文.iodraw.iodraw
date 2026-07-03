@@ -108,17 +108,8 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-44" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-size: 11.3pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Auxiliary&lt;br&gt;head&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="616.25" y="380" width="67.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-46" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="390" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-47" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="390" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-48" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="390" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-49" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="390" width="60" height="40" as="geometry" />
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-50" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="390" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

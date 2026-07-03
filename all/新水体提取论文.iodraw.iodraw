@@ -63,8 +63,8 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-9" target="hkui3OscxuX9JVZ2OoqP-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="420" />
-              <mxPoint x="446" y="420" />
+              <mxPoint x="490" y="430" />
+              <mxPoint x="446" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,7 +134,7 @@
           <mxGeometry x="414" y="370" width="63.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-50" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="350" width="60" height="40" as="geometry" />
+          <mxGeometry x="500" y="370" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-52" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="334" y="370" width="60" height="40" as="geometry" />

@@ -181,7 +181,7 @@
           <mxGeometry x="837.5" y="110" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--49" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;WS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;DGA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#A5E8A2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="390" width="40.62" height="100" as="geometry" />
+          <mxGeometry x="620" y="390" width="50.62" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--50" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=2&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAA878;strokeColor=default;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=10;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="250" width="60" height="90" as="geometry" />

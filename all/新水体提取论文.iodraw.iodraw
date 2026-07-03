@@ -135,10 +135,19 @@
           <mxGeometry x="535" y="560" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-78" value="H/16 × W/16" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="705" y="560" width="85" height="30" as="geometry" />
+          <mxGeometry x="697.5" y="560" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-81" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="379" y="560" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-82" value="H/8 × W/8" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="610" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-83" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="384" y="610" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-84" value="H/16 × W/16" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="610" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

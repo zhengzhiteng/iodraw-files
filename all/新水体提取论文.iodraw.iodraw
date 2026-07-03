@@ -102,8 +102,8 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-38" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-size: 11.3pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Auxiliary&lt;br&gt;head&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="456.25" y="380" width="67.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="380" width="50" height="60" as="geometry" />
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-40" value="&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 11.3pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Auxiliary&lt;br&gt;head&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="380" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="380" width="50" height="60" as="geometry" />

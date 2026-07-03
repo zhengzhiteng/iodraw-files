@@ -106,10 +106,10 @@
           <mxGeometry x="669.25" y="50" width="63.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-71" value="H/8 × W/8" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="575.62" y="580" width="70" height="30" as="geometry" />
+          <mxGeometry x="485" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-78" value="H/16 × W/16" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="748.12" y="580" width="85" height="30" as="geometry" />
+          <mxGeometry x="658" y="110" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-81" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="304" y="110" width="70" height="30" as="geometry" />

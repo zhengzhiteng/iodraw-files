@@ -128,6 +128,21 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-69" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="615" y="210" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-70" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="775" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-71" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="535" y="560" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-72" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-73" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-74" value="H/4 × W/4" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="705" y="560" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

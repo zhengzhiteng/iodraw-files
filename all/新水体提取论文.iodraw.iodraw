@@ -231,8 +231,11 @@
         <mxCell id="ZM3fVLG3kwE9I13vfFy--76" value="&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;Stage 3&lt;/span&gt;&lt;/div&gt;WFB×2&lt;div&gt;dim=384&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="669.25" y="135" width="64.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZM3fVLG3kwE9I13vfFy--77" value="&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;Stage 4&lt;/span&gt;&lt;/div&gt;WFB×2&lt;div&gt;dim=96&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--77" value="&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;Stage 4&lt;/span&gt;&lt;/div&gt;WFB×2&lt;div&gt;dim=&lt;span style=&quot;background-color: initial;&quot;&gt;384&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="840" y="130" width="64.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--79" value="PE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="243.63" y="150" width="30" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

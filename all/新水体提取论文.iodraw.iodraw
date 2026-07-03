@@ -109,7 +109,7 @@
           <mxGeometry x="720" y="390" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-52" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="354" y="390" width="60" height="40" as="geometry" />
+          <mxGeometry x="360" y="390" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-58" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="390" width="60" height="40" as="geometry" />

@@ -200,7 +200,7 @@
             <mxPoint x="240" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZM3fVLG3kwE9I13vfFy--34" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--34" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="220.62" y="500" width="60" height="40" as="geometry" />
         </mxCell>
       </root>

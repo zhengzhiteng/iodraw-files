@@ -33,6 +33,11 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-7" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;SPUP&lt;/span&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;WS_DGA&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="309" y="440" width="60" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="ZM3fVLG3kwE9I13vfFy--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="299" y="110" width="80" height="120" as="geometry" />
         </mxCell>
@@ -124,7 +129,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-116" target="hkui3OscxuX9JVZ2OoqP-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="360" />
+              <mxPoint x="339" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-116" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=2&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=default;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=10;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="60" height="90" as="geometry" />

@@ -153,6 +153,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-116" target="hkui3OscxuX9JVZ2OoqP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-116" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 11.3pt;&quot;&gt;&lt;font&gt;3×3 CGG&lt;br&gt;stride=2&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11.3pt;&quot;&gt;&lt;font&gt;3×3 CGG&lt;br&gt;stride=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=default;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="80" height="100" as="geometry" />
         </mxCell>

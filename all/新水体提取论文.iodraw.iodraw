@@ -132,7 +132,7 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-111" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="460" width="860" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-116" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-116" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="210" y="250" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;" vertex="1" parent="1">
@@ -142,7 +142,7 @@
           <mxGeometry x="570" y="250" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="80" height="120" as="geometry" />
+          <mxGeometry x="720.51" y="250" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

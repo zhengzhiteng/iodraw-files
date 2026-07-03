@@ -100,7 +100,7 @@
           <mxGeometry x="260" y="280" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-119" value="EASA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="770.62" y="280" width="40" height="90" as="geometry" />
+          <mxGeometry x="680" y="280" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--1" value="&lt;font size=&quot;1&quot;&gt;SPUP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="850" y="440" width="60" height="100" as="geometry" />

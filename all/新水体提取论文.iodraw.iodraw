@@ -129,7 +129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hkui3OscxuX9JVZ2OoqP-116" value="&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 11.3pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3×3 CGG&lt;br&gt;stride=2&lt;br&gt;&lt;/font&gt;&lt;pre style=&quot;font-size: 11.3pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3×3 CGG&lt;br&gt;stride=1&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=default;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;spacing=0;" vertex="1" parent="1">
+        <mxCell id="hkui3OscxuX9JVZ2OoqP-116" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 11.3pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3×3 CGG&lt;br&gt;stride=2&lt;br&gt;&lt;/font&gt;&lt;pre style=&quot;font-size: 11.3pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3×3 CGG&lt;br&gt;stride=1&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=default;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="200.47" y="280" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hkui3OscxuX9JVZ2OoqP-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=default;" vertex="1" parent="1">

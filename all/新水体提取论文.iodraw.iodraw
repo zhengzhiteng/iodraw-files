@@ -80,8 +80,8 @@
         <mxCell id="hkui3OscxuX9JVZ2OoqP-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-10" target="hkui3OscxuX9JVZ2OoqP-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="701" y="400" />
-              <mxPoint x="790" y="400" />
+              <mxPoint x="701" y="390" />
+              <mxPoint x="791" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>

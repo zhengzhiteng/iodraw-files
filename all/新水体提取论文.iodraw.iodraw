@@ -220,8 +220,8 @@
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-59" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;mso-themecolor:&amp;lt;br/&amp;gt;text1;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;PE: Patch Embedding&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Hxx7tXg7iyLMgy0v13q-60" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;mso-themecolor:&amp;lt;br/&amp;gt;text1;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;WPM: Patch Embedding&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="585" width="140" height="30" as="geometry" />
+        <mxCell id="_Hxx7tXg7iyLMgy0v13q-60" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;mso-themecolor:&amp;lt;br/&amp;gt;text1;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;WPM:&amp;nbsp;&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;Wavelet&amp;nbsp;&lt;/span&gt;Patch Embedding&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="585" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

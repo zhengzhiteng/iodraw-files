@@ -89,13 +89,13 @@
           <mxGeometry x="462.36" y="360" width="30.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-8" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;WS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;DGA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#A5E8A2;" vertex="1" parent="1">
-          <mxGeometry x="431.74" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="345" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-9" value="&lt;font size=&quot;1&quot;&gt;SP&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;UP&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="550.62" y="360" width="30.38" height="60" as="geometry" />
+          <mxGeometry x="584.81" y="360" width="30.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-10" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;WS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;DGA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#A5E8A2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="554.81" y="360" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

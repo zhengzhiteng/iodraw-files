@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_Hxx7tXg7iyLMgy0v13q-58" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:&#xa;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;mso-themecolor:&#xa;text1;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot; lang=&quot;EN-US&quot;&gt;Patch Embedding&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="_Hxx7tXg7iyLMgy0v13q-58" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="510" width="830" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -216,6 +216,9 @@
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-56" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;mso-themecolor:&amp;lt;br/&amp;gt;text1;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-weight:bold&quot;&gt;GCEP&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="789.38" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hxx7tXg7iyLMgy0v13q-59" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&#xa;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;mso-themecolor:&#xa;text1;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;Patch Embedding&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="610" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

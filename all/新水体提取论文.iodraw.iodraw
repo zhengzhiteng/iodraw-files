@@ -68,7 +68,7 @@
           <mxGeometry x="205" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--102" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=2&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=default;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=10;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="240" width="60" height="80" as="geometry" />
+          <mxGeometry x="650" y="210" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--103" value="EASA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFBA;strokeColor=default;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="780" y="240" width="40" height="80" as="geometry" />

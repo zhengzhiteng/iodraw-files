@@ -180,6 +180,9 @@
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-37" value="1/8 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="485.62" y="220" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_Hxx7tXg7iyLMgy0v13q-39" value="1/16 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="756" y="440" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

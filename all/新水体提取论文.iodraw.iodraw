@@ -118,13 +118,13 @@
           <mxGeometry x="160" y="240" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--106" value="1/8 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="300" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="375" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--112" value="1/16 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="408.12" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="550" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--113" value="1/32 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="363" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="720" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Hxx7tXg7iyLMgy0v13q-1" target="ZM3fVLG3kwE9I13vfFy--53">
           <mxGeometry relative="1" as="geometry" />

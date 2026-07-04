@@ -36,7 +36,7 @@
           <mxGeometry x="220" y="10" width="26.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--34" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="440" width="60" height="40" as="geometry" />
+          <mxGeometry x="140" y="460" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--38" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="349.62" y="50" width="60" height="40" as="geometry" />

@@ -750,7 +750,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="da4ARedcXw703gnRwtG--301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="da4ARedcXw703gnRwtG--10">
+        <mxCell id="da4ARedcXw703gnRwtG--301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="da4ARedcXw703gnRwtG--10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="159.9999999999999" as="targetPoint" />
             <Array as="points">

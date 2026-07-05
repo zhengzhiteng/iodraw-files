@@ -434,6 +434,15 @@
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-12" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="R6zeyBKH3tFPUUq4Iwj2-14" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="R6zeyBKH3tFPUUq4Iwj2-15" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="R6zeyBKH3tFPUUq4Iwj2-16" value="-" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="510" width="10" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -260,20 +260,8 @@
         <mxCell id="qgwwOroD6MGvAWiqAtG5-1" value="&lt;font size=&quot;1&quot;&gt;SP&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;UP4&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="764.19" y="390" width="30.38" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qgwwOroD6MGvAWiqAtG5-23" value="dim=48" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270.38" y="130" width="48" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qgwwOroD6MGvAWiqAtG5-24" value="dim=48" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="441" y="130" width="48" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qgwwOroD6MGvAWiqAtG5-25" value="dim=48" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="611.38" y="130" width="48" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="qgwwOroD6MGvAWiqAtG5-26" value="dim=48" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="779" y="130" width="48" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qgwwOroD6MGvAWiqAtG5-27" value="1/2 dim=48" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="129.81" y="300" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

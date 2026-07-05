@@ -126,7 +126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--105" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=2&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=10;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="208.81" y="250" width="60" height="80" as="geometry" />
+          <mxGeometry x="177.74" y="250" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--106" value="1/8 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="384.38" y="130" width="30" height="30" as="geometry" />
@@ -144,8 +144,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="268" y="240" />
-              <mxPoint x="320" y="240" />
-              <mxPoint x="320" y="360" />
+              <mxPoint x="360" y="240" />
+              <mxPoint x="360" y="360" />
               <mxPoint x="440" y="360" />
             </Array>
           </mxGeometry>

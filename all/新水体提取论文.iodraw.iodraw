@@ -727,7 +727,12 @@
         <mxCell id="da4ARedcXw703gnRwtG--4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475.00000000000006" y="360" width="156.57" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="da4ARedcXw703gnRwtG--7" value="&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;3 ×3&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Conv2d&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(8, 8, 8);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;stride=2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da4ARedcXw703gnRwtG--304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da4ARedcXw703gnRwtG--7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da4ARedcXw703gnRwtG--7" value="&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;3 ×3&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Conv2d&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(8, 8, 8);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;stride=2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="99" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da4ARedcXw703gnRwtG--298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da4ARedcXw703gnRwtG--8" target="da4ARedcXw703gnRwtG--9">

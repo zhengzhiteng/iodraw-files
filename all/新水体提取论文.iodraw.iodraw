@@ -1055,7 +1055,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-12" value="3×3 DWConv&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GN+&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;GELU&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="190" y="159.93" width="120" height="70" as="geometry" />
+          <mxGeometry x="190" y="159.93" width="90" height="60.07" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-14" target="Rin-V9nKzPTVtK_QL_JZ-18">
           <mxGeometry relative="1" as="geometry">
@@ -1075,7 +1075,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-16" value="3×3 DDWConv&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;&quot;&gt;GN+&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GELU&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="330" y="159.78" width="120" height="65.15" as="geometry" />
+          <mxGeometry x="330" y="159.78" width="90" height="60.22" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-18" target="Rin-V9nKzPTVtK_QL_JZ-23">
           <mxGeometry relative="1" as="geometry" />

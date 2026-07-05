@@ -492,16 +492,16 @@
           <mxGeometry x="591" y="685" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-43" value="LL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="565" width="40" height="30" as="geometry" />
+          <mxGeometry x="640" y="561.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-44" value="HL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="605" width="40" height="30" as="geometry" />
+          <mxGeometry x="640" y="601.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-45" value="LH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="645" width="40" height="30" as="geometry" />
+          <mxGeometry x="640" y="641.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-46" value="HH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="685" width="40" height="30" as="geometry" />
+          <mxGeometry x="640" y="680" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

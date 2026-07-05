@@ -420,7 +420,7 @@
           <mxGeometry x="195" y="460" width="15" height="10" as="geometry" />
         </mxCell>
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-7" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="500" width="10" height="10" as="geometry" />
+          <mxGeometry x="469" y="575" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-9" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="10" height="10" as="geometry" />
@@ -441,7 +441,7 @@
           <mxGeometry x="370" y="520" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-16" value="-" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="503.38" y="573" width="14.62" height="11" as="geometry" />
+          <mxGeometry x="540" y="509.5" width="14.62" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

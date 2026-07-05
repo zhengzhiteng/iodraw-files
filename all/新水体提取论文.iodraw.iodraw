@@ -51,7 +51,7 @@
           <mxGeometry x="218.38" y="130" width="26.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--34" value="Principal &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="470" width="60" height="40" as="geometry" />
+          <mxGeometry x="145" y="470" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--38" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="324.38" y="90" width="60" height="40" as="geometry" />
@@ -213,10 +213,10 @@
           <mxGeometry x="555" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-36" value="1/4 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="379" y="330" width="26.81" height="30" as="geometry" />
+          <mxGeometry x="348.19" y="330" width="26.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-37" value="1/8 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="503.69" y="330" width="30" height="30" as="geometry" />
+          <mxGeometry x="480.94" y="330" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-51" value="1/2 " style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="330" width="30" height="30" as="geometry" />

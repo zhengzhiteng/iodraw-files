@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17" pages="2">
   <diagram name="整体网络结构图" id="NlYy2Ik7fQ5N0b3IB_sm">
-    <mxGraphModel dx="984" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1291" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,14 @@
         </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZM3fVLG3kwE9I13vfFy--105" target="ZM3fVLG3kwE9I13vfFy--104" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qgwwOroD6MGvAWiqAtG5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZM3fVLG3kwE9I13vfFy--105" target="ZM3fVLG3kwE9I13vfFy--53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226" y="370" />
+              <mxPoint x="269" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZM3fVLG3kwE9I13vfFy--105" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=2&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3×3 CGG&lt;br style=&quot;font-size: 10px;&quot;&gt;stride=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=10;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="196.19" y="240" width="60" height="80" as="geometry" />
@@ -253,7 +261,7 @@
         <mxCell id="qgwwOroD6MGvAWiqAtG5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgwwOroD6MGvAWiqAtG5-1" target="_Hxx7tXg7iyLMgy0v13q-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgwwOroD6MGvAWiqAtG5-1" value="&lt;font size=&quot;1&quot;&gt;SP&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;UP&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="qgwwOroD6MGvAWiqAtG5-1" value="&lt;font size=&quot;1&quot;&gt;SP&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;UP4&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="764.19" y="390" width="30.38" height="60" as="geometry" />
         </mxCell>
       </root>

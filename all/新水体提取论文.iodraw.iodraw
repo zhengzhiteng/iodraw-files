@@ -165,9 +165,6 @@
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Hxx7tXg7iyLMgy0v13q-3" target="ZM3fVLG3kwE9I13vfFy--87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgwwOroD6MGvAWiqAtG5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Hxx7tXg7iyLMgy0v13q-3" target="qgwwOroD6MGvAWiqAtG5-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-3" value="&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Block 3 × 6&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;mIAIu7GWNmrTAuztNPWp&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot; lang=&quot;EN-US&quot;&gt;HF-MWCMSA&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;mIAIu7GWNmrTAuztNPWp&quot;&gt;AW-MLP&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="559.38" y="150" width="100" height="60" as="geometry" />
         </mxCell>

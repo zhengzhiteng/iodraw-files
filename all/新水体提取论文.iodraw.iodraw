@@ -284,11 +284,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rWswbiEBXLxCdfoI2P7G-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;CGG&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="rWswbiEBXLxCdfoI2P7G-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;CGG&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;kernel size = 3 stride=1&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ycw9oJq8J49VdcGEf9Z8-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;CGG&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;kernel size = 3 stride=1&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

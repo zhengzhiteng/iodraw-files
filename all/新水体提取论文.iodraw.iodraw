@@ -284,8 +284,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rWswbiEBXLxCdfoI2P7G-2" value="CGG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="rWswbiEBXLxCdfoI2P7G-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;CGG&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

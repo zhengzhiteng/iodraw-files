@@ -1074,7 +1074,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-16" value="1×1 Dilated Depth-wise&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-16" value="1×1 DDW&lt;br&gt;conv 3*3&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="330" y="159.78" width="120" height="65.15" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-18" target="Rin-V9nKzPTVtK_QL_JZ-23">

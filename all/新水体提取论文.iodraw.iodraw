@@ -419,6 +419,9 @@
         <mxCell id="R6zeyBKH3tFPUUq4Iwj2-5" value="Auxiliary &#xa;Loss" style="text;whiteSpace=wrap;align=center;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="444.38" y="180" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="R6zeyBKH3tFPUUq4Iwj2-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="195" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

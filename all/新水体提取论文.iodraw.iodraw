@@ -1506,7 +1506,7 @@
             <mxPoint x="1019" y="810.0250000000003" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHeRvL-8e-7hhKPBW6zD-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHeRvL-8e-7hhKPBW6zD-1">
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="aHeRvL-8e-7hhKPBW6zD-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="330" as="targetPoint" />
           </mxGeometry>

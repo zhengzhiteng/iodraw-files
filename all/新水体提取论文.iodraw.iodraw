@@ -1958,10 +1958,10 @@
           <mxGeometry x="430" y="340.72" width="90" height="60.07" as="geometry" />
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-102" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="465.29" width="20" height="26.96" as="geometry" />
+          <mxGeometry x="640" y="468.25" width="20" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-103" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="600" y="493.04" width="26" height="23.11" as="geometry" />
+          <mxGeometry x="600" y="493.04" width="20" height="23.11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

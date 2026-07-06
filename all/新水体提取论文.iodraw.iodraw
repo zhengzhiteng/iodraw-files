@@ -1712,7 +1712,7 @@
           <mxGeometry x="1169" y="380.46000000000004" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-201" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="191" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="191" width="680" height="319" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

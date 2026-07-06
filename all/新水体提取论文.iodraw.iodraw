@@ -1730,8 +1730,16 @@
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-127" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="225" y="400.96999999999997" width="50" height="38.99" as="geometry" />
         </mxCell>
+        <mxCell id="kwEMf_lMKW8dbvRLVCj7-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kwEMf_lMKW8dbvRLVCj7-128" target="kwEMf_lMKW8dbvRLVCj7-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-128" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="267" y="502.64" width="26" height="23.11" as="geometry" />
+        </mxCell>
+        <mxCell id="kwEMf_lMKW8dbvRLVCj7-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kwEMf_lMKW8dbvRLVCj7-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-144" value="hf_gate&amp;nbsp;&lt;div&gt;Learnable Param &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="230" y="554.26" width="100" height="40" as="geometry" />

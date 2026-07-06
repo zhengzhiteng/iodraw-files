@@ -1947,7 +1947,11 @@
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDLSJn7xJb5oc0nDovJC-98">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="480" as="targetPoint" />
+            <mxPoint x="420" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="480" />
+              <mxPoint x="431" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-98" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3×3 DWConv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">

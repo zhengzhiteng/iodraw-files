@@ -1144,7 +1144,7 @@
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-42" target="Rin-V9nKzPTVtK_QL_JZ-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-42" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;GroupNorm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GELU&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-42" value="Conv 1*1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;GN+&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;GELU&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="650" y="329.0999999999999" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-44" target="Rin-V9nKzPTVtK_QL_JZ-49">

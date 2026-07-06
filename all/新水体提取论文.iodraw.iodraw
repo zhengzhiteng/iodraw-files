@@ -1011,7 +1011,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s9H_OfaauoDwJ-XEqRnG" name="第 4 页">
-    <mxGraphModel dx="532" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1955,12 +1955,8 @@
         <mxCell id="BDLSJn7xJb5oc0nDovJC-98" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3×3 DWConv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="430" y="340.72" width="90" height="60.07" as="geometry" />
         </mxCell>
-        <mxCell id="BDLSJn7xJb5oc0nDovJC-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDLSJn7xJb5oc0nDovJC-102" target="kwEMf_lMKW8dbvRLVCj7-128">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="514" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BDLSJn7xJb5oc0nDovJC-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDLSJn7xJb5oc0nDovJC-102" target="kwEMf_lMKW8dbvRLVCj7-128">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-102" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="405" y="429.39" width="25" height="22.86" as="geometry" />

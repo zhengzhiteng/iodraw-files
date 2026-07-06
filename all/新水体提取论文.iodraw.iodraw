@@ -1961,7 +1961,7 @@
           <mxGeometry x="640" y="468.25" width="20" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-103" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="600" y="493.04" width="20" height="23.11" as="geometry" />
+          <mxGeometry x="600" y="500" width="20" height="18.79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

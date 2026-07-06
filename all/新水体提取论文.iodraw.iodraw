@@ -1911,11 +1911,11 @@
             <mxPoint x="870" y="508.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHeRvL-8e-7hhKPBW6zD-167" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;PixelShuffle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;r=2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="308" width="80" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-168" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;PixelShuffle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;r=2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="400" width="80" height="39.96" as="geometry" />
+        </mxCell>
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-169" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;PixelShuffle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;r=2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="318.64" width="80" height="39.96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

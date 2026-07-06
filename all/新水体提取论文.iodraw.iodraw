@@ -1096,9 +1096,6 @@
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-46" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;AdaAvgPool&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;fontColor=#000000;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="640" y="-210.07" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1×1 Conv&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;GN&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Droupout&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="540" y="169.89" width="90" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1×1 Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="640" y="-89.02999999999997" width="100" height="30.9" as="geometry" />
         </mxCell>
@@ -1565,7 +1562,7 @@
           <mxGeometry x="30" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-1" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="730" y="565.48" width="50" height="39.03" as="geometry" />
+          <mxGeometry x="640" y="520.25" width="40" height="39.03" as="geometry" />
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-2" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;Value&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="951" y="565.48" width="50" height="38.99" as="geometry" />

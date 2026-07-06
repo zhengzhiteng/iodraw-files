@@ -1911,7 +1911,7 @@
             <mxPoint x="870" y="508.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHeRvL-8e-7hhKPBW6zD-165" value="view/reshape/&#xa;channel interleaving" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-165" value="view/reshape/&#xa;channel interleaving" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="900" y="460" width="160" height="60" as="geometry" />
         </mxCell>
       </root>

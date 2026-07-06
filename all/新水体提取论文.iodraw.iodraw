@@ -1564,6 +1564,15 @@
         <mxCell id="Hd3gK7qGRQY3zEPoLEa5-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hd3gK7qGRQY3zEPoLEa5-45">
           <mxGeometry x="30" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-1" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="498.25" width="50" height="39.03" as="geometry" />
+        </mxCell>
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-2" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;Value&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="751" y="498.25" width="50" height="38.99" as="geometry" />
+        </mxCell>
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-3" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;Key&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="641" y="498.25" width="50" height="38.99" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

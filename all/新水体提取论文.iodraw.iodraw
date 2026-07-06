@@ -1018,16 +1018,6 @@
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-4" target="Rin-V9nKzPTVtK_QL_JZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" target="Rin-V9nKzPTVtK_QL_JZ-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="390.06" as="targetPoint" />
-            <mxPoint x="540" y="240.06" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="470" y="240.06" />
-              <mxPoint x="470" y="430.06" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-4" value="&lt;span style=&quot;&quot;&gt;GroupNorm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="480" y="269.93" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1058,7 +1048,7 @@
           <mxGeometry x="315" y="159.63" width="90" height="60.22" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-18" value="hf_gate&amp;nbsp;&lt;div&gt;Learnable Param &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="190" y="259.1" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="259.1" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-19" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="264" y="336.76" width="40" height="20" as="geometry" />

@@ -1945,15 +1945,6 @@
         <mxCell id="BDLSJn7xJb5oc0nDovJC-90" value="hf_gate&amp;nbsp;&lt;div&gt;Learnable Param &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="425" y="261.94000000000005" width="100" height="39.03" as="geometry" />
         </mxCell>
-        <mxCell id="BDLSJn7xJb5oc0nDovJC-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDLSJn7xJb5oc0nDovJC-98">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="475" y="480" />
-              <mxPoint x="431" y="480" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-98" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3×3 DWConv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="430" y="340.72" width="90" height="60.07" as="geometry" />
         </mxCell>
@@ -1965,6 +1956,9 @@
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-105" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="560" y="485.14" width="26" height="23.11" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLSJn7xJb5oc0nDovJC-106" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="538.25" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

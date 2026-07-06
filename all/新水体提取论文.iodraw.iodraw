@@ -1077,6 +1077,9 @@
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-18" value="hf_gate&amp;nbsp;&lt;div&gt;Learnable Param &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="200" y="260.97" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kwEMf_lMKW8dbvRLVCj7-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-35" target="kwEMf_lMKW8dbvRLVCj7-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-35" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="184" y="469.93" width="26" height="23.11" as="geometry" />
         </mxCell>

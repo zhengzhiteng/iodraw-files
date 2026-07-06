@@ -1192,7 +1192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eYEN_mcO3qI49ggwdA-b-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1×1 Conv&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GN+&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GELU&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="95" y="159.93" width="90" height="60.07" as="geometry" />
+          <mxGeometry x="40" y="40" width="90" height="60.07" as="geometry" />
         </mxCell>
         <mxCell id="eYEN_mcO3qI49ggwdA-b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" source="eYEN_mcO3qI49ggwdA-b-10" target="eYEN_mcO3qI49ggwdA-b-20" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1307,7 +1307,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eYEN_mcO3qI49ggwdA-b-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3×3&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DWConv&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;GN+&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;GELU&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="95" y="80" width="85" height="60.07" as="geometry" />
+          <mxGeometry x="40" y="109.03" width="90" height="60.07" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

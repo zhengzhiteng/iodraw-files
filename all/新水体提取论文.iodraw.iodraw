@@ -1072,97 +1072,95 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-18" value="Parameter " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="190" y="259.87" width="120" height="18.25" as="geometry" />
+          <mxGeometry x="184" y="316.76" width="120" height="18.25" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-19" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="270" y="279.87" width="40" height="20" as="geometry" />
+          <mxGeometry x="264" y="336.76" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="410" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-23" target="Rin-V9nKzPTVtK_QL_JZ-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-23" target="Rin-V9nKzPTVtK_QL_JZ-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="340" />
-              <mxPoint x="110" y="340" />
+              <mxPoint x="244" y="396.89" />
+              <mxPoint x="104" y="396.89" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-23" target="Rin-V9nKzPTVtK_QL_JZ-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="340" />
-              <mxPoint x="390" y="340" />
+              <mxPoint x="244" y="396.89" />
+              <mxPoint x="384" y="396.89" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-23" value="Window Paritition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="190" y="301.45000000000005" width="120" height="23.4" as="geometry" />
+          <mxGeometry x="184" y="358.34000000000003" width="120" height="23.4" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-25" target="Rin-V9nKzPTVtK_QL_JZ-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-25" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="80" y="359.70000000000005" width="60" height="25.15" as="geometry" />
+          <mxGeometry x="74" y="416.59000000000003" width="60" height="25.15" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-27" target="Rin-V9nKzPTVtK_QL_JZ-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-27" value="Key" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="220" y="359.70000000000005" width="60" height="25.15" as="geometry" />
+          <mxGeometry x="214" y="416.59000000000003" width="60" height="25.15" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-29" target="Rin-V9nKzPTVtK_QL_JZ-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="495" />
+              <mxPoint x="384" y="551.89" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-29" value="Value" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="360" y="359.70000000000005" width="60" height="25.15" as="geometry" />
+          <mxGeometry x="354" y="416.59000000000003" width="60" height="25.15" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-31" target="Rin-V9nKzPTVtK_QL_JZ-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="460" />
+              <mxPoint x="104" y="516.89" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-31" value="L2 Norm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="80" y="409.4" width="60" height="20.6" as="geometry" />
+          <mxGeometry x="74" y="466.28999999999996" width="60" height="20.6" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-33" target="Rin-V9nKzPTVtK_QL_JZ-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="460" />
+              <mxPoint x="244" y="516.89" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-33" value="L2 Norm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffce9f;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="220" y="409.40000000000003" width="60" height="20" as="geometry" />
+          <mxGeometry x="214" y="466.29" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-35" target="Rin-V9nKzPTVtK_QL_JZ-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="495" />
+              <mxPoint x="174" y="551.89" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-35" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="170" y="450" width="20" height="20" as="geometry" />
+          <mxGeometry x="164" y="506.89" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="570" as="targetPoint" />
+            <mxPoint x="244" y="626.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-37" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="240" y="484.85" width="20" height="20" as="geometry" />
+          <mxGeometry x="234" y="541.74" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-38" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="260" y="514.12" width="40" height="20" as="geometry" />
+          <mxGeometry x="254" y="571.01" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-40" target="Rin-V9nKzPTVtK_QL_JZ-51">
           <mxGeometry relative="1" as="geometry" />

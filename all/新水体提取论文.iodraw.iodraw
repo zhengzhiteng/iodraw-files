@@ -1688,7 +1688,7 @@
           <mxGeometry x="381" y="600" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-125" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Key&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="165" y="620" width="50" height="38.99" as="geometry" />
+          <mxGeometry x="225" y="321.52" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-126" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="165" y="670" width="50" height="38.99" as="geometry" />

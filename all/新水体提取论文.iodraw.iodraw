@@ -1055,6 +1055,9 @@
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3×3 DDWConv&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;GN+&lt;span style=&quot;background-color: initial;&quot;&gt;GELU&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="315" y="159.63" width="90" height="60.22" as="geometry" />
         </mxCell>
+        <mxCell id="kwEMf_lMKW8dbvRLVCj7-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-18" target="kwEMf_lMKW8dbvRLVCj7-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-18" value="hf_gate&amp;nbsp;&lt;div&gt;Learnable Param &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="200" y="260.97" width="100" height="40" as="geometry" />
         </mxCell>
@@ -1658,7 +1661,7 @@
           <mxGeometry x="813" y="1084.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-121" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="116" y="321.52" width="50" height="38.99" as="geometry" />
+          <mxGeometry x="114" y="330.96999999999997" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-123" value="Conv 3×3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="201" y="790" width="120" height="40" as="geometry" />
@@ -1667,13 +1670,13 @@
           <mxGeometry x="335" y="321.52" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-125" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Key&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="225" y="321.52" width="50" height="38.99" as="geometry" />
+          <mxGeometry x="225" y="330.96999999999997" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-126" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="116" y="389.93" width="50" height="38.99" as="geometry" />
+          <mxGeometry x="116" y="396.93" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-127" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="225" y="392.88" width="50" height="38.99" as="geometry" />
+          <mxGeometry x="225" y="400.96999999999997" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-128" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="60.5" y="650" width="26" height="23.11" as="geometry" />

@@ -1927,7 +1927,7 @@
           <mxGeometry x="1193" y="308.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-89" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DWT&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="316" y="93.1" width="84" height="60.15" as="geometry" />
+          <mxGeometry x="440" y="159.63" width="90" height="60.15" as="geometry" />
         </mxCell>
         <mxCell id="BDLSJn7xJb5oc0nDovJC-90" value="hf_gate&amp;nbsp;&lt;div&gt;Learnable Param &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="560" y="330.93" width="100" height="39.03" as="geometry" />

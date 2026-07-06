@@ -1047,12 +1047,6 @@
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-18" value="hf_gate&amp;nbsp;&lt;div&gt;Learnable Param &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="200" y="259.1" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-19" value="reshape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="264" y="336.76" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-23" value="Window Paritition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="184" y="358.34000000000003" width="120" height="23.4" as="geometry" />
-        </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-25" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="74" y="416.59000000000003" width="60" height="25.15" as="geometry" />
         </mxCell>
@@ -1682,7 +1676,7 @@
           <mxGeometry x="813" y="1084.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-121" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="40" y="561.01" width="50" height="38.99" as="geometry" />
+          <mxGeometry x="116" y="321.52" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-122" value="Conv 3×3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="400" y="700" width="120" height="40" as="geometry" />

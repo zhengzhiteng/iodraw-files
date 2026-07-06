@@ -1803,6 +1803,9 @@
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-109" value="" style="strokeWidth=0.3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="737" y="473.44000000000005" width="10" height="69.68" as="geometry" />
         </mxCell>
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-113" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="767" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

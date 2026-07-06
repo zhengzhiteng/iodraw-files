@@ -1048,7 +1048,7 @@
           <mxGeometry x="200" y="250.00000000000003" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-35" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="164" y="506.89" width="20" height="20" as="geometry" />
+          <mxGeometry x="164" y="506.89" width="26" height="23.11" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-37" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="234" y="541.74" width="20" height="20" as="geometry" />

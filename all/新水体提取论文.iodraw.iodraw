@@ -1578,7 +1578,7 @@
             <mxPoint x="1030" y="329.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHeRvL-8e-7hhKPBW6zD-168" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;PixelShuffle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;r=2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-168" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;PixelShuffle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;r=2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="930" y="309.38" width="80" height="39.96" as="geometry" />
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="aHeRvL-8e-7hhKPBW6zD-169">
@@ -1594,7 +1594,7 @@
             <mxPoint x="1030" y="419.61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHeRvL-8e-7hhKPBW6zD-170" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;PixelShuffle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;r=2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-170" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;PixelShuffle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;r=2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="930" y="399.63" width="80" height="39.96" as="geometry" />
         </mxCell>
         <mxCell id="Hd3gK7qGRQY3zEPoLEa5-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">

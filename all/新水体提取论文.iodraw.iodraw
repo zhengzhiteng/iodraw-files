@@ -1048,10 +1048,7 @@
           <mxGeometry x="200" y="250.00000000000003" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-35" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="164" y="506.89" width="26" height="23.11" as="geometry" />
-        </mxCell>
-        <mxCell id="Rin-V9nKzPTVtK_QL_JZ-37" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="234" y="541.74" width="20" height="20" as="geometry" />
+          <mxGeometry x="19.5" y="650" width="26" height="23.11" as="geometry" />
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;reshape&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="30" y="528.05" width="46" height="28.99" as="geometry" />
@@ -1658,6 +1655,9 @@
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-127" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="225" y="392.88" width="50" height="38.99" as="geometry" />
+        </mxCell>
+        <mxCell id="kwEMf_lMKW8dbvRLVCj7-128" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="60.5" y="650" width="26" height="23.11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

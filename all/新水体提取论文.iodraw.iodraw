@@ -1912,7 +1912,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-165" value="view/reshape/channel interleaving" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="900" y="460" width="200" height="30" as="geometry" />
+          <mxGeometry x="919" y="439.93" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aHeRvL-8e-7hhKPBW6zD-166" value="view/reshape/channel interleaving" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="950" y="508.25" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

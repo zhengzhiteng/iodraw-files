@@ -1760,7 +1760,7 @@
           <mxGeometry x="900" y="436.25" width="70" height="24" as="geometry" />
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-95" value="HL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="970" y="403.25" width="70" height="24" as="geometry" />
+          <mxGeometry x="970" y="520" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-96" value="0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="900" y="520" width="70" height="21.75" as="geometry" />

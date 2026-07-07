@@ -1623,7 +1623,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-81" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="80" height="10" as="geometry" />
+          <mxGeometry x="220" y="250" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-82" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="215" width="80" height="10" as="geometry" />

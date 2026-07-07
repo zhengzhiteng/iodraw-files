@@ -1817,10 +1817,10 @@
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="262.37" y="280.75" as="targetPoint" />
-            <mxPoint x="245.0000000000001" y="245.00965569093557" as="sourcePoint" />
+            <mxPoint x="262.37" y="278.75" as="targetPoint" />
+            <mxPoint x="245.0000000000001" y="243.00965569093557" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="262.37" y="244.75" />
+              <mxPoint x="262.37" y="242.75" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2047,13 +2047,13 @@
           <mxGeometry x="358.75" y="391.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="khuBDPposEzI_jcvoQpg-3" value="γ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="318.75" y="390" width="30" height="30" as="geometry" />
+          <mxGeometry x="318.75" y="236.75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="363.75" y="415.25" width="20" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;strokeColor=default;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="323.75" y="415.25" width="21" height="19.75" as="geometry" />
+          <mxGeometry x="323.75" y="262" width="21" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-3" value="÷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="225.25" y="276.25" width="19.75" height="19.75" as="geometry" />

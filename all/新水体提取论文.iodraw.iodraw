@@ -1775,8 +1775,8 @@
             <mxPoint x="390" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-244" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=10;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="70" height="20" as="geometry" />
+        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-244" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;" vertex="1" parent="1">
+          <mxGeometry x="210" y="305" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

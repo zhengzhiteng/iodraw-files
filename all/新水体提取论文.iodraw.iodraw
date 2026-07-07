@@ -2074,13 +2074,13 @@
           <mxGeometry x="399" y="250.25" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="khuBDPposEzI_jcvoQpg-3" value="γ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="250.25" width="30" height="30" as="geometry" />
+          <mxGeometry x="384" y="220.25" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="330" y="279.25" width="20" height="19.75" as="geometry" />
+          <mxGeometry x="515" y="259.5" width="20" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;strokeColor=default;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="429" y="280.25" width="21" height="19.75" as="geometry" />
+          <mxGeometry x="320" y="280.5" width="21" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-3" value="÷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430.25" y="321.75" width="19.75" height="19.75" as="geometry" />

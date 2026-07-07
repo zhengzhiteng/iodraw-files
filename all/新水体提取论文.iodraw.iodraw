@@ -1788,7 +1788,7 @@
           <mxGeometry x="320" y="316" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-242" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="316" width="100" height="100" as="geometry" />
+          <mxGeometry x="240" y="280" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

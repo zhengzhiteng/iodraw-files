@@ -1878,7 +1878,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-310" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="317.5" width="20" height="15" as="geometry" />
+          <mxGeometry x="270" y="317.5" width="20" height="16" as="geometry" />
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-311" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="317.5" width="10" height="15" as="geometry" />

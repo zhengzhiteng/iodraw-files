@@ -1830,7 +1830,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-229" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="270" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -2085,16 +2085,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ucogvShdY0Y0n200ydVE-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="320" as="sourcePoint" />
-            <mxPoint x="280" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234.97" y="253.75" as="sourcePoint" />
             <mxPoint x="234.97" y="273.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ucogvShdY0Y0n200ydVE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228" y="296.25" as="targetPoint" />
+            <mxPoint x="205.5" y="296.35" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="219" y="296.25" />
+              <mxPoint x="219" y="296.25" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

@@ -1049,7 +1049,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rin-V9nKzPTVtK_QL_JZ-18" value="Adaptive Fusion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3abd0;fontFamily=Times New Roman;strokeColor=default;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="195" y="260.49" width="110" height="40" as="geometry" />
+          <mxGeometry x="195.5" y="254.56" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontSize=15;" parent="1" source="Rin-V9nKzPTVtK_QL_JZ-35" target="kwEMf_lMKW8dbvRLVCj7-128" edge="1">
           <mxGeometry relative="1" as="geometry">

@@ -1845,13 +1845,11 @@
             <mxPoint x="237.37" y="302.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="etXA8zyIWxNu61FTFfuE-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="etXA8zyIWxNu61FTFfuE-213">
+        <mxCell id="etXA8zyIWxNu61FTFfuE-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="312.2500000000001" as="targetPoint" />
+            <mxPoint x="250" y="312" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="etXA8zyIWxNu61FTFfuE-213" value="÷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="233.5" y="308.25" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="etXA8zyIWxNu61FTFfuE-214" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;fillColor=#CCE5FF;container=0;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="304.75" width="15" height="15" as="geometry" />
@@ -2105,7 +2103,7 @@
           <mxGeometry x="429" y="280.25" width="21" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-3" value="÷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="280.25" width="8" height="8" as="geometry" />
+          <mxGeometry x="470" y="280.25" width="19.75" height="19.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

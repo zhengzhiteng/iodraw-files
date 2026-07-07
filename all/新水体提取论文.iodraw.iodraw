@@ -1512,18 +1512,8 @@
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1×1 Conv&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;GN+&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;GELU&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="190" width="90" height="49.85" as="geometry" />
         </mxCell>
-        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=15;" edge="1" parent="1" source="aDwXQaR-0eGsMCW3Oxfa-15" target="aDwXQaR-0eGsMCW3Oxfa-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-15" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="114" y="322.76000000000005" width="50" height="39.03" as="geometry" />
-        </mxCell>
-        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontSize=15;" edge="1" parent="1" source="aDwXQaR-0eGsMCW3Oxfa-17" target="aDwXQaR-0eGsMCW3Oxfa-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="441" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-17" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;Value&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="322.79999999999995" width="50" height="38.99" as="geometry" />

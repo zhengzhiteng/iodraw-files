@@ -1619,8 +1619,8 @@
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-45" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1×1 Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="450" y="900" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-46" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:11.3pt;&quot;&gt;Dropout&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="720" width="90" height="70" as="geometry" />
+        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-47" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dropout&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ac7bf;fontFamily=Times New Roman;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="900" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

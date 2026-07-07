@@ -683,12 +683,12 @@
           <mxGeometry x="325" y="540" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HReAfSW5T8H75s1V3XQB-12" value="( b )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="525" y="540" width="60" height="40" as="geometry" />
+          <mxGeometry x="521" y="540" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HReAfSW5T8H75s1V3XQB-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="110" as="sourcePoint" />
-            <mxPoint x="600" y="60" as="targetPoint" />
+            <mxPoint x="550" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

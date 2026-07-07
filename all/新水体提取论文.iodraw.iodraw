@@ -1634,8 +1634,8 @@
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-84" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="235" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-85" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="225" width="120" height="80" as="geometry" />
+        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-85" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="222.5" width="30" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

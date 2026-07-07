@@ -679,9 +679,6 @@
         <mxCell id="HReAfSW5T8H75s1V3XQB-5" value="&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;3 ×3&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;CGG&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;stride=2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="270" y="355" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HReAfSW5T8H75s1V3XQB-10" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;left&quot; style=&quot;text-align:left&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;mso-fareast-language:ZH-CN&quot;&gt;Fig. 2 Patch Embedding(a) and Pach&#xa;Merging(b)&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="620" width="260" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

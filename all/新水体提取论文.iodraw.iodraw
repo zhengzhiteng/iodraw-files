@@ -1486,9 +1486,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-333" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=6;" vertex="1" parent="1">
-          <mxGeometry x="285" y="350" width="60" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-328" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="270" y="420" width="15" height="45" as="geometry" />
         </mxCell>
@@ -1807,6 +1804,9 @@
         </mxCell>
         <mxCell id="aDwXQaR-0eGsMCW3Oxfa-332" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDwXQaR-0eGsMCW3Oxfa-334" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

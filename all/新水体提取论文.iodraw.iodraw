@@ -684,6 +684,9 @@
         <mxCell id="HReAfSW5T8H75s1V3XQB-5" value="&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;3 ×3&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;CGG&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;stride=2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="270" y="355" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HReAfSW5T8H75s1V3XQB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

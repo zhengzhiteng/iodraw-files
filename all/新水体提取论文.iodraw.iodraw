@@ -2051,8 +2051,12 @@
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="167.5" y="264.099090909091" as="targetPoint" />
-            <mxPoint x="147.5" y="264.1" as="sourcePoint" />
+            <mxPoint x="169" y="264" as="targetPoint" />
+            <mxPoint x="146.5" y="264.1" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="264" />
+              <mxPoint x="160" y="264" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

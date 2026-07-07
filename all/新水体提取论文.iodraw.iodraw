@@ -2047,7 +2047,7 @@
           <mxGeometry x="323.75" y="415.25" width="21" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-3" value="÷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="434" y="456.5" width="19.75" height="19.75" as="geometry" />
+          <mxGeometry x="225.25" y="273.87" width="19.75" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="ucogvShdY0Y0n200ydVE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">

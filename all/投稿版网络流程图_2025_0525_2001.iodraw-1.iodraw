@@ -665,6 +665,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_anu6JDlxsQjoty9fMBb-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SknShov-hAV908h2U_dY-1" source="-WBXYig6S8fIoqWudhxW-7" target="Yv2poYSiTgN62lC3XTJ9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-WBXYig6S8fIoqWudhxW-7" value="Window Paritition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="SknShov-hAV908h2U_dY-1" vertex="1">
           <mxGeometry x="160" y="364.12" width="120" height="18.25" as="geometry" />
         </mxCell>

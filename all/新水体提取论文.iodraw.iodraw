@@ -270,6 +270,9 @@
         <mxCell id="d6wRvaON3mkWe-4PPiWp-3" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&#xa;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&#xa;letter-spacing:-.15pt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&#xa;mso-bidi-language:AR-SA&quot;&gt;Detail-Gated Aggregation Module&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="570" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="d6wRvaON3mkWe-4PPiWp-4" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&#xa;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&#xa;letter-spacing:-.15pt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&#xa;mso-bidi-language:AR-SA&quot;&gt;DGAM&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

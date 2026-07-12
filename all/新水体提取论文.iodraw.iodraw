@@ -800,7 +800,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kwEMf_lMKW8dbvRLVCj7-126" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="kwEMf_lMKW8dbvRLVCj7-126" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="114" y="381.42" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="kwEMf_lMKW8dbvRLVCj7-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=15;" parent="1" source="kwEMf_lMKW8dbvRLVCj7-127" target="Rin-V9nKzPTVtK_QL_JZ-35" edge="1">
@@ -811,7 +811,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kwEMf_lMKW8dbvRLVCj7-127" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="kwEMf_lMKW8dbvRLVCj7-127" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;L2 Norm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="225" y="382.33" width="50" height="38.99" as="geometry" />
         </mxCell>
         <mxCell id="aHeRvL-8e-7hhKPBW6zD-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kwEMf_lMKW8dbvRLVCj7-128" target="BDLSJn7xJb5oc0nDovJC-112" edge="1">

@@ -152,6 +152,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="d6wRvaON3mkWe-4PPiWp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Hxx7tXg7iyLMgy0v13q-2" target="hkui3OscxuX9JVZ2OoqP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_Hxx7tXg7iyLMgy0v13q-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Block 2 × 2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;HF-&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 10pt; letter-spacing: -0.15pt; background-color: initial;&quot;&gt;MWSA&lt;/span&gt;&lt;/div&gt;AW-FFN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=15;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="499" y="230" width="100" height="60" as="geometry" />
         </mxCell>
@@ -269,9 +272,6 @@
         </mxCell>
         <mxCell id="d6wRvaON3mkWe-4PPiWp-5" value="&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PE:&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.0pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;letter-spacing:-.15pt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot;&gt;Patch Embedding&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="900" y="670" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6wRvaON3mkWe-4PPiWp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.401;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hkui3OscxuX9JVZ2OoqP-38" target="_Hxx7tXg7iyLMgy0v13q-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

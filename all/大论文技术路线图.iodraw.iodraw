@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XGEH5TVDe156d8JWwBw_-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="334" y="420" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-1" value="灾前阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
           <mxGeometry x="310" y="445" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-15" value="光&lt;div&gt;学&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="440" width="20" height="70" as="geometry" />
+          <mxGeometry x="460" y="440" width="20" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

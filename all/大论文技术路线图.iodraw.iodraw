@@ -243,7 +243,7 @@
           <mxGeometry x="640" y="155" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-168" value="数据&lt;div&gt;处理&lt;/div&gt;&lt;div&gt;以及&lt;/div&gt;&lt;div&gt;数据&lt;span style=&quot;background-color: initial;&quot;&gt;集&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;制作&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="860" y="390" width="60" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

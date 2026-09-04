@@ -11,7 +11,7 @@
           <mxGeometry x="439" y="250" width="251" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-162" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="159" height="310" as="geometry" />
+          <mxGeometry x="280" y="250" width="170" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-161" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="160" height="310" as="geometry" />
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-19" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;光学&lt;/span&gt;&lt;div style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;建&lt;span style=&quot;background-color: initial;&quot;&gt;筑物&lt;/span&gt;&lt;div&gt;数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="326.5" y="150" width="45" height="90" as="geometry" />
+          <mxGeometry x="337" y="150" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-20" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;灾前阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="120" height="40" as="geometry" />

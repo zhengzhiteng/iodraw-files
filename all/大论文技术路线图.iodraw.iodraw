@@ -248,8 +248,8 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-169" value="灾前灾中建筑物及水体提取算法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="94" y="305" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-170" value="灾前灾中建筑物及水体提取算法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="104" y="315" width="30" height="160" as="geometry" />
+        <mxCell id="XGEH5TVDe156d8JWwBw_-170" value="典型研究区受灾分析及评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="380" width="40" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

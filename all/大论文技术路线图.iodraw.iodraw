@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XGEH5TVDe156d8JWwBw_-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="349" y="730" width="130" height="127" as="geometry" />
+          <mxGeometry x="330" y="730" width="149" height="127" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-103" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
-          <mxGeometry width="130" height="80" as="geometry" />
+          <mxGeometry width="149" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-104" value="灾中淹没信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
-          <mxGeometry x="17" y="50" width="95" height="30" as="geometry" />
+          <mxGeometry x="19.484615384615385" y="50" width="108.88461538461537" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-101" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="600" width="139" height="126" as="geometry" />
+          <mxGeometry x="330" y="600" width="149" height="126" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="994" y="260" width="160" height="100" as="geometry" />

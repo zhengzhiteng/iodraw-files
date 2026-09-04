@@ -7,6 +7,11 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="284" y="250" width="160" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-1" value="灾前阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>

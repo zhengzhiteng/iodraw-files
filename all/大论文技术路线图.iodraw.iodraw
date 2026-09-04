@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="560" width="610" height="450" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-164" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="840" y="255" width="251" height="310" as="geometry" />
+          <mxGeometry x="440" y="250" width="251" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-162" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="170" height="310" as="geometry" />
@@ -111,8 +111,11 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-41" value="多源数据模型库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="299.5" y="570" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-45" target="XGEH5TVDe156d8JWwBw_-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-45" value="洪水网络训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-62" target="XGEH5TVDe156d8JWwBw_-41">
           <mxGeometry relative="1" as="geometry" />

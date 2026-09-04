@@ -50,7 +50,7 @@
           <mxGeometry x="640" y="155" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;strokeColor=#B5739D;" vertex="1" parent="1">
-          <mxGeometry x="160" y="145" width="158" height="100" as="geometry" />
+          <mxGeometry x="760" y="40" width="158" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;strokeColor=#B5739D;" vertex="1" parent="1">
           <mxGeometry x="452" y="145" width="158" height="100" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="160" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-38" value="网络训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="170" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="294" y="450" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

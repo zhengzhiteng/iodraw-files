@@ -169,11 +169,14 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-102" value="灾前底图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="600" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-103" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="587" width="130" height="126" as="geometry" />
+        <mxCell id="XGEH5TVDe156d8JWwBw_-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="750" y="490" width="130" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-104" value="灾中淹没信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="587" width="95" height="30" as="geometry" />
+        <mxCell id="XGEH5TVDe156d8JWwBw_-103" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
+          <mxGeometry width="130" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-104" value="灾中淹没信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
+          <mxGeometry x="17.5" y="97" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

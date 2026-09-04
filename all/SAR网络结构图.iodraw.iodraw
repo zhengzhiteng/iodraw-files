@@ -99,10 +99,10 @@
           <mxGeometry x="-8.009999999999991" y="320" width="77.03" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-1" value="1/4 " style="text;whiteSpace=wrap;align=center;fontFamily=楷体;strokeColor=none;fontSize=18;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="20" width="26.81" height="30" as="geometry" />
+          <mxGeometry x="-530" y="50" width="26.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-2" value="1/8 " style="text;whiteSpace=wrap;align=center;fontFamily=楷体;strokeColor=none;fontSize=18;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="-185.81" y="200" width="26.81" height="30" as="geometry" />
+          <mxGeometry x="-280" y="50" width="26.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-3" value="1/16 " style="text;whiteSpace=wrap;align=center;fontFamily=楷体;strokeColor=none;fontSize=18;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="64.19" y="200" width="26.81" height="30" as="geometry" />

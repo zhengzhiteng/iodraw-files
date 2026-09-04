@@ -145,6 +145,12 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-70" value="灾&lt;div&gt;区&lt;/div&gt;&lt;div&gt;水&lt;/div&gt;&lt;div&gt;深&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-71">
           <mxGeometry x="160" width="30" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-73" value="建&lt;div&gt;筑&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;高&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-74" value="研&lt;div&gt;究&lt;/div&gt;&lt;div&gt;区DEM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="500" y="680" width="30" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

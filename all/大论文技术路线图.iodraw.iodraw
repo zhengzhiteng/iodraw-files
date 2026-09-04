@@ -354,7 +354,7 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-3" value="方法研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-4" value="建筑物提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-4" value="建筑物提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-5" value="永久水体提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">

@@ -13,9 +13,6 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-2" value="灾中阶段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-3" value="第&lt;div style=&quot;font-size: 10px;&quot;&gt;二&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;章&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="630" y="150" width="40" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="281" y="150" width="160" height="90" as="geometry" />
         </mxCell>
@@ -59,12 +56,12 @@
           <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="45" height="90" as="geometry" />
+          <mxGeometry x="170" y="250" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="150" width="45" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-24" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;第&lt;/span&gt;&lt;div style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;二&lt;/div&gt;&lt;div style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;章&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="40" height="80" as="geometry" />
         </mxCell>
       </root>

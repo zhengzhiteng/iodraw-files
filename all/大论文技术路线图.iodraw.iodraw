@@ -180,7 +180,7 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-100" value="研究区灾中&lt;div&gt;洪水信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="440" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-102" value="灾前底图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-102" value="灾&lt;div&gt;前&lt;/div&gt;&lt;div&gt;底&lt;/div&gt;&lt;div&gt;图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="625" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-113" target="XGEH5TVDe156d8JWwBw_-117">

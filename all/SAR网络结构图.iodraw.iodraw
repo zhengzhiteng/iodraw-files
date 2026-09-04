@@ -125,8 +125,11 @@
         <mxCell id="vhokp9MGVtpC4wCgjrSc-11" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度=192&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="-235.87" y="50" width="76.87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vhokp9MGVtpC4wCgjrSc-12" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度=192&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
+        <mxCell id="vhokp9MGVtpC4wCgjrSc-12" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度=384&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="14.129999999999995" y="50" width="76.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhokp9MGVtpC4wCgjrSc-13" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度=384&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="264.13" y="50" width="76.87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

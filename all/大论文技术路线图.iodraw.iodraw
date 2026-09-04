@@ -269,8 +269,9 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-126" value="灾中&lt;div style=&quot;font-size: 14px;&quot;&gt;洪水信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="340" y="730" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-131" target="XGEH5TVDe156d8JWwBw_-136">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-131">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="940" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="890" />
               <mxPoint x="322" y="890" />
@@ -291,9 +292,6 @@
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;fontSize=14;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-83" target="XGEH5TVDe156d8JWwBw_-131">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-136" value="灾中&lt;div style=&quot;font-size: 14px;&quot;&gt;洪水淹没面积及变化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="262" y="940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-137" value="灾中&lt;div style=&quot;font-size: 14px;&quot;&gt;建筑物淹没面积、高度以及受灾等级&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="419.5" y="934" width="120" height="60" as="geometry" />
@@ -319,7 +317,7 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-170" value="典型研究区受灾分析及评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="89" y="720" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-191" value="灾中&lt;div style=&quot;font-size: 14px;&quot;&gt;建筑物淹没面积、高度以及受灾等级&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-191" value="灾中&lt;div style=&quot;font-size: 14px;&quot;&gt;洪水淹没面积及受灾变化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="450" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

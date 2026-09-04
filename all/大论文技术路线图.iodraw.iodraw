@@ -348,6 +348,9 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-4" value="建筑物提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-5" value="建筑物提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

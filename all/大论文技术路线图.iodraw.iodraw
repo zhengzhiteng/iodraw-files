@@ -414,7 +414,7 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-33" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="140" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="1">
@@ -422,9 +422,6 @@
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="640" width="17.5" height="77.5" as="geometry" />
-        </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

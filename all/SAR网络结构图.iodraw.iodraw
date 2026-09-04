@@ -111,7 +111,7 @@
           <mxGeometry x="314.19" y="200" width="26.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-6" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度=96&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="-577.87" y="220" width="69.85" height="60" as="geometry" />
+          <mxGeometry x="-530" y="50" width="67.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-7" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度192&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="-350.5" y="584.24" width="39.85" height="60" as="geometry" />

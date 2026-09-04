@@ -46,8 +46,8 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-18" value="灾前光学数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="730" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="150" width="45" height="90" as="geometry" />
+        <mxCell id="XGEH5TVDe156d8JWwBw_-19" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;光学&lt;/span&gt;&lt;div style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;建&lt;span style=&quot;background-color: initial;&quot;&gt;筑物&lt;/span&gt;&lt;div&gt;数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="250" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-22" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;光学&lt;/span&gt;&lt;div style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;水&lt;span style=&quot;background-color: initial;&quot;&gt;体&lt;/span&gt;&lt;div&gt;数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

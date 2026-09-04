@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-113" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;&lt;div&gt;择&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="271" y="630" width="30" height="140" as="geometry" />
+          <mxGeometry x="271" y="640" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-124" target="XGEH5TVDe156d8JWwBw_-131">
           <mxGeometry relative="1" as="geometry">
@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-124" value="灾前&lt;div&gt;建筑物&lt;span style=&quot;background-color: initial;&quot;&gt;信息&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="490" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-125" target="XGEH5TVDe156d8JWwBw_-131">
           <mxGeometry relative="1" as="geometry" />

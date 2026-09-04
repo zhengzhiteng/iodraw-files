@@ -245,7 +245,7 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-168" value="数据&lt;div&gt;处理&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;及数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;集&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;制&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;作&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="79" y="125" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-169" value="数据&lt;div&gt;处理&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;及数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;集&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;制&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;作&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-169" value="灾前灾中建筑物及水体提取算法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="400" width="60" height="110" as="geometry" />
         </mxCell>
       </root>

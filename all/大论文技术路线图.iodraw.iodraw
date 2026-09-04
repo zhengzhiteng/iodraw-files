@@ -181,7 +181,7 @@
           <mxGeometry x="440" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-102" value="灾前底图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="256" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-113" target="XGEH5TVDe156d8JWwBw_-117">
           <mxGeometry relative="1" as="geometry">

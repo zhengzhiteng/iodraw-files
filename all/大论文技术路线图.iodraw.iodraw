@@ -4,42 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XGEH5TVDe156d8JWwBw_-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="960" y="820" width="160" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-103" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
-          <mxGeometry width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-104" value="灾中淹没信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
-          <mxGeometry x="20.923076923076923" y="50" width="116.9230769230769" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-101" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="420" width="160" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="994" y="260" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="960" y="260" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-5" value="光&lt;div style=&quot;font-size: 10px;&quot;&gt;谱&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;特&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="270" width="30" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-8" value="几&lt;div style=&quot;font-size: 10px;&quot;&gt;何&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;特&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="270" width="30" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-9" value="纹&lt;div style=&quot;font-size: 10px;&quot;&gt;理&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;特&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="270" width="30" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-13" value="光&lt;div style=&quot;font-size: 10px;&quot;&gt;学&lt;div style=&quot;font-size: 10px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="966" y="275" width="24" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-15" value="SAR&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="270" width="30" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-17" value="灾前光学数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="770" y="235" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-18" value="灾前&lt;div&gt;永久&lt;span style=&quot;background-color: initial;&quot;&gt;水体提取&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="120" height="40" as="geometry" />
         </mxCell>
@@ -84,12 +48,6 @@
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-24" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;第&lt;/span&gt;&lt;div style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;二&lt;/div&gt;&lt;div style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;章&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="155" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;strokeColor=#B5739D;" vertex="1" parent="1">
-          <mxGeometry x="760" y="40" width="158" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;strokeColor=#B5739D;" vertex="1" parent="1">
-          <mxGeometry x="918" y="100" width="158" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-28" value="灾前&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;建筑物提取&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="289" y="260" width="120" height="40" as="geometry" />
@@ -177,9 +135,6 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-98" value="研究区灾前&lt;div&gt;建筑物&lt;span style=&quot;background-color: initial;&quot;&gt;信息&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="700" y="643" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-102" value="灾&lt;div&gt;前&lt;/div&gt;&lt;div&gt;底&lt;/div&gt;&lt;div&gt;图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1088.46" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-113" target="XGEH5TVDe156d8JWwBw_-126">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -201,12 +156,6 @@
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-113" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;&lt;div&gt;择&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="271" y="630" width="30" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-122" value="灾&lt;div&gt;中&lt;/div&gt;&lt;div&gt;淹&lt;/div&gt;&lt;div&gt;没&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1060.0030769230768" y="720" width="116.9230769230769" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-123" value="灾前底图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-124" target="XGEH5TVDe156d8JWwBw_-131">
           <mxGeometry relative="1" as="geometry">

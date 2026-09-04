@@ -346,7 +346,7 @@
           <mxGeometry x="320" y="220" width="280" height="260" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="280" height="100" as="geometry" />
+          <mxGeometry y="120" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="280" height="260" as="geometry" />
@@ -397,7 +397,7 @@
           <mxGeometry x="320" y="480" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-23" value="理论探索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-24" value="方法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />

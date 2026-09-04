@@ -7,8 +7,11 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-1" value="灾前阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-2" value="灾前阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-2" value="灾中阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

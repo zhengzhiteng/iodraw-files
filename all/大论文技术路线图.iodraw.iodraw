@@ -52,6 +52,9 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="40" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

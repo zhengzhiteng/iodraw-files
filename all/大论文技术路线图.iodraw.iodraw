@@ -181,7 +181,12 @@
           <mxGeometry x="1088.46" y="630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-113" target="XGEH5TVDe156d8JWwBw_-124">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="700" />
+              <mxPoint x="320" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-113" target="XGEH5TVDe156d8JWwBw_-125">
           <mxGeometry relative="1" as="geometry" />
@@ -205,7 +210,7 @@
           <mxGeometry x="420" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-126" value="灾中&lt;div&gt;洪水信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="740" width="120" height="40" as="geometry" />
+          <mxGeometry x="346" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-131" target="XGEH5TVDe156d8JWwBw_-137">
           <mxGeometry relative="1" as="geometry" />

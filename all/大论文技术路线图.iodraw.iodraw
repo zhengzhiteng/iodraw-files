@@ -67,6 +67,9 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-28" value="灾前&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;建筑物提取&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="299.5" y="260" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-29" target="XGEH5TVDe156d8JWwBw_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-29" value="灾后&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;洪水提取&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="120" height="40" as="geometry" />
         </mxCell>
@@ -74,7 +77,7 @@
           <mxGeometry x="226" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-31" value="特征分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="490" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="335" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-32" value="永久水体提取网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="160" y="390" width="120" height="40" as="geometry" />

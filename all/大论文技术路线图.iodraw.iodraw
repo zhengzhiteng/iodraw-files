@@ -103,33 +103,11 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-34" value="洪水提取网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="490" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-37" target="XGEH5TVDe156d8JWwBw_-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="510" />
-              <mxPoint x="414" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-37" value="水体网络训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-38" target="XGEH5TVDe156d8JWwBw_-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-38" value="建筑物网络训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="294" y="450" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-41" value="多源数据模型库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="354" y="530" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-45" target="XGEH5TVDe156d8JWwBw_-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="552" y="510" />
-              <mxPoint x="414" y="510" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-45" value="洪水网络训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="491.5" y="450" width="120" height="40" as="geometry" />
@@ -145,6 +123,9 @@
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-56" value="多源数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-58" value="水体网络训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -47,7 +47,7 @@
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-18" value="灾前光学数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="316" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

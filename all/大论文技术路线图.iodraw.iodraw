@@ -363,9 +363,6 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-6" value="洪水水体提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-7" value="永久水体提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="910" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-8" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=16;rounded=0;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="60" height="260" as="geometry" />
         </mxCell>
@@ -384,7 +381,7 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="480" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fce5d5;" vertex="1" parent="1">
           <mxGeometry x="20" y="480" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-20" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">

@@ -172,6 +172,9 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-81" value="灾&lt;div&gt;区&lt;/div&gt;&lt;div&gt;水&lt;/div&gt;&lt;div&gt;深&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="680" width="30" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-82" value="辅助数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

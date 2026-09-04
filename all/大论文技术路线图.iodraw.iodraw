@@ -43,7 +43,7 @@
           <mxGeometry x="326.5" y="150" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-20" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;灾前阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-21" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;灾中阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="80" width="120" height="40" as="geometry" />

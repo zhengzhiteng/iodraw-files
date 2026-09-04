@@ -13,6 +13,9 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-104" value="灾中淹没信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
           <mxGeometry x="20.923076923076923" y="50" width="116.9230769230769" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XGEH5TVDe156d8JWwBw_-99" value="研究区灾前&lt;div&gt;永久水体信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-106">
+          <mxGeometry x="-30" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-101" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="600" width="160" height="126" as="geometry" />
         </mxCell>
@@ -137,7 +140,7 @@
           <mxGeometry x="490" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-84" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="620" width="130" height="130" as="geometry" />
+          <mxGeometry x="960" y="600" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-84">
           <mxGeometry width="130" height="130" as="geometry" />
@@ -175,24 +178,13 @@
           <mxGeometry x="58" y="27" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-98" value="研究区灾前&lt;div&gt;建筑物&lt;span style=&quot;background-color: initial;&quot;&gt;信息&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="354" y="630" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-99" value="研究区灾前&lt;div&gt;永久水体信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="354" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="700" y="643" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-100" value="研究区灾中&lt;div&gt;洪水信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="354" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-102" value="灾前底图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="600" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-83" target="XGEH5TVDe156d8JWwBw_-100">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="695" />
-              <mxPoint x="500" y="760" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-113" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;&lt;div&gt;择&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="271" y="660" width="30" height="80" as="geometry" />

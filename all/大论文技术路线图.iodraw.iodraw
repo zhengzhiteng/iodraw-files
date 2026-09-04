@@ -79,8 +79,8 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-35" value="矢量化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="226" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-36" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;灾前阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="90" width="120" height="40" as="geometry" />
+        <mxCell id="XGEH5TVDe156d8JWwBw_-36" value="&lt;span style=&quot;font-family: 楷体; font-size: 10px;&quot;&gt;灾前永久水体精准提取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

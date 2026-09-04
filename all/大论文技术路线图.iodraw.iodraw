@@ -19,16 +19,10 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-5" value="光&lt;div&gt;谱&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-6" value="光&lt;div&gt;谱&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="680" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-7" value="光&lt;div&gt;谱&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="570" width="40" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-8" value="几&lt;div&gt;何&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-9" value="纹&lt;div&gt;理&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XGEH5TVDe156d8JWwBw_-9" value="纹&lt;div&gt;理&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="30" height="80" as="geometry" />
         </mxCell>
       </root>

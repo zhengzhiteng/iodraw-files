@@ -25,8 +25,8 @@
         <mxCell id="XGEH5TVDe156d8JWwBw_-7" value="光&lt;div&gt;谱&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-8" value="光&lt;div&gt;谱&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="380" width="40" height="80" as="geometry" />
+        <mxCell id="XGEH5TVDe156d8JWwBw_-8" value="几何特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="460" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-9" value="纹&lt;div&gt;理&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="505" width="40" height="80" as="geometry" />

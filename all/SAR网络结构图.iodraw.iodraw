@@ -99,7 +99,7 @@
           <mxGeometry x="-8.009999999999991" y="320" width="77.03" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-1" value="1/4 " style="text;whiteSpace=wrap;align=center;fontFamily=楷体;strokeColor=none;fontSize=18;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="50" width="26.81" height="30" as="geometry" />
+          <mxGeometry x="-528" y="50" width="26.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-2" value="1/8 " style="text;whiteSpace=wrap;align=center;fontFamily=楷体;strokeColor=none;fontSize=18;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="-277" y="50" width="26.81" height="30" as="geometry" />
@@ -121,6 +121,9 @@
         </mxCell>
         <mxCell id="vhokp9MGVtpC4wCgjrSc-9" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;768&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="209.5000000000001" y="584" width="39.85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vhokp9MGVtpC4wCgjrSc-11" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;维度=96&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;verticalAlign=middle;fontFamily=楷体;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="-226.87" y="50" width="67.87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

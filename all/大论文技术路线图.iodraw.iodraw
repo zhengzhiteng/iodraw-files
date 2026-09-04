@@ -14,7 +14,7 @@
           <mxGeometry x="600" y="160" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="200" height="120" as="geometry" />
+          <mxGeometry x="300" y="420" width="114" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-5" value="光&lt;div&gt;谱&lt;/div&gt;&lt;div&gt;特&lt;/div&gt;&lt;div&gt;征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="340" y="440" width="30" height="80" as="geometry" />

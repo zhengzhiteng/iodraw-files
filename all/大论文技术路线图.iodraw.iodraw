@@ -137,7 +137,7 @@
           <mxGeometry x="490" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-84" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="890" y="650" width="130" height="130" as="geometry" />
+          <mxGeometry x="130" y="780" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGEH5TVDe156d8JWwBw_-84">
           <mxGeometry width="130" height="130" as="geometry" />
@@ -191,11 +191,6 @@
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-113" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;&lt;div&gt;择&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;fontFamily=楷体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E6%25A5%25B7%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="271" y="660" width="30" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGEH5TVDe156d8JWwBw_-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGEH5TVDe156d8JWwBw_-122">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="880.0000000000002" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="XGEH5TVDe156d8JWwBw_-122" value="灾&lt;div&gt;中&lt;/div&gt;&lt;div&gt;淹&lt;/div&gt;&lt;div&gt;没&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="571.5430769230769" y="750" width="116.9230769230769" height="30" as="geometry" />

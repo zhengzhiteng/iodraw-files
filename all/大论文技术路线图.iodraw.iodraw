@@ -348,7 +348,7 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="20" y="120" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#99FFCC;" vertex="1" parent="1">
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="220" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-3" value="方法研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -366,7 +366,7 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-7" value="永久水体提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-8" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-8" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=16;rounded=0;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="60" height="260" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-10" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">

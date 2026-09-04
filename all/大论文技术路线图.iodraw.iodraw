@@ -372,9 +372,6 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-10" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="220" width="60" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="520" width="160" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-13" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="60" height="100" as="geometry" />
         </mxCell>
@@ -385,19 +382,22 @@
           <mxGeometry x="320" y="120" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="160" height="100" as="geometry" />
+          <mxGeometry x="600" y="480" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="130" width="280" height="100" as="geometry" />
+          <mxGeometry x="40" y="480" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-20" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="60" height="100" as="geometry" />
+          <mxGeometry x="600" y="480" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="280" height="100" as="geometry" />
+          <mxGeometry x="320" y="480" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-22" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="60" height="100" as="geometry" />
+          <mxGeometry x="320" y="480" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-23" value="方法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

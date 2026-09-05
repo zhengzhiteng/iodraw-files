@@ -420,17 +420,14 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
           <mxGeometry x="567" y="146" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
-          <mxGeometry x="475" y="158" width="30" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;rotation=90;fillColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="515" y="200" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;rotation=90;fillColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="515" y="460" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-46" value="建筑物提取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-46" value="异构型建筑物提取方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -436,7 +436,7 @@
           <mxGeometry x="405" y="390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-49" value="为快速智能化流域性洪灾监测以及重点承灾体受灾统计分析提供支持" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="970" y="390" width="130" height="60" as="geometry" />
+          <mxGeometry x="710" y="320" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

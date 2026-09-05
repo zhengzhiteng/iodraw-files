@@ -439,7 +439,10 @@
           <mxGeometry x="710" y="260" width="90" height="180" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-50" value="&lt;font color=&quot;#ffffff&quot;&gt;满足受灾区应急监测的实际业务需求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="450" width="100" height="180" as="geometry" />
+          <mxGeometry x="710" y="440" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-51" value="&lt;font color=&quot;#ffffff&quot;&gt;为快速智能化流域性洪灾监测以及重点承灾体受灾统计分析提供支持&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="270" width="90" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

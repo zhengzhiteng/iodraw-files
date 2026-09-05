@@ -405,7 +405,7 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-26" value="针对洪灾受灾区的洪灾监测及建筑物受灾评估分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-28" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-28" value="数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="400" y="130" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-32" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">

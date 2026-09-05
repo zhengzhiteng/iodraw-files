@@ -441,8 +441,8 @@
         <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-50" value="&lt;font color=&quot;#ffffff&quot;&gt;满足受灾区应急监测的实际业务需求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="440" width="100" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-51" value="&lt;font color=&quot;#ffffff&quot;&gt;洪灾淹没面积及变化&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;建筑物的受灾程度分析&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="250" width="90" height="180" as="geometry" />
+        <mxCell id="uUCWiNqvNRS6Rb2Hz1Rf-51" value="洪灾淹没面积及变化&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建筑物的受灾程度分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="164" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
